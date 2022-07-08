@@ -25,7 +25,7 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KANAL D HD
-https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
+https://kanalddvr.blutv.com/blutv_kanald_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teve2 HD
 https://mn-nl.mncdn.com/blutv_teve2_dvr/live.m3u8
