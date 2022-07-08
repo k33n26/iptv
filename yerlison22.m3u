@@ -13,22 +13,22 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",STAR HD
-https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
+https://startvdvr.blutv.com/blutv_startv_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",NTV HD
-https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
+https://ntvdvr.blutv.com/blutv_ntv_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ATV HD
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SHOW TV HD
-https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8
+https://showtvdvr.blutv.com/blutv_showtv_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KANAL D HD
 https://kanalddvr.blutv.com/blutv_kanald_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teve2 HD
-https://mn-nl.mncdn.com/blutv_teve2_dvr/live.m3u8
+https://teve2dvr.blutv.com/blutv_teve2_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BizimEV TV Belgesel HD 
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
@@ -55,10 +55,10 @@ http://51.210.199.52/hls/stream.m3u8
 https://ssl4.radyotvonline.com/e90tv/e90tvlive/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",DMAX HD
-https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TLC HD
-https://mn-nl.mncdn.com/blutv_tlc_dvr/live.m3u8
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Discovery ID HD
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
@@ -67,19 +67,19 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNN TURK HD 
-https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
+https://cnnturkdvr.blutv.com/blutv_cnnturk_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",HABERTURK HD
-https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",HABER GLOBAL HD
-https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BLOOMBERG HT HD
-https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
+https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV100 HD 
-https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
+https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ulusal TV HD 
 https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m3u8
@@ -108,29 +108,26 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euro D HD
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8 iNT
-https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/playlist.m3u8
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ATV Avrupa
 http://yayin2.tvizlehd.com/atvavrupa.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KANAL 7 HD
-https://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/playlist.m3u8
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KANAL 7 Avrupa HD
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BEYAZ TV HD
-https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",24 TV HD
-https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
+https://kanal24.blutv.com/blutv_kanal24_live/live_720p2000000kbps/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ULKE TV HD
-https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TELE 1 TV
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
