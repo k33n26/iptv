@@ -42,11 +42,17 @@ https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Aktif TV
+http://aktif2830.ozelip.com:30124/aktif/aktif/playlist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euro90 TV
 https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TİMUR MEDYA TV 1
+https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8 
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Aras TV
-http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+https://59cba4d34b678.streamlock.net/canlitv/arastv/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ilk Zirve TV
 https://59cba4d34b678.streamlock.net/canlitv/zirvetv/chunklist.m3u8
@@ -120,9 +126,6 @@ http://51.210.227.137/hls/stream.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",FX TV
 http://51.210.199.52/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ATV Avrupa
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=qlWTy2ptdvcrkxqgDcvxkA&e=1657439107&SessionID=owlotmc0vay2sy1o22cxba2f&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KANAL 7 HD
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
 
@@ -150,6 +153,9 @@ https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",EuroSport 2 HD
 https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/playlist.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport Haber
+https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTA Sports
 http://51.210.227.143/hls/stream.m3u8
 
@@ -158,6 +164,9 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV(1)
+http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",GS TV HD
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
@@ -195,6 +204,9 @@ https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",MSCB KANAL 2000 HD
 http://yerelmedya.tv:1935/kanal2000/bant1/playlist.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Anadolu Dost TV
+https://59cba4d34b678.streamlock.net/canlitv/anadoludosttv/chunklist_w1453008182.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arti TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ArtıTv_Resmi
 
@@ -221,6 +233,12 @@ https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kanal Istanbul
 http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ada TV
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CRI TURK TV
+https://www.guventechnology.com:19360/criturktv/criturktv.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TORBA TV HD 
 https://59cba4d34b678.streamlock.net/canlitv/torbatv/chunklist.m3u8
@@ -288,8 +306,17 @@ https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1
 http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ADD TV
+https://broadcasttr.com:446/addlive/bant1/chunklist_w175037243.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cartoon Network
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Minika Go
+http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Minika Cocuk
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TAY TV HD
 https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
@@ -309,6 +336,9 @@ https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Show Turk
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8,5 
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8 Int
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 
@@ -323,6 +353,9 @@ http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",DIYALOG TV (TV2020) KIBRIS
 https://59cba4d34b678.streamlock.net/canlitv/tv2020/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KTV KIBRIS
+https://play.kibrisfm.com/hls/canli1.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ADA TV KIBRIS
 https://59cba4d34b678.streamlock.net/live2/kibrisadatv.stream/chunklist_w36933870.m3u8?hash=8c0dda7e89e02ef528bcf00d2148a7fc
@@ -348,8 +381,29 @@ http://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",MOR TV
 https://vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TiVi 6
+https://waw3.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ART TV
+https://59cba4d34b678.streamlock.net/canlitv/arttv/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",AS TV
+https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cankiri TV
+https://59cba4d34b678.streamlock.net/canlitv/cankiritv/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tokat TV
+https://cdn10-tokattv.yayin.com.tr/tokattv/tokattv/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Turhal Super TV
+https://59cba4d34b678.streamlock.net/canlitv/tokatsupertv/chunklist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",MARMARIS TV
 https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV 500
+https://tv170.ozelip.com:1936/tv500/tv500/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",MILYON TV
 https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/playlist.m3u8
@@ -362,6 +416,9 @@ http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Adana Metro Turk TV
 http://metrotvadana.radyotvonline.net/metrotv/metrotvhd/chunklist_w842677937.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FRT Fethiye
+https://broadcasttr.com:446/frttv/bant1/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Adıyaman Mercan TV
 http://yerelmedya.tv:1935/mercantv/_definst_/bant1/chunklist.m3u8
@@ -665,6 +722,9 @@ https://59cba4d34b678.streamlock.net/canlitv/koytv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tarim TV
 https://usd.nocvp.com/asset/7Gx7kEbk/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Agro TV
+https://yayin30.haber100.com/live/agrotv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
