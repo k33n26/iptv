@@ -39,7 +39,7 @@ https://mn-nl.mncdn.com/blutv_play1_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Blu TV Play2
 https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Aktif TV
@@ -57,10 +57,10 @@ https://59cba4d34b678.streamlock.net/canlitv/arastv/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ilk Zirve TV
 https://59cba4d34b678.streamlock.net/canlitv/zirvetv/chunklist.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1 HD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1 HD(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=http://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KRT TV HD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KRT TV HD(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/KRTTVCanlıYayın
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",RT1 TV
@@ -156,13 +156,16 @@ https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport Haber
 https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport Haber(Youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/beINSPORTSTürkiye
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTA Sports
 http://51.210.227.143/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SPORTS TV HD
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV(Dailymotion)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV(1)
@@ -171,10 +174,10 @@ http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",GS TV HD
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TIVIBU SPOR
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TIVIBU SPOR(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/TivibuSporTurkTelekom
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",A SPOR
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",A SPOR(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ASpor
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Beyazmedya TV Belgesel
@@ -207,7 +210,7 @@ http://yerelmedya.tv:1935/kanal2000/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Anadolu Dost TV
 https://59cba4d34b678.streamlock.net/canlitv/anadoludosttv/chunklist_w1453008182.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arti TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arti TV(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ArtıTv_Resmi
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Istanbul TV
@@ -762,29 +765,32 @@ https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",AA Live
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Medya Haber TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Medya Haber TV(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/MedyaHaber1
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CGTN Documantery
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CGTN 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CGTN(Youtube) 
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/CGTNEurope
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNA News
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNA News(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/channelnewsasia
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",DW NEWS English
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",DW NEWS English(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=http://www.youtube.com/user/deutschewelleenglish
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NEWS 12
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NEWS 12(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/news12
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NHK WORLD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NHK WORLD(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/NHKWORLDJAPAN
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Citizen TV Kenya
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Citizen TV Kenya(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/kenyacitizentv
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BiZ TV Ozbekistan
 https://st.biztv.uz/hls/stream_hi/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",This is Bulgaria
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
