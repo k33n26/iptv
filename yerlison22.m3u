@@ -768,6 +768,12 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Medya Haber TV(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/MedyaHaber1
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNN International Germany 
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MNB world
+https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CGTN Documantery
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
@@ -776,6 +782,24 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNA News(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/channelnewsasia
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euronews German
+https://euronews.alteox.app/hls/de_stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euronews Portuguese
+https://euronews.alteox.app/hls/pt_stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euronews Italian
+https://euronews.alteox.app/hls/it_stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euronews Russian
+https://euronews.alteox.app/hls/ru_stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euronews Spanish
+https://euronews.alteox.app/hls/es_stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",DW NEWS English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",DW NEWS English(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=http://www.youtube.com/user/deutschewelleenglish
@@ -789,8 +813,86 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Citizen TV Kenya(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/kenyacitizentv
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KBS World 
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BiZ TV Ozbekistan
 https://st.biztv.uz/hls/stream_hi/index.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MavTV Select 
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NHK World Premium
+https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",This is Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CCTV 9
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HDL
+https://sc.id-tv.kz/hdl.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tunisie Immobilier TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV Brasil
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Pluto TV Animaux
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Better Life Nature Channel
+https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Travel Guide TV
+https://cdn10.live-tv.od.ua:8083/leonovtv/test1/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Insight TV
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Stingray Naturescape
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Relaxing Rain
+https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Island Escape 
+https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Fish Tank 
+https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Waterfalls Live 
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Tropics Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Sunset Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Rivers Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Mountain Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Lake Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Forest Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Beaches Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Aurora Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
