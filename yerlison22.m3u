@@ -896,3 +896,229 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Wilder Planet
+https://amg00477-samsunguk-wilderplanet-samsunguk-samsunguk-yt0go.amagi.tv/playlist/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Rakuten TV
+https://e4c3186527294735b034e99058776780.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=431&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",art-tv-ch
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/195bc34d-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Auto Motor Sport Channel
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/31209ff0-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC Food
+https://c367ab159c494e0daa775bd24aac404d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCFood/playlist.m3u8?ads.wurl_channel=1016&ads.wurl_name=BBCFood&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cine Mix
+https://d25ai5zwjx4rs9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o79t9b0wedtb0-prod/amgcinemix/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Absinthe TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/52cb6c9d-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC History
+https://7a0978fa08424aa3b473d22dc144bd01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCHistory/playlist.m3u8?ads.wurl_channel=947&ads.wurl_name=BBCHistory&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC Travel
+https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bloomberg + 4K
+https://6fae2fb516504b2eaa11e5eb1e48bf1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Charlie Chaplin TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bad234c1-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Fabella TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/fca9f5ec-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Focus TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f67c7d68-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FTF TV
+https://7fffe3f012a842fcaf3303e75eec1028.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FTFNextInternational/playlist.m3u8?ads.wurl_channel=277&ads.wurl_name=FTFNextInternational&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Fuel TV
+https://1d289f506bff499fb16f39c4a07f3d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FuelTV/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Insight TV
+https://samsunguk-insighttv-german-samsungtv-uk-elt33.amagi.tv/playlist/samsunguk-insighttv-german-samsungtv-uk/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Inwonder TV
+https://samsunguk-inwonder-german-samsungtv-uk-008hw.amagi.tv/playlist/samsunguk-inwonder-german-samsungtv-uk/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Iz TV
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/165597
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Habitat TV
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/416905
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Science Vie TV
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/384160
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Trek
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/384159
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC Earth
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/12511
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Animaux
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/384166
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Discovery Channel
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/1528
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Discovery Science
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/1529
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geo
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/301271
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geo Wild
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/240520
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Da Vinci
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/123305
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Love Nature
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/235098
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",History Channel
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/2630
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Viasat History
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/136628
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Chasse Peche
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/384164
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Docubox
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/350386
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Gurme
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/130841
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ID Extra
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/289003
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTG
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/293825
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Outdoor Channel
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/1007
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Nicktoons
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/260
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Nick Jr
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/6041
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Nickelodeon
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/6053
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CBeebies
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/155571
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Boomerang
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/176631
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Disney Junior
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/7959
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kemal Sunal 1
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/138595
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kemal Sunal 2
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/162406
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kemal Sunal 3
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/162589
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kemal Sunal 4
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/318426
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Movies Turk
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/132710
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Max 4K
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/329697
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Max
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/329696
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NeoCine Zor Olum
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/318421
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Epic Drama
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/412590
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport 1
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/224566
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport 2
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/631
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport 3
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/177940
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport 4
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/123298
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport Max1
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/162818
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport Max2
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/162819
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SporSmart
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/6050
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SporSmart2
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/236111
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",S Sport
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/115503
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",S Sport 2
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/299043
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TivibuSpor 2
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/6049
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TivibuSpor 3
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/198443
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TivibuSpor 4
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/386687
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TivibuSpor 5
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/399025
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",EuroSport 1
+http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/7177
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
