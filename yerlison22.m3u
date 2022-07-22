@@ -756,6 +756,21 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Medya Haber TV(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/MedyaHaber1
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ALTIN ASIR TV-Turkmenistan
+https://alpha.tv.online.tm/hls/ch001_720/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Yaslyk-Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Turkmenistan TV
+http://alpha.tv.online.tm/hls/ch007_720/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Turkmen SPORT-Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ASGABAT TV-Turkmenistan
+https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",3Sat Almanya
 https://s4.hopslan.com/3sat/tracks-v1a1/mono.m3u8?token=4156dc59719ecfabcec9d5e6e6c685e60f226cce-ef6f6b14dca26e3943bf81a83c50e177-1658517628-1658506828
 
@@ -798,8 +813,47 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Deutsche Welle Almanya 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Mega TV Yunanistan
+https://streamcdnm2-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Skai TV Yunanistan
+https://skai-live.siliconweb.com/media/cambria4/index_bitrate1200K.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Alpha TV Yunanistan
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Art TV Yunanistan
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/fbp5lvnb/2728/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sigma TV Yunanistan
+https://sl2.sigmatv.com/hls/live.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Open Beyond Yunanistan
+http://tv3.streampulse.eu:1935/tilesport/movie2/chunklist_w945321250.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT News Yunanistan
 https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_newsmedium.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV Creta-Yunanistan
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ionian Channel-Yunanistan
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NEA TV-Yunanistan
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV100-Yunanistan
+https://live.fm100.gr/hls/tv100/1_2/index.m3u8?sessId=26836
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NET TV-Yunanistan
+http://live.streams.ovh:1935/NetvToronto/NetvToronto/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Rik Sat Cy-Yunanistan
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT World-Yunanistan
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/manifest.mpd
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",APA Tv Azerbaycan
 https://rtmp.apa.tv/@pagroup!23.m3u8
@@ -809,6 +863,27 @@ http://cdn1-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",MNB world
 https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Västmanlands TV-isvec
+https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Red Bull HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SONY ONE-G.Kore
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Galicia TV-ispanya
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Galicia TV Infantil-ispanya
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BX1 TV-Belcika
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CGTN Documantery
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -821,6 +896,12 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euronews German
 https://euronews.alteox.app/hls/de_stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",METRO NEWS HD-Endonezya
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w911984136_b1492000_sleng.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNN INDONESIA HD-Endonezya
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w564801737_b384000_sleng.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",DW NEWS English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -843,8 +924,8 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BiZ TV Ozbekistan
 https://st.biztv.uz/hls/stream_hi/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MavTV Select 
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",XPLORE TV-Yunanistan 
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
@@ -873,7 +954,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Better Life Nature Channel
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Travel Guide TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Travel Guide TV Ukrayna
 https://cdn10.live-tv.od.ua:8083/leonovtv/test1/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Insight TV
@@ -932,6 +1013,66 @@ https://samsunguk-insighttv-german-samsungtv-uk-elt33.amagi.tv/playlist/samsungu
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Inwonder TV
 https://samsunguk-inwonder-german-samsungtv-uk-008hw.amagi.tv/playlist/samsunguk-inwonder-german-samsungtv-uk/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTG HD Rusya
+https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SIBERIA HD Rusya
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",VMESTE-RF TV FHD-Rusya
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MIR TV FHD-Rusya
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MIR PREMIUM FHD-Rusya
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sochi Live HD-Rusya
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Raj TV-Slovakya
+http://ottst05.flexitv.sk/2827-tv-pc.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Key TV-USA
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Atlanta Channel-USA
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ANTV-Vietnam
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ca Mau TV-Vietnam
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Da Nang TV1-Vietnam
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Premium 1-Ermenistan
+http://ott-cdn.ucom.am/s83/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Premium 2-Ermenistan
+http://ott-cdn.ucom.am/s22/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Premium 3-Ermenistan
+http://ott-cdn.ucom.am/s42/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Premium 4-Ermenistan
+http://ott-cdn.ucom.am/s32/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Premium 5-Ermenistan
+http://ott-cdn.ucom.am/s46/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Premium 6-Ermenistan
+http://ott-cdn.ucom.am/s66/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RAU TV-Ermenistan
+http://ott-cdn.ucom.am/s53/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TAVA ATV-Ermenistan
+http://ott-cdn.ucom.am/s53/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Iz TV
 http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/165597
