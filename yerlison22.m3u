@@ -768,8 +768,56 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Medya Haber TV(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/MedyaHaber1
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNN International Germany 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",3Sat Almanya
+https://s4.hopslan.com/3sat/tracks-v1a1/mono.m3u8?token=4156dc59719ecfabcec9d5e6e6c685e60f226cce-ef6f6b14dca26e3943bf81a83c50e177-1658517628-1658506828
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",WDR Almanya
+https://mcdn.wdr.de/wdr/wdrfs/weltweit/master-1080p-5000.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NDR Almanya
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master_720.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Alpha TV Almanya
+https://mcdn.br.de/br/fs/ard_alpha/hls/int/master_1280p_3328.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",hr-fernshen Almanya
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-720p-3628.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",br-fernshen Almanya
+https://mcdn.br.de/br/fs/bfs_sued/hls/int/master_1280p_3328.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",sr-fernshen Almanya
+https://srfs.akamaized.net/hls/live/689649-b/srfsgeo/master-720p-3328.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sachsen1-fernshen Almanya
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/chunks.m3u8?nimblesessionid=7568602
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sachsen-Vogtland-fernshen Almanya
+https://vogtland.iptv-playoutcenter.de/vogtland/vogtlandfernsehen.stream_1/chunks.m3u8?nimblesessionid=7568715
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sachsen-Leipzig-fernshen Almanya
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/chunks.m3u8?nimblesessionid=310062705
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tagesschau 24 Almanya
+https://tagesschau.akamaized.net/hls/live/2020115-b/tagesschau/tagesschau_1/master_720.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Das Erste 1 Almanya
+https://mcdn.daserste.de/daserste/int/master_1280p_3200.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNN International Almanya 
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Deutsche Welle Almanya 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT News Yunanistan
+https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_newsmedium.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",APA Tv Azerbaycan
+https://rtmp.apa.tv/@pagroup!23.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Umid Tv Azerbaycan
+http://cdn1-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",MNB world
 https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
@@ -785,18 +833,6 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euronews German
 https://euronews.alteox.app/hls/de_stream.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euronews Portuguese
-https://euronews.alteox.app/hls/pt_stream.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euronews Italian
-https://euronews.alteox.app/hls/it_stream.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euronews Russian
-https://euronews.alteox.app/hls/ru_stream.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Euronews Spanish
-https://euronews.alteox.app/hls/es_stream.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",DW NEWS English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -861,41 +897,8 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Stingray Naturescape
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Relaxing Rain
-https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Island Escape 
-https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Fish Tank 
-https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Waterfalls Live 
-https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Tropics Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Sunset Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Rivers Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Mountain Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Lake Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Forest Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Beaches Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bumblebee TV Aurora Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Travel XP
+https://dd87bd3119dc4cbca8c31c3f5d127aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_TravelXP/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Wilder Planet
 https://amg00477-samsunguk-wilderplanet-samsunguk-samsunguk-yt0go.amagi.tv/playlist/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
