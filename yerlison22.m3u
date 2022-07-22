@@ -771,6 +771,12 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ASGABAT TV-Turkmenistan
 https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CLARITY 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",3Sat Almanya
 https://s4.hopslan.com/3sat/tracks-v1a1/mono.m3u8?token=4156dc59719ecfabcec9d5e6e6c685e60f226cce-ef6f6b14dca26e3943bf81a83c50e177-1658517628-1658506828
 
