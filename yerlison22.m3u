@@ -897,6 +897,15 @@ https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT World-Yunanistan
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/manifest.mpd
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Stv 1-Slovakya
+https://n14.stv.livebox.sk/stv-tv/32c28fd4d0092af6949de1270d67c344/stv1.smil/chunklist_b5251072.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Stv 2-Slovakya
+https://n16.stv.livebox.sk/stv-tv/c5f6a9773e5201c1a60628d3268a2d01/stv2.smil/chunklist_b5251072.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Stv 24-Slovakya
+https://n13.stv.livebox.sk/stv-tv/3ba4f884dbfcae25433418cf7389cbea/stv3.smil/chunklist_b5251072.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",APA Tv Azerbaycan
 https://rtmp.apa.tv/@pagroup!23.m3u8
 
