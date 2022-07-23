@@ -30,6 +30,12 @@ https://kanalddvr.blutv.com/blutv_kanald_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teve2 HD
 https://teve2dvr.blutv.com/blutv_teve2_dvr2/live_720p2000000kbps/index.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8 HD(1)
+https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BizimEV TV Belgesel HD 
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 
@@ -56,6 +62,9 @@ https://59cba4d34b678.streamlock.net/canlitv/arastv/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ilk Zirve TV
 https://59cba4d34b678.streamlock.net/canlitv/zirvetv/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BaskanTV
+https://tv170.ozelip.com:1936/baskantv/baskantv/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1 HD(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=http://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live
@@ -96,6 +105,9 @@ https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ulusal TV HD 
 https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Flash Haber HD 
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT TURK HD
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
@@ -135,6 +147,9 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BEYAZ TV HD
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",A Haber HD
+https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
@@ -170,6 +185,9 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymo
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV(1)
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV(Filbox)
+https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",GS TV HD
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
@@ -215,6 +233,9 @@ http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",em TV 
 http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Medya 24 TV 
+https://yayin2.medya24.com:1947/medya24/live/chunklist_w738076911.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",UrFanatik TV 
 http://yerelmedya.tv:1935/urfanatiktv/bant1/chunks.m3u8
@@ -461,12 +482,6 @@ http://yerelmedya.tv:1935/kanal3/_definst_/bant1/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ankara TR6 TV
 https://5be5d840359c6.streamlock.net/tr6tv/tr6tv/chunklist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ankara CayYolu TV
-https://tvplayeri.xyz/m3u8/1fb75d461839649c2445c0ff4ed71e69/chunklist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ankara Siteler TV
-https://5be5d840359c6.streamlock.net/sitelertv/sitelertv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Antalya ATV Alanya
 https://broadcasttr.com:446/alanyatv/bant1/chunklist.m3u8
@@ -819,6 +834,27 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Deutsche Welle Almanya 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arte Almanya(vpn)
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",rbb Almanya(vpn)
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master-1080p-5128.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SWR Almanya(vpn)
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-720p-3328.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MDR Almanya(vpn)
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",3sat Almanya(vpn)
+https://zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/cec412c32ff8d885c77b933fc1ccb6fc/3/3.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Phoenix Almanya(vpn)
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/21aace6e45664fdde34903079ed0986c/4/4.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KiKA Almanya(vpn)
+https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master-1080p-5128.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Mega TV Yunanistan
 https://streamcdnm2-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
 
@@ -828,13 +864,13 @@ https://skai-live.siliconweb.com/media/cambria4/index_bitrate1200K.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Alpha TV Yunanistan
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Art TV Yunanistan
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Open Beyond Yunanistan
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/fbp5lvnb/2728/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sigma TV Yunanistan
 https://sl2.sigmatv.com/hls/live.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Open Beyond Yunanistan
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Art TV Yunanistan
 http://tv3.streampulse.eu:1935/tilesport/movie2/chunklist_w945321250.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT News Yunanistan
@@ -948,6 +984,9 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",HDL
 https://sc.id-tv.kz/hdl.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HDL FHD
+http://streamer.crimea-tv.net/HD_Life/video.m3u8?token=9d3cc59e
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tunisie Immobilier TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
 
@@ -962,6 +1001,51 @@ https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Travel Guide TV Ukrayna
 https://cdn10.live-tv.od.ua:8083/leonovtv/test1/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",T-Belgesel Ukrayna
+http://cdnua06.hls.tv/476/hls/2k815tzrsouxvebw97yg6dnfmpqih3c0/454/stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Meta Tv Ukrayna
+http://cdnua06.hls.tv/476/hls/dztg0ik24c36frpjb5q8usevo7l1m9xa/123/stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Fish Tv Ukrayna
+http://cdnua06.hls.tv/476/hls/26czd5a3yufl7wh1oqitjr8kgbv9x40n/4768/stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Animal Planet Ukrayna
+http://cdnua06.hls.tv/476/hls/lofksujyxti7d18v52ge4qpcwhrmb9z3/4706/stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Travel Channel Ukrayna
+http://cdnua06.hls.tv/476/hls/yeqh2ls7g0x8za614j9owcm5rut3pvkb/307/stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Travel Channel(1) Ukrayna
+http://85.206.57.253:8981/a44/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Setenta Sport Ukrayna
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Setenta Sport+ Ukrayna
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4314/stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Setenta Sport 1
+http://85.206.57.253:8981/l63/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",DTX Ukrayna
+http://85.206.57.253:8981/a78/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Viasat Nature Ukrayna
+http://85.206.57.253:8981/a59/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TravelXP Ukrayna
+http://85.206.57.253:8981/a158/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sea TV Ukrayna
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4251/stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Travel & Adventure Rusya
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Nautical Channel Ukrayna
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4245/stream.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Insight TV
 https://insighttv-vizio.amagi.tv/playlist.m3u8
@@ -1023,6 +1107,9 @@ https://samsunguk-inwonder-german-samsungtv-uk-008hw.amagi.tv/playlist/samsunguk
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTG HD Rusya
 https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTG HD
+http://streamer.crimea-tv.net/RTGHD/video.m3u8?token=9d3cc59e
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SIBERIA HD Rusya
 https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
 
@@ -1079,6 +1166,63 @@ http://ott-cdn.ucom.am/s53/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TAVA ATV-Ermenistan
 http://ott-cdn.ucom.am/s53/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ntv Almanya
+http://185.234.217.21:8001/play/a026/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTL Almanya
+http://185.234.217.21:8001/play/a024/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTL+ Almanya
+http://185.234.217.21:8001/play/a028/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kabel Eins Doku Almanya
+http://185.234.217.21:8005/play/a029/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ProSieben HD Almanya
+http://185.234.217.21:8005/play/a025/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",PULS 24 HD Almanya
+http://185.234.217.21:8006/play/a027/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",20 Mediaset Italya
+http://185.234.217.21:8019/play/a04f/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",27 Mediaset Italya
+http://185.234.217.21:8019/play/a04s/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",34 Mediaset Italya
+http://185.234.217.21:8019/play/a04c/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Focus Mediaset Italya
+http://185.234.217.21:8019/play/a04r/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Iris Mediaset Italya
+http://185.234.217.21:8019/play/a04j/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",La5 Mediaset Italya
+http://185.234.217.21:8019/play/a04l/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Mediaset Extra Italya
+http://185.234.217.21:8019/play/a04n/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Mediaset Italia Due Italya
+http://185.234.217.21:8019/play/a04o/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Mediaset Top Crime Italya
+http://185.234.217.21:8019/play/a04p/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Boeing Italya
+http://185.234.217.21:8019/play/a04k/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Italia 1 Italya
+http://185.234.217.21:8019/play/a04h/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Canale 5 Italya
+http://185.234.217.21:8019/play/a04g/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Rete 4 Italya
+http://185.234.217.21:8019/play/a04i/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Iz TV
 http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/165597
