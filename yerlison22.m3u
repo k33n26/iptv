@@ -786,14 +786,158 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ASGABAT TV-Turkmenistan
 https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CCTV4 (youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/ChineseInternatioify
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CTV Taiwan (youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FTV Taiwan (youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UClIfopQZlkkSpM1VgCFLRJA
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SET News Taiwan (youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/setnews159
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CTI Taiwan (youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/ctitv
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SDTV 04CH Taiwan (youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCBWzi-vMywDa05QYA2jHxwQ
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",YTN Science Korea (youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/ytnscience
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Channel 23 Korea(youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ANN JapaNews 24 Japan(youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/ANNnewsCH
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Africanews (youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NTVUganda (youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/ntvuganda
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KTN News Kenya(youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/standardgroupkenya
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Joy News Ghana(youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/myjoyonlinetube
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ADOM TV Ghana(youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/adomtvtube
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NBC2 South West Florida(youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/NBC2swfl
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CLARITY 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC ONE- UK
+https://uksono1-samsunguk.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC TWO Spark- UK
+https://sparktv-samsunguk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Fox News USA
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNN INT USA
+http://1942468522.rsc.cdn77.org/VsHU22D1q5evXIkfHxRcRw==,1658788904/1942468522/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RaiNews 24 Italya
+https://streamcdnm1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Telesur HD Venezuela
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ORF1 Avusturya
+https://s6.hopslan.com/orf1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Servus Avusturya
+https://s6.hopslan.com/servus/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tirol TV Avusturya
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Landle TV Avusturya
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ZDF Almanya
+https://s6.hopslan.com/zdfg1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ZDF Info Almanya
+https://s6.hopslan.com/zdfinfo/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ZDF Neo Almanya
+https://s6.hopslan.com/zdfneo/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arte Almanya
+https://s4.hopslan.com/arte/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",3Sat Almanya
-https://s4.hopslan.com/3sat/tracks-v1a1/mono.m3u8?token=4156dc59719ecfabcec9d5e6e6c685e60f226cce-ef6f6b14dca26e3943bf81a83c50e177-1658517628-1658506828
+https://s4.hopslan.com/3sat/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Welt Almanya
+https://s6.hopslan.com/n24/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ntv Almanya
+https://s6.hopslan.com/ntvv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sat 1 Almanya
+https://s6.hopslan.com/sat1q1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",VOX Almanya
+https://s6.hopslan.com/voxq1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTL Almanya
+https://s6.hopslan.com/rtlr1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kabel 1 Almanya
+https://s6.hopslan.com/kabel1q1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kabel 1 Doku Almanya
+https://s6.hopslan.com/doku/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTL II Almanya
+https://s6.hopslan.com/rtl2q1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTL Nitro Almanya
+https://s6.hopslan.com/nitrov/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sat Gold Almanya
+https://s6.hopslan.com/goldc/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 5 Almanya
+https://s6.hopslan.com/tele5c/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Dmax Almanya
+https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Phoenix Almanya
+https://s4.hopslan.com/phoenix/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Disney Channel Almanya
+https://s6.hopslan.com/disneyc/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",rbb Almanya
+https://s4.hopslan.com/rbb/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",WELT DER WUNDER Almanya
+https://s4.hopslan.com/wunder/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SWR Almanya
+https://s4.hopslan.com/swr/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MDR Almanya
+https://s4.hopslan.com/mdr/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Alex Berlin Almanya
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/chunklist_b4192000_slGER.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",WDR Almanya
 https://mcdn.wdr.de/wdr/wdrfs/weltweit/master-1080p-5000.m3u8
@@ -812,6 +956,30 @@ https://mcdn.br.de/br/fs/bfs_sued/hls/int/master_1280p_3328.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",sr-fernshen Almanya
 https://srfs.akamaized.net/hls/live/689649-b/srfsgeo/master-720p-3328.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MDF1 Almanya
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/chunklist_w459912777.m3u8?ref=www.mdf1.de&seid=143590
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RAN1 Almanya
+http://62.113.210.250:1935/medienasa-live/ran1_high/chunklist_w205236740.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Augsburg TV Almanya
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/chunklist_b3628000.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Munchen TV Almanya
+https://stream02.welocal.stream/stream/fhd-muenchentv_365036/ngrp:stream_all/chunklist_b3628000.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RFO Almanya
+https://stream01.welocal.stream/stream/fhd-rfo_66876/ngrp:stream_all/chunklist_b3628000.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Niederbayern TV Almanya
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/chunklist_b3628000.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TVA Almanya
+https://stream02.welocal.stream/stream/fhd-tvaktuell_385673/ngrp:stream_all/chunklist_b3628000.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Franken Plus Almanya
+https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/chunklist_b3628000.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sachsen1-fernshen Almanya
 https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/chunks.m3u8?nimblesessionid=7568602
@@ -833,27 +1001,6 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Deutsche Welle Almanya 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arte Almanya(vpn)
-https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",rbb Almanya(vpn)
-https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master-1080p-5128.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SWR Almanya(vpn)
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-720p-3328.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MDR Almanya(vpn)
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",3sat Almanya(vpn)
-https://zdf-hls-18.akamaized.net/hls/live/2016501-b/dach/cec412c32ff8d885c77b933fc1ccb6fc/3/3.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Phoenix Almanya(vpn)
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/21aace6e45664fdde34903079ed0986c/4/4.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KiKA Almanya(vpn)
-https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master-1080p-5128.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Mega TV Yunanistan
 https://streamcdnm2-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
@@ -935,6 +1082,9 @@ http://infantil-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BX1 TV-Belcika
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HKSTV Hong Kong
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CGTN Documantery
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
