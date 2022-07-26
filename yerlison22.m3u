@@ -831,11 +831,26 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",NBC2 South West Florida(youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/NBC2swfl
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Canal26 Arjantin(youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/canal26
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Telefe Salta Arjantin(youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CLARITY 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RT Documentry Rusya
+https://rtmp.api.rt.com/hls/rtdru.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV Publica Moldova
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",AT5 Hollanda
+https://rrr.sz.xlcdn.com/?account=atvijf&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC ONE- UK
 https://uksono1-samsunguk.amagi.tv/playlist1080p.m3u8
@@ -854,6 +869,24 @@ https://streamcdnm1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rain
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Telesur HD Venezuela
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ABC TV Paraguay
+https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Unicanal Paraguay
+http://45.55.127.106/live/unicanal_mid.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TeleFuturo Paraguay
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/chunklist_w1782836344.m3u8?k=5584d8e61f7a7f02b4b81326d06b109591d8e9dbd3a7556bc3eca23953e93816&exp=1658822415
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Abyayala TV Bolivya
+https://5fc584f3f19c9.streamlock.net/televisionhd/videotelevisionhd/chunklist_w1217698467.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Telepacifico TV Kolombiya
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SescTV Sao Paulo Brezilya
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ORF1 Avusturya
 https://s6.hopslan.com/orf1/tracks-v1a1/mono.m3u8
@@ -980,15 +1013,6 @@ https://stream02.welocal.stream/stream/fhd-tvaktuell_385673/ngrp:stream_all/chun
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Franken Plus Almanya
 https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/chunklist_b3628000.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sachsen1-fernshen Almanya
-https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/chunks.m3u8?nimblesessionid=7568602
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sachsen-Vogtland-fernshen Almanya
-https://vogtland.iptv-playoutcenter.de/vogtland/vogtlandfernsehen.stream_1/chunks.m3u8?nimblesessionid=7568715
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sachsen-Leipzig-fernshen Almanya
-https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/chunks.m3u8?nimblesessionid=310062705
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tagesschau 24 Almanya
 https://tagesschau.akamaized.net/hls/live/2020115-b/tagesschau/tagesschau_1/master_720.m3u8
