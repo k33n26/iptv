@@ -48,6 +48,9 @@ https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(Youtube)2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Aktif TV
 http://aktif2830.ozelip.com:30124/aktif/aktif/playlist.m3u8
 
@@ -69,14 +72,29 @@ https://tv170.ozelip.com:1936/baskantv/baskantv/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1 HD(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=http://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1 HD(Youtube)2
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KRT TV HD(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/KRTTVCanlıYayın
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KRT TV HD(Youtube)2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/KRTTVCanlıYayın
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV HD(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/Halktvkanali
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV HD(Youtube)2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Halktvkanali
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arti TV(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ArtıTv_Resmi
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arti TV(Youtube)2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ArtıTv_Resmi
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Zanka TV(Youtube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ZankaTVonline
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV HD
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
@@ -192,6 +210,9 @@ https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport Haber(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/beINSPORTSTürkiye
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport Haber(Youtube)2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/beINSPORTSTürkiye
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTA Sports
 http://51.210.227.143/hls/stream.m3u8
 
@@ -200,6 +221,9 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV(Dailymotion)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV(Dailymotion)2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV(1)
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
@@ -213,8 +237,12 @@ http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TIVIBU SPOR(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/TivibuSporTurkTelekom
 
+http://free.fullspeed.tv/iptv-query?streaming-ip=
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",A SPOR(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ASpor
+
+http://free.fullspeed.tv/iptv-query?streaming-ip=
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Beyazmedya TV Belgesel
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-belgesel/index.m3u8
@@ -851,6 +879,12 @@ https://rtmp.api.rt.com/hls/rtdru.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV Publica Moldova
 http://livebeta.publika.md/LIVE/P/6810.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV5 Monde Fransa
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC America
+https://epg.pm/stream/d842c8a9ed3ebd52417492b22e66c2445a1017567f2b8305892cb7b7e8a17b3b.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",AT5 Hollanda
 https://rrr.sz.xlcdn.com/?account=atvijf&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
