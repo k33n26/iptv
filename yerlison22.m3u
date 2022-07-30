@@ -237,12 +237,14 @@ http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TIVIBU SPOR(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/TivibuSporTurkTelekom
 
-http://free.fullspeed.tv/iptv-query?streaming-ip=
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TIVIBU SPOR(Youtube)2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TivibuSporTurkTelekom
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",A SPOR(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ASpor
 
-http://free.fullspeed.tv/iptv-query?streaming-ip=
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",A SPOR(Youtube)2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ASpor
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Beyazmedya TV Belgesel
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-belgesel/index.m3u8
@@ -1267,8 +1269,14 @@ http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Nautical Channel Ukrayna
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4245/stream.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Earth TV
+https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge3/cdnedge/HicYJzEAB5E/chunklist.m3u8?token=EAIY6wE41tXvRECkIUgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.L5mFfHTNcfFl5r1DZCZh5Bx0D2Q_YDq7f7fHgqs0vLdXM2W4LmFGhjAPfG8uFkadI6SpcyjcYvo85bqfxpxAzw&domain=www.earthtv.com
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Insight TV
 https://insighttv-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",1 TV Rusya
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=6629500d2dbfd5d4bb54110b620706c6
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Stingray Naturescape
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
@@ -1443,6 +1451,9 @@ http://185.234.217.21:8019/play/a04g/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Rete 4 Italya
 http://185.234.217.21:8019/play/a04i/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Rete 4 Italya
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/chunklist_w708932169_b1155072.m3u8?WebM3UCL
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Iz TV
 http://dcsport.xyz:8080/HakanKara300/K52d0iEPi3/165597
