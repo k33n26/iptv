@@ -3,5 +3,11 @@
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ciplak Vatandas-Sener Sen
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BIJMcUsFFt4
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Gulen Adam-Kemal Sunal
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ciplak Vatandas-Sener Sen(2)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BIJMcUsFFt4
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",iNatci-Kemal Sunal
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=X1sL0IMFzP8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",iNatci-Kemal Sunal(2)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=X1sL0IMFzP8
