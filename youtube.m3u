@@ -1,13 +1,158 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ciplak Vatandas-Sener Sen
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Zugurt Aga(1985)-Sener Sen
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_wFa6mIewFo
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Degirmen(1986)-Sener Sen
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=d7HBuxJYGbg
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Namuslu(1984)-Sener Sen
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=s4Bu9suUTPs
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ciplak Vatandas(1985)-Sener Sen
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BIJMcUsFFt4
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ciplak Vatandas-Sener Sen(2)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BIJMcUsFFt4
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sari Mercedes(1992)-Ilyas Salman
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=pxWuerGygbs
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",iNatci-Kemal Sunal
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Talihli Amele(1980)-Ilyas Salman
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ERAXCGZ8Las
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",iNatci(1988)-Kemal Sunal
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=X1sL0IMFzP8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",iNatci-Kemal Sunal(2)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=X1sL0IMFzP8
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Talih Kusu(1989)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=WdGv4-VTCLI
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Korkusuz Korkak(1979)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CrWFANbYJXU
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Atla Gel Saban(1984)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=G7oxi4tq0Bk
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Orta Direk Saban(1984)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=IpNb0BwkI2M
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Katma Deger Saban(1985)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=aMDcX2tG-NM
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Polizei(1988)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RPBofKLiBzU
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Yoksul(1986)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xfn2PgMDYxw
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Uckagitci(1981)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=6xVREEH66iw
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tokatci(1983)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=GOZ7Waq9VkQ
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sahte Kabadayi(1976)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-XhQVr0rg6c
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sark Bulbulu(1979)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=rRDBKB6NHuY
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Gerzek Saban(1980)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=lTf-lxBbeFY
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sabaniye(1984)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=eedUtTFLYsQ
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sen Dul Saban(1985)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RCcO3Zh4ths
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sosyete Saban(1985)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4EJ62o4u4ug
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Merakli Kofteci(1976)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-ucnLbAmfTQ
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban Pabucu Yarim(1985)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=G62FPi5NYsU
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",En Buyuk Saban(1983)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=bOu4OJaA1Wc
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Davaci(1986)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=pQ9GgiPPYnc
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sevimli Hirsiz(1988)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=8eSZHKpr4Kg
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Carikli Milyoner(1983)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=GICo5W3fEaw
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Avanak Apti(1978)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=aQuDq8w2MXQ
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Abuk Subuk Bir Film(1990)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=0ME6gEQWdSI
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Gulen Adam(1989)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=So6b5qua_zc
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tarzan Rifki(1986)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=WE0tU8cJ1Ps
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Koltuk Belasi(1990)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=9wOPLOm0Dlc
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sakar Sakir(1977)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4J3ulqHkgRM
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Hanzo(1975)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=qLTO2JqtLvk
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Yedi Bela Husnu(1982)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gPbAredRRqw
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",iYi Aile Cocugu(1978)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Vk8QTsF6e94
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kibar Feyzo(1978)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=stOXnCPxOws
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kapicilar Krali(1976)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=o1lLnQhQcgA
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Devlet Kusu(1980)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hHNdISbONpk
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Zehir Hafiye(1989)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=pJxXU16tx1o
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bickin(1988)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=C8leqNYSbrk
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Japon isi(1987)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=GySuqiTfZcw
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ibo ile Gullusah(1978)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=k05TvAwf0UU
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Keriz(1985)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kVyvF84zEaA
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saskin Damat(1975)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XrpZje7tPd4
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Gol Krali(1980)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=vNeTCNXJXJA
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Copculer Krali(1978)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xs9XUjHvZsM
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Postaci(1984)-Kemal Sunal
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=w9wgwBM3pQo
+
+
+
+
+
+
+
+
+
+
