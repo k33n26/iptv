@@ -36,16 +36,16 @@ https://www.yilmaztv.com/iptv/yt.php?id=ERAXCGZ8Las
 #EXTINF:-1, tvg-id="Talihli Amele(1980)-2" tvg-logo="https://tr.web.img2.acsta.net/r_1920_1080/pictures/21/03/02/11/24/3756027.jpg" tvg-name="Talihli Amele(1980)-2" group-title="Ilyas Salman",Talihli Amele(1980)-2
 https://k33n26.000webhostapp.com/index.php?id=ERAXCGZ8Las
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",iNatci(1988)-Kemal Sunal
+#EXTINF:-1, tvg-id="iNatci(1988)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/58/İnatçı.jpg" tvg-name="iNatci(1988)" group-title="Kemal Sunal",iNatci(1988)
 https://www.yilmaztv.com/iptv/yt.php?id=X1sL0IMFzP8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",iNatci(1988)-Kemal Sunal(2)
+#EXTINF:-1, tvg-id="iNatci(1988)-2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/58/İnatçı.jpg" tvg-name="iNatci(1988)-2" group-title="Kemal Sunal",iNatci(1988)-2
 https://k33n26.000webhostapp.com/index.php?id=X1sL0IMFzP8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Talih Kusu(1989)-Kemal Sunal
+#EXTINF:-1, tvg-id="Talih Kusu(1989)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b2/Talih_Kuşu.jpg" tvg-name="Talih Kusu(1989)" group-title="Kemal Sunal",Talih Kusu(1989)
 https://www.yilmaztv.com/iptv/yt.php?id=WdGv4-VTCLI
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Talih Kusu(1989)-Kemal Sunal(2)
+#EXTINF:-1, tvg-id="Talih Kusu(1989)-2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b2/Talih_Kuşu.jpg" tvg-name="Talih Kusu(1989)-2" group-title="Kemal Sunal",Talih Kusu(1989)-2
 https://k33n26.000webhostapp.com/index.php?id=WdGv4-VTCLI
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Korkusuz Korkak(1979)-Kemal Sunal
