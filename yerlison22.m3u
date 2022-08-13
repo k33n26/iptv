@@ -48,6 +48,9 @@ https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(Youtube)(k)
+https://k33n26.000webhostapp.com/index.php?id=UdU-xsE6c-U
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Gulsah Film(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/DegerliBilgilerimiz
 
