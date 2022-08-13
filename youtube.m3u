@@ -12,28 +12,28 @@ https://www.yilmaztv.com/iptv/yt.php?id=d7HBuxJYGbg
 #EXTINF:-1, tvg-id="Degirmen(1986)-2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Degirmen_1986.jpg" tvg-name="Degirmen(1986)-2" group-title="Sener Sen",Degirmen(1986)-2
 https://k33n26.000webhostapp.com/index.php?id=d7HBuxJYGbg
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Namuslu(1984)-Sener Sen
+#EXTINF:-1, tvg-id="Namuslu(1984)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Namuslu.jpg" tvg-name="Namuslu(1984)" group-title="Sener Sen",Namuslu(1984)
 https://www.yilmaztv.com/iptv/yt.php?id=s4Bu9suUTPs
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Namuslu(1984)-Sener Sen(2)
+#EXTINF:-1, tvg-id="Namuslu(1984)-2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Namuslu.jpg" tvg-name="Namuslu(1984)-2" group-title="Sener Sen",Namuslu(1984)-2
 https://k33n26.000webhostapp.com/index.php?id=s4Bu9suUTPs
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ciplak Vatandas(1985)-Sener Sen
+#EXTINF:-1, tvg-id="Ciplak Vatandas(1985)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4d/Çıplak_Vatandaş_afiş.jpg" tvg-name="Ciplak Vatandas(1985)" group-title="Sener Sen",Ciplak Vatandas(1985)
 https://www.yilmaztv.com/iptv/yt.php?id=BIJMcUsFFt4
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ciplak Vatandas(1985)-Sener Sen(2)
+#EXTINF:-1, tvg-id="Ciplak Vatandas(1985)-2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4d/Çıplak_Vatandaş_afiş.jpg" tvg-name="Ciplak Vatandas(1985)-2" group-title="Sener Sen",Ciplak Vatandas(1985)-2
 https://k33n26.000webhostapp.com/index.php?id=BIJMcUsFFt4
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sari Mercedes(1992)-Ilyas Salman
+#EXTINF:-1, tvg-id="Sari Mercedes(1992)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/46/Sarı_Mercedes_1992_afiş.jpg" tvg-name="Sari Mercedes(1992)" group-title="Ilyas Salman",Sari Mercedes(1992)
 https://www.yilmaztv.com/iptv/yt.php?id=pxWuerGygbs
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sari Mercedes(1992)-Ilyas Salman(2)
+#EXTINF:-1, tvg-id="Sari Mercedes(1992)-2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/46/Sarı_Mercedes_1992_afiş.jpg" tvg-name="Sari Mercedes(1992)-2" group-title="Ilyas Salman",Sari Mercedes(1992)-2
 https://k33n26.000webhostapp.com/index.php?id=pxWuerGygbs
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Talihli Amele(1980)-Ilyas Salman
+#EXTINF:-1, tvg-id="Talihli Amele(1980)" tvg-logo="https://tr.web.img2.acsta.net/r_1920_1080/pictures/21/03/02/11/24/3756027.jpg" tvg-name="Talihli Amele(1980)" group-title="Ilyas Salman",Talihli Amele(1980)
 https://www.yilmaztv.com/iptv/yt.php?id=ERAXCGZ8Las
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Talihli Amele(1980)-Ilyas Salman(2)
+#EXTINF:-1, tvg-id="Talihli Amele(1980)-2" tvg-logo="https://tr.web.img2.acsta.net/r_1920_1080/pictures/21/03/02/11/24/3756027.jpg" tvg-name="Talihli Amele(1980)-2" group-title="Ilyas Salman",Talihli Amele(1980)-2
 https://k33n26.000webhostapp.com/index.php?id=ERAXCGZ8Las
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",iNatci(1988)-Kemal Sunal
