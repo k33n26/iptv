@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/73/Züğürt_Ağa_film.jpg"tvg-id="" group-title="",Zugurt Aga(1985)-Sener Sen
+#EXTINF:-1, tvg-id="Zugurt Aga(1985)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/73/Züğürt_Ağa_film.jpg" tvg-name="Zugurt Aga(1985)" group-title="Sener Sen",Zugurt Aga(1985)
 https://www.yilmaztv.com/iptv/yt.php?id=_wFa6mIewFo
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Zugurt Aga(1985)-Sener Sen(2)
