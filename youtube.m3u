@@ -3,13 +3,13 @@
 #EXTINF:-1, tvg-id="Zugurt Aga(1985)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/73/Züğürt_Ağa_film.jpg" tvg-name="Zugurt Aga(1985)" group-title="Sener Sen",Zugurt Aga(1985)
 https://www.yilmaztv.com/iptv/yt.php?id=_wFa6mIewFo
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Zugurt Aga(1985)-Sener Sen(2)
+#EXTINF:-1, tvg-id="Zugurt Aga(1985)-2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/73/Züğürt_Ağa_film.jpg" tvg-name="Zugurt Aga(1985)-2" group-title="Sener Sen",Zugurt Aga(1985)-2
 https://k33n26.000webhostapp.com/index.php?id=_wFa6mIewFo
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Degirmen(1986)-Sener Sen
+#EXTINF:-1, tvg-id="Degirmen(1986)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Degirmen_1986.jpg" tvg-name="Degirmen(1986)" group-title="Sener Sen",Degirmen(1986)
 https://www.yilmaztv.com/iptv/yt.php?id=d7HBuxJYGbg
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Degirmen(1986)-Sener Sen(2)
+#EXTINF:-1, tvg-id="Degirmen(1986)-2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Degirmen_1986.jpg" tvg-name="Degirmen(1986)-2" group-title="Sener Sen",Degirmen(1986)-2
 https://k33n26.000webhostapp.com/index.php?id=d7HBuxJYGbg
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Namuslu(1984)-Sener Sen
