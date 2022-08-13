@@ -49,7 +49,7 @@ https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Gulsah Film(Youtube)
-https://www.youtube.com/c/DegerliBilgilerimiz
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/DegerliBilgilerimiz
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(Youtube)2
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
@@ -75,29 +75,17 @@ https://tv170.ozelip.com:1936/baskantv/baskantv/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1 HD(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=http://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1 HD(Youtube)2
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KRT TV HD(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/KRTTVCanlıYayın
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KRT TV HD(Youtube)2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/KRTTVCanlıYayın
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV HD(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/Halktvkanali
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV HD(Youtube)2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Halktvkanali
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arti TV(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ArtıTv_Resmi
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arti TV(Youtube)2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ArtıTv_Resmi
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Zanka TV(Youtube)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ZankaTVonline
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ZankaTVonline
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV HD
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
@@ -130,7 +118,7 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNN TURK HD 
-https://cnnturkdvr.blutv.com/blutv_cnnturk_dvr2/live_720p2000000kbps/index.m3u8
+https://cnnturkdvr.blutv.com/blutv_cnnturk_dvr2/live_720p2000000/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",HABERTURK HD
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
@@ -213,9 +201,6 @@ https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport Haber(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/beINSPORTSTürkiye
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport Haber(Youtube)2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/beINSPORTSTürkiye
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTA Sports
 http://51.210.227.143/hls/stream.m3u8
 
@@ -224,9 +209,6 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV(Dailymotion)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV(Dailymotion)2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",FB TV(1)
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
@@ -240,14 +222,8 @@ http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TIVIBU SPOR(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/TivibuSporTurkTelekom
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TIVIBU SPOR(Youtube)2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TivibuSporTurkTelekom
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",A SPOR(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ASpor
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",A SPOR(Youtube)2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ASpor
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Beyazmedya TV Belgesel
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-belgesel/index.m3u8
@@ -1071,8 +1047,14 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Mega TV Yunanistan
 https://streamcdnm2-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b3710976.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Mega TV Yunanistan(2)
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Skai TV Yunanistan
 https://skai-live.siliconweb.com/media/cambria4/index_bitrate1200K.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Omega TV Yunanistan
+https://am4.cloudskep.com/omegatv/omcy/l1/fhd/chunks.m3u8?nimblesessionid=92329560&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgOToyNTowMCBBTSZoYXNoX3ZhbHVlPVludGFEQXRhLzJKN3JFMllKK2ZzVHc9PSZ2YWxpZG1pbnV0ZXM9NjYw
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Alpha TV Yunanistan
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8
@@ -1109,15 +1091,6 @@ https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT World-Yunanistan
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/manifest.mpd
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Stv 1-Slovakya
-https://n14.stv.livebox.sk/stv-tv/32c28fd4d0092af6949de1270d67c344/stv1.smil/chunklist_b5251072.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Stv 2-Slovakya
-https://n16.stv.livebox.sk/stv-tv/c5f6a9773e5201c1a60628d3268a2d01/stv2.smil/chunklist_b5251072.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Stv 24-Slovakya
-https://n13.stv.livebox.sk/stv-tv/3ba4f884dbfcae25433418cf7389cbea/stv3.smil/chunklist_b5251072.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",APA Tv Azerbaycan
 https://rtmp.apa.tv/@pagroup!23.m3u8
@@ -1188,6 +1161,9 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KBS World 
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CBS News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62441d6ded1827000763dcda/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BiZ TV Ozbekistan
 https://st.biztv.uz/hls/stream_hi/index.m3u8
 
@@ -1202,6 +1178,9 @@ https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC Travel 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4519e6873180007d3cddb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CCTV 9
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
@@ -1242,26 +1221,11 @@ http://cdnua06.hls.tv/476/hls/lofksujyxti7d18v52ge4qpcwhrmb9z3/4706/stream.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Travel Channel Ukrayna
 http://cdnua06.hls.tv/476/hls/yeqh2ls7g0x8za614j9owcm5rut3pvkb/307/stream.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Travel Channel(1) Ukrayna
-http://85.206.57.253:8981/a44/mono.m3u8
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Setenta Sport Ukrayna
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Setenta Sport+ Ukrayna
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4314/stream.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Setenta Sport 1
-http://85.206.57.253:8981/l63/mono.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",DTX Ukrayna
-http://85.206.57.253:8981/a78/mono.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Viasat Nature Ukrayna
-http://85.206.57.253:8981/a59/mono.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TravelXP Ukrayna
-http://85.206.57.253:8981/a158/mono.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sea TV Ukrayna
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4251/stream.m3u8
@@ -1271,9 +1235,6 @@ http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Nautical Channel Ukrayna
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4245/stream.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Earth TV
-https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge3/cdnedge/HicYJzEAB5E/chunklist.m3u8?token=EAIY6wE41tXvRECkIUgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.L5mFfHTNcfFl5r1DZCZh5Bx0D2Q_YDq7f7fHgqs0vLdXM2W4LmFGhjAPfG8uFkadI6SpcyjcYvo85bqfxpxAzw&domain=www.earthtv.com
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Insight TV
 https://insighttv-vizio.amagi.tv/playlist.m3u8
@@ -1464,6 +1425,8 @@ http://aliyun-shbu-live.bestvcdn.com.cn/live/program/live/cctv1hd/4000000/d1.m3u
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CCTV 2 China
 http://bkoutlivecloud-cdn.ysp.cctv.cn/3D29A867044643C30AFC331CB8BDD772D2AD49D4350F1DE7192717F82FE964C934560B3FF12E03D03F409A3DF3E8A752EA32D1EB1F009C48E036E99213E3F8F6BB030ABB05D4804793612528511C9D0BC34BD819A1395464655B75746807105595E254AB7EF3399CD8D58B99CB6C24DD/2000203603.m3u8?from=player&svrtime=1659451163&pid=600001800&cdn=5501
+
+
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CCTV 3 China
 http://aliyun-shbu-live.bestvcdn.com.cn/live/program/live/cctv3hd/4000000/d1.m3u8
