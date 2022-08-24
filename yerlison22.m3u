@@ -75,6 +75,9 @@ https://59cba4d34b678.streamlock.net/canlitv/zirvetv/chunklist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BaskanTV
 https://tv170.ozelip.com:1936/baskantv/baskantv/playlist.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Karar TV(Youtube)
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoLyFzOzAzNG_-oR-O4relg
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1 HD(Youtube)
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=http://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live
 
