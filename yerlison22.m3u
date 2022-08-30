@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Prima Sport3
-http://192.168.1.3:8001/1:0:19:7730:2C1:600:E080000:0:0:0:
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
