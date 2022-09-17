@@ -186,6 +186,12 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",FX TV
 http://51.210.199.52/hls/stream.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Citra Culinary & Travel
+http://tvn.x10.mx/live/master-23.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TVOne
+http://tvn.x10.mx/live/master-25.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KANAL 7 HD
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
 
