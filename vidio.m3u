@@ -1,0 +1,73 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Premier League
+http://tvn.x10.mx/live/master-1.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Citra Bioskop
+http://tvn.x10.mx/live/master-2.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Citra DRAMA
+http://tvn.x10.mx/live/master-3.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Hip Hop Horee!
+http://tvn.x10.mx/live/master-4.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Citra MUSLIM
+http://tvn.x10.mx/live/master-5.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Horee!
+http://tvn.x10.mx/live/master-6.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Champions TV 2
+http://tvn.x10.mx/live/master-7.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Champions TV 2
+http://tvn.x10.mx/live/master-8.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Champions TV GoaL
+http://tvn.x10.mx/live/master-9.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Champions TV GoaL
+http://tvn.x10.mx/live/master-10.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Citra DANGDUT
+http://tvn.x10.mx/live/master-11.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Citra Entertainment
+http://tvn.x10.mx/live/master-12.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ajwatv
+http://tvn.x10.mx/live/master-14.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",antv
+http://tvn.x10.mx/live/master-15.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Zoo Moo
+http://tvn.x10.mx/live/master-16.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",tvN
+http://tvn.x10.mx/live/master-17.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Zeebioskop
+http://tvn.x10.mx/live/master-18.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Mentari TV
+http://tvn.x10.mx/live/master-22.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Citra Culinary & Travel
+http://tvn.x10.mx/live/master-23.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TVOne
+http://tvn.x10.mx/live/master-25.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Liverpool TV
+http://tvn.x10.mx/live/master-28.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",29
+http://tvn.x10.mx/live/master-29.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",30
+http://tvn.x10.mx/live/master-30.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",31
+http://tvn.x10.mx/live/master-34.m3u8
