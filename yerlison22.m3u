@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
@@ -10,7 +10,7 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",FOX HD
-https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",STAR HD
 https://startvdvr.blutv.com/blutv_startv_dvr2/live_720p2000000kbps/index.m3u8
@@ -25,16 +25,13 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KANAL D HD
-https://kanalddvr.blutv.com/blutv_kanald_dvr2/live_720p2000000kbps/index.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teve2 HD
-https://teve2dvr.blutv.com/blutv_teve2_dvr2/live_720p2000000kbps/index.m3u8
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8 HD(1)
-https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BizimEV TV Belgesel HD 
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
