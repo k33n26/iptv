@@ -52,16 +52,7 @@ https://mn-nl.mncdn.com/blutv_play1_dvr/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(Youtube)
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(Youtube)(k)
-https://k33n26.000webhostapp.com/index.php?id=UdU-xsE6c-U
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Gulsah Film(Youtube)
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/DegerliBilgilerimiz
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(Youtube)2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
+https://piyasaolmus.tk/yt.php?id=HM8vNBiyye0
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV
 http://157.230.106.252:3923/hybrid/play.m3u8
@@ -106,25 +97,19 @@ https://tv170.ozelip.com:1936/baskantv/baskantv/playlist.m3u8
 https://k33n26.000webhostapp.com/index.php?id=QjisC1Aj-rA
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Karar TV(Youtube)
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoLyFzOzAzNG_-oR-O4relg
+https://piyasaolmus.tk/yt.php?id=_1Zku0v0SPE
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1 HD(Youtube)
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=http://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/live
+https://piyasaolmus.tk/yt.php?id=eenp_e9_c1Q
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KRT TV HD(Youtube)
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/KRTTVCanlıYayın
+https://piyasaolmus.tk/yt.php?id=3QDiWPZ2D_k
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV HD(Youtube)
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/Halktvkanali
+https://piyasaolmus.tk/yt.php?id=L0aI7O5KrVU
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arti TV(Youtube)
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ArtıTv_Resmi
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arti TV(Youtube)2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ArtıTv_Resmi
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Zanka TV(Youtube)
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ZankaTVonline
+https://piyasaolmus.tk/yt.php?id=xpoetRCJKqY
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV HD
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
