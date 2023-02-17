@@ -96,6 +96,12 @@ https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",NTN Belgesel TV
 https://tv.ntnhd.com:3189/multi_web/play_1080.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CRI TURK TV
+https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ozburun TV
+http://yilmaz.srfms.com:1935/yilmaz/livestream/playlist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
@@ -112,7 +118,7 @@ https://tv170.ozelip.com:1936/baskantv/baskantv/playlist.m3u8
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Life TV
-https://h125.artiyerelmedya.net/lifetv/bant1/chunks.m3u8?nimblesessionid=119973660
+http://yerelmedya.tv:1935/lifetv/bant1/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Relax New Zeland
 https://piyasaolmus.tk/yt.php?id=QjisC1Aj-rA
