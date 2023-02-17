@@ -54,6 +54,9 @@ https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(Youtube)
 https://piyasaolmus.tk/yt.php?id=HM8vNBiyye0
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",AfyonTurk TV
+https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV
 http://157.230.106.252:3923/hybrid/play.m3u8
 
@@ -81,11 +84,23 @@ http://91.134.203.253:30124/baskantv/baskantv/supersatforum_chunklist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kobim TV
 http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8 
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TIMUR MEDYA TV 1
-https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teber Box TV 1
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teber Box TV 2
+https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",VRT TV 
+https://vrttv.ozelip.com:3644/multi_web/play_1080.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NTN Belgesel TV
+https://tv.ntnhd.com:3189/multi_web/play_1080.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV 48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Aras TV
-https://59cba4d34b678.streamlock.net/canlitv/arastv/playlist.m3u8
+http://1.rtmp.org/tv217/yayin.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ilk Zirve TV
 https://59cba4d34b678.streamlock.net/canlitv/zirvetv/chunklist.m3u8
@@ -93,8 +108,14 @@ https://59cba4d34b678.streamlock.net/canlitv/zirvetv/chunklist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BaskanTV
 https://tv170.ozelip.com:1936/baskantv/baskantv/playlist.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Life TV
+https://h125.artiyerelmedya.net/lifetv/bant1/chunks.m3u8?nimblesessionid=119973660
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Relax New Zeland
-https://k33n26.000webhostapp.com/index.php?id=QjisC1Aj-rA
+https://piyasaolmus.tk/yt.php?id=QjisC1Aj-rA
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Karar TV(Youtube)
 https://piyasaolmus.tk/yt.php?id=_1Zku0v0SPE
@@ -110,6 +131,9 @@ https://piyasaolmus.tk/yt.php?id=L0aI7O5KrVU
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arti TV(Youtube)
 https://piyasaolmus.tk/yt.php?id=xpoetRCJKqY
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cadde TV(Youtube)
+https://piyasaolmus.tk/yt.php?id=BSM8MIH7yAE
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV HD
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
@@ -229,7 +253,7 @@ https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/playlist.m3u8
 https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport Haber(Youtube)
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/beINSPORTSTürkiye
+https://piyasaolmus.tk/yt.php?id=MZ5D6NK5Qqo
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTA Sports
 http://51.210.227.143/hls/stream.m3u8
