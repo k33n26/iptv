@@ -102,14 +102,20 @@ https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ozburun TV
 http://yilmaz.srfms.com:1935/yilmaz/livestream/playlist.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Gunaydin TV
+http://5.9.48.146:19370/gunaydintv/gunaydintv.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Aras TV
 http://1.rtmp.org/tv217/yayin.stream/chunklist.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ilk Zirve TV
-https://59cba4d34b678.streamlock.net/canlitv/zirvetv/chunklist.m3u8
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bruksel Turk TV
+https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="", EURO 34 TV
+https://vdo.digitalbox.xyz:3138/live/euro34tvlive.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BaskanTV
 https://tv170.ozelip.com:1936/baskantv/baskantv/playlist.m3u8
@@ -119,6 +125,36 @@ https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Life TV
 http://yerelmedya.tv:1935/lifetv/bant1/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Turkmeneli TV
+https://stream.klcsistem.com:5443/LiveApp/streams/512289357781413484749219.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN BELGESEL TV 
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN SPORT TV
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN MOVIES TV
+http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN ACTION TV
+http://mmn.mypsx.net:1935/live/mmnhdaction/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN KIDS TV
+http://mmn.mypsx.net:1935/live/mmnhdkids/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TURKMEN SPORT
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Fox Sports
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Fox Sports 2 HD
+https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Relax New Zeland
 https://piyasaolmus.tk/yt.php?id=QjisC1Aj-rA
