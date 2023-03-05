@@ -1,0 +1,108 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT Belgesel
+https://1508980f6c544f2db07e6f823b6473c8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/dd3f123b-4380-451d-9cdd-9e75c8a03361/1.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV4 Turk
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CRI Turk
+https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",DMAX Turk
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TGRT Belgesel
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8?md5=mUfSWvgzWo-4sCc68KnWkA&expires=1678096464
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NTN Belgesel Turk
+https://tv.ntnhd.com:3189/multi_web/play_1080.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Explorer TV(Italya)
+https://3e836341ee364c90b4519e5f0ae6c193.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/ONO_ExplorerHD/ce70df84-4ecc-4169-b830-e7ce0dcf82d0/3.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ALMATV TRAVEL(Italya)
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/chunklist_w379218210.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",History Lab(Italya)
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w376829840.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Aristo TV(Almanya)
+https://ma.anixa.tv/clips/stream/aristo/playlist.php
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RT Documentary(Rusya)
+https://rtmp.api.rt.com/hls/rtdru.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ZvezdaTV (Rusya)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Yu TV (Rusya)
+https://salam-2.rutube.ru/dive/river-7-702.rutube.ru/6OqDdcPjTRdudMPtgdLRMw/stream/musang-702.brz.rutube.ru/21Mn0tJisgSd5KOGawqoiw/1678032368/5c9327074e25ca86f3111d4085cbbb65/1080p_stream.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",This is Bulgaria (Bulgaristan)
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_SD.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CGTN(China)
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CGTN Documentary(China)
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CCTV 9 China)
+https://cctvwbcdkshw.v.kcdnvip.com/cctvwbcd/cdrmcctv9_1/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Outside TV(ABD)
+https://outsidetvplus-maz.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusmazapps/CDN/1280x720_2890800/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Hunt Channel(ABD)
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v3a1/mono.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Honor TV(ABD)
+https://rpn1.bozztv.com/36bay2/gusa-honortv/tracks-v1a1/mono.m3u8?nimblesessionid=20903091
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Titanic TV(ABD)
+https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/mid/c.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Monarch Channel(ABD)
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/mid/c.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NASA TV (ABD)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Court TV(ABD)
+https://content-aaps1.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef/e.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&ad.cust_params=pxconfig%3Dweb-live&m.sound=normal&m.playback=autoplay&ad.url=https%3A%2F%2Fwww.courttv.com%2F&pbs=9138a02cb95f4f38ba1b3e31faceb3ab
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",El Arna TV(Kazakistan)
+https://elarna-live.cdnvideo.ru/elarna/elarna/chunklist.m3u8?hls_proxy_host=f0c0dc04617993059ef716429465da6c
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Gugak TV(Guney Kore)
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/chunklist_w500240425.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",YTN Science (Guney Kore)
+https://sciencelive.ytn.co.kr/science/_definst_/20211118_science/chunklist.m3u8?_lsu_sa_=3ab4fbebf06e32250c8f80123fa39add3d933678e44055e83f2740642be76e917a4e1bd230b6f4c6952e3730c137f87e4b88739d5aa718330b6b26ff9f9e1ee1ef7acb3ee3edc26d6ebba2b5e83ccc34e50535eaca9da6be41b1db58c4c4cfbbc17900d30805151c342d28abc311a41f
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geographic(UAE)
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Al Jazeera Documentary TV (Katar)
+https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",VTC 2 (Vietnam)
+https://1117979683.vnns.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",VTC 7 (Vietnam)
+https://1117979683.vnns.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",VTC 14 (Vietnam)
+https://1117979683.vnns.net/hda1/vtc14_vhls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTK 2 (Kosova)
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz01080/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Télé-Québec (Kanada)
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_3/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tanzania Safari (Tanzanya)
+https://134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_0a6ef900ad0511ed8f65a940024f638d/tracks-v1a1/mono.m3u8
+
+
