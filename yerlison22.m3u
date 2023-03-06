@@ -58,10 +58,10 @@ https://piyasaolmus.tk/yt.php?id=HM8vNBiyye0
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV
-http://157.230.106.252:3923/hybrid/play.m3u8
+http://192.248.176.242:3923/hybrid/play.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV(2)
-http://157.230.106.252:3923/stream/play.m3u8
+http://192.248.176.242:3923/stream/play.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Aktif TV
 http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
@@ -191,6 +191,9 @@ https://krt.blutv.com/blutv_krt_live/live_540p1250000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1
 http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sozcu TV
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",RT1 TV
 https://edge1.socialsmart.tv/rt1/bant1/playlist.m3u8
