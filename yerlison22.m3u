@@ -6,6 +6,9 @@ https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV 5
+https://www.youtube.com/watch?v=56MllGbeFME
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
@@ -25,7 +28,7 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KANAL D HD
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=58oi59idwivx&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teve2 HD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
@@ -37,7 +40,7 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CozumYapi TV 
-http://157.230.106.252:3496/hybrid/play.m3u8
+http://70.34.214.187:3496/stream/play.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Mono TV
 http://51.210.227.137/hls/stream.m3u8
@@ -58,16 +61,16 @@ https://piyasaolmus.tk/yt.php?id=HM8vNBiyye0
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV
-http://192.248.176.242:3923/hybrid/play.m3u8
+http://70.34.214.187:3923/stream/play.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV(2)
-http://192.248.176.242:3923/stream/play.m3u8
+http://70.34.214.187:3923/hybrid/play.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Aktif TV
 http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cine1 TV
-https://waw1.artiyerelmedya.net/cine1/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Duzgun TV
 http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/supersatforumplaylist.m3u8
