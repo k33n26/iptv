@@ -45,9 +45,6 @@ https://mn-nl.mncdn.com/blutv_play1_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Blu TV Play2
 https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(Youtube)
-https://piyasaolmus.tk/yt.php?id=HM8vNBiyye0
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",AfyonTurk TV
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
@@ -56,6 +53,9 @@ http://34.107.124.147:3942/stream/play.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV(2)
 http://34.107.124.147:3942/hybrid/play.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CLC TV
+https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Aktif TV
 http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
