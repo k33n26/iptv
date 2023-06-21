@@ -49,10 +49,10 @@ https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV
-http://34.107.124.147:3942/stream/play.m3u8
+http://34.16.130.141:3942/stream/play.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV(2)
-http://34.107.124.147:3942/hybrid/play.m3u8
+http://34.16.130.141:3942/hybrid/play.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CLC TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
