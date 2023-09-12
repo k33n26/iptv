@@ -36,8 +36,11 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BizimEV TV Belgesel HD 
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Inat Tv Pro 
-https://ozledim.trgoals434.xyz/yayininat.m3u8
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV 
+http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teleon TV 
+https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/chunks.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CozumYapi TV 
 http://34.107.124.147:3778/hybrid/play.m3u8
