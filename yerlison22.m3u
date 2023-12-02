@@ -36,14 +36,17 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BizimEV TV Belgesel HD 
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV
+https://tivi191.ozelip.com:3463/stream/play.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(2)
 http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teleon TV 
-https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/chunks.m3u8
+https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CozumYapi TV 
-http://34.107.124.147:3778/hybrid/play.m3u8
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ADA TV 
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Blu TV Play1
 https://mn-nl.mncdn.com/blutv_play1_dvr/live_720p2000000kbps/index.m3u8
@@ -61,10 +64,13 @@ https://live.cache-stream.workers.dev/stream/44be7t_iJUY/live.m3u8
 https://raw.githubusercontent.com/kuzeymax/github-pages-with-jekyll/main/superturktvhd.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV
-http://34.16.130.141:3942/stream/play.m3u8
+http://75.119.144.48:3501/hybrid/play.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV(2)
-http://34.16.130.141:3942/hybrid/play.m3u8
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurkMax TV
+http://75.119.144.48:3203/hybrid/play.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SkyHaber TV
+https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8?app=supersatforum
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CLC TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
