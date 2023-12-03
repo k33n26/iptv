@@ -13,28 +13,25 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",STAR HD
-https://startvdvr.blutv.com/blutv_startv_dvr2/live_720p2000000kbps/index.m3u8
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",NTV HD
-https://ntvdvr.blutv.com/blutv_ntv_dvr2/live_720p2000000kbps/index.m3u8
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ATV HD
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1701659483&st=4RAbymW9J2lah_HZbkW4pg&sid=5ycnpx6olseg&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SHOW TV HD
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KANAL D HD
-https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=58oi59idwivx&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+http://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teve2 HD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BizimEV TV Belgesel HD 
-https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV
 https://tivi191.ozelip.com:3463/stream/play.m3u8
@@ -48,20 +45,8 @@ https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/c
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ADA TV 
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Blu TV Play1
-https://mn-nl.mncdn.com/blutv_play1_dvr/live_720p2000000kbps/index.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Blu TV Play2
-https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",AfyonTurk TV
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kemal Sunal TV (youtube)
-https://live.cache-stream.workers.dev/stream/44be7t_iJUY/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV(Sabit)
-https://raw.githubusercontent.com/kuzeymax/github-pages-with-jekyll/main/superturktvhd.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV
 http://75.119.144.48:3501/hybrid/play.m3u8
@@ -75,8 +60,8 @@ https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CLC TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Aktif TV
-http://tv56245.ozelip.com:2052/aktif/aktif/supersatforum_chunklist.m3u8
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Derin TV
+https://cdn1-derintv.yayin.com.tr/derintv/amlst:derintv/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cine1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
@@ -168,21 +153,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a6173797
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Fox Sports 2 HD
 https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sozcu TV(Youtube)
-https://live.cache-stream.workers.dev/stream/2i8lfP9oqvk/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1 HD(Youtube)
-https://live.cache-stream.workers.dev/stream/j6nk0Oc9-XQ/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KRT TV HD(Youtube)
-https://live.cache-stream.workers.dev/stream/xyr8j7vsrVA/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV HD(Youtube)
-https://live.cache-stream.workers.dev/stream/Z1dI0W4PAMI/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Arti TV(Youtube)
-https://live.cache-stream.workers.dev/stream/z9ZhgZGxqM8/live.m3u8
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV HD
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=5e4v4bm2m0tc&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 
@@ -214,7 +184,7 @@ https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Natural TV
-https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
+https://edge1.socialsmart.tv/naturaltv/bant1/chunks.m3u8?nimblesessionid=1004308935
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Magellan TV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
@@ -259,7 +229,7 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT DIYANET COCUK
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
@@ -297,17 +267,8 @@ https://kanal24.blutv.com/blutv_kanal24_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",EuroSport 1 HD
-https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",EuroSport 2 HD
-https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/playlist.m3u8
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport Haber
 https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bein Sport Haber(Youtube)
-https://piyasaolmus.tk/yt.php?id=MZ5D6NK5Qqo
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",RTA Sports
 http://51.210.227.143/hls/stream.m3u8
