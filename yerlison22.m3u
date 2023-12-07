@@ -60,11 +60,17 @@ https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CLC TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BEA TV
+https://yayin30.haber100.com/live/beykenttv/chunklist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Derin TV
 https://cdn1-derintv.yayin.com.tr/derintv/amlst:derintv/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cine1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bodrum Kent TV
+https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Duzgun TV
 http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/supersatforumplaylist.m3u8
