@@ -49,10 +49,10 @@ https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV
-http://75.119.144.48:3501/hybrid/play.m3u8
+http://75.119.144.48/SUPERTURK_TVHD/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurkMax TV
-http://75.119.144.48:3203/hybrid/play.m3u8
+http://75.119.144.48/SUPERTURK_MAX_MUZIK_HD/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SkyHaber TV
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8?app=supersatforum
