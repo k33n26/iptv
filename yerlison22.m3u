@@ -75,8 +75,17 @@ https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Diyanet Cocuk TV
 http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT AVAZ
+http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Duzgun TV
 http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/supersatforumplaylist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Isvicre TV
 http://tv56245.ozelip.com:2052/isvicretv/isvicretv/supersatforum_chunklist.m3u8
