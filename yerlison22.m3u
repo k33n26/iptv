@@ -72,6 +72,9 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bodrum Kent TV
 https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Diyanet Cocuk TV
+http://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Duzgun TV
 http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/supersatforumplaylist.m3u8
 
