@@ -55,7 +55,10 @@ http://75.119.144.48/SUPERTURK_TVHD/index.m3u8
 http://75.119.144.48/SUPERTURK_MAX_MUZIK_HD/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SkyHaber TV
-https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8?app=supersatforum
+https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV 90
+https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CLC TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
@@ -68,6 +71,9 @@ https://cdn1-derintv.yayin.com.tr/derintv/amlst:derintv/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cine1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Isvicre TV
+http://palatv34.ozelip.com:22372/isvicretv/isvicretv/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bodrum Kent TV
 https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
