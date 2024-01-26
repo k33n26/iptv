@@ -78,6 +78,9 @@ http://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",HaberTurk Tv
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HaberGlobal Tv
+http://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
