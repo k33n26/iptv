@@ -54,6 +54,9 @@ http://75.119.144.48/SUPERTURK_TVHD/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurkMax TV
 http://75.119.144.48/SUPERTURK_MAX_MUZIK_HD/index.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",7/24 Spor
+http://116.202.117.244/ntvspor/ntvspor/chunklist_w1496262543.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SkyHaber TV
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
@@ -71,121 +74,6 @@ https://cdn1-derintv.yayin.com.tr/derintv/amlst:derintv/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cine1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV100
-http://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HaberTurk Tv
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HaberGlobal Tv
-http://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sozcu TV
-http://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KRT TV
-http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TELE1 TV
-http://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FlashHaber TV
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-
-
-
-
-
-#######Youtube#######
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kemal Sunal TV (Youtube)
-http://new.cache-stream.workers.dev/stream/lDI6Lbxhz6Y/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kemal Sunal TV-2 (Youtube)
-http://new.cache-stream.workers.dev/stream/wUh5EwIC6F4/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kemal Sunal TV-3 (Youtube)
-http://new.cache-stream.workers.dev/stream/YpszCBqX0S8/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Guldur Guldur (Youtube)
-http://new.cache-stream.workers.dev/stream/gNfrRDYBafA/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Yesilcam TV (Youtube)
-http://new.cache-stream.workers.dev/stream/IQS63DwJ3I4/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FilmAtolyesi TV (Youtube)
-http://new.cache-stream.workers.dev/stream/UEma506jIIo/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Behzat.C 7/24 (Youtube)
-http://new.cache-stream.workers.dev/stream/SFN8ie4ZMQ0/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Emret Komutanim 7/24 (Youtube)
-http://new.cache-stream.workers.dev/stream/CD-IE4Dh_p0/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sozcu TV (Youtube)
-http://new.cache-stream.workers.dev/stream/2i8lfP9oqvk/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Medya TV (Youtube)
-http://new.cache-stream.workers.dev/stream/Qi6qHKk7aoA/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",A Spor (Youtube)
-http://new.cache-stream.workers.dev/stream/RTfe-8VY9hU/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BeinSports Haber (Youtube)
-http://new.cache-stream.workers.dev/stream/OypUpUTYAHI/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",A Haber (Youtube)
-http://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Somine (Youtube)
-http://new.cache-stream.workers.dev/stream/Rc6xBsiI6y8/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Somine2 (Youtube)
-http://new.cache-stream.workers.dev/stream/mKCieTImjvU/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Somine3 (Youtube)
-http://new.cache-stream.workers.dev/stream/soSXsuGVkqc/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kasirga1 (Youtube)
-http://new.cache-stream.workers.dev/stream/BL5UXaDV944/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kasirga2 (Youtube)
-http://new.cache-stream.workers.dev/stream/yfe3OYtVnGk/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kasirga3 (Youtube)
-http://new.cache-stream.workers.dev/stream/OgJY02TAvGs/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kasirga4 (Youtube)
-http://new.cache-stream.workers.dev/stream/dyBmVx10Duw/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kasirga5 (Youtube)
-http://new.cache-stream.workers.dev/stream/Jj0odfvHQA0/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kismetse.Olur (Youtube)
-http://new.cache-stream.workers.dev/stream/DfCAaRAH7CY/live.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Isvicre TV
 http://palatv34.ozelip.com:22372/isvicretv/isvicretv/playlist.m3u8
@@ -265,6 +153,21 @@ http://yerelmedya.tv:1935/lifetv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Turkmeneli TV
 https://stream.klcsistem.com:5443/LiveApp/streams/512289357781413484749219.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN BELGESEL TV 
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN SPORT TV
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN MOVIES TV
+http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN ACTION TV
+http://mmn.mypsx.net:1935/live/mmnhdaction/chunklist.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN KIDS TV
+http://mmn.mypsx.net:1935/live/mmnhdkids/chunklist.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TURKMEN SPORT
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
@@ -299,7 +202,7 @@ https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
 https://edge1.socialsmart.tv/rt1/bant1/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",DMAX HD
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TLC HD
 https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
@@ -314,7 +217,7 @@ https://edge1.socialsmart.tv/naturaltv/bant1/chunks.m3u8?nimblesessionid=1004308
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNN TURK HD 
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
+https://cnnturkdvr.blutv.com/blutv_cnnturk_dvr2/live_720p2000000/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",HABERTURK HD
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
@@ -1590,6 +1493,7 @@ https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w1673774538
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",AnhuiTV China
 http://aliyun-shbu-live.bestvcdn.com.cn/live/program/live/ahwshd/4000000/d1.m3u8
+
 
 
 
