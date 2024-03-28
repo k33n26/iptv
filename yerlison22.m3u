@@ -19,10 +19,10 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ATV HD
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1701659483&st=4RAbymW9J2lah_HZbkW4pg&sid=5ycnpx6olseg&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+http://stream.tvcdn.net/ulusal/atv.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SHOW TV HD
-https://showtvdvr.blutv.com/blutv_showtv_dvr2/live_720p2000000kbps/index.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KANAL D HD
 http://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
@@ -41,6 +41,9 @@ http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teleon TV 
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Universite TV 
+https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ADA TV 
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
@@ -153,80 +156,44 @@ http://yerelmedya.tv:1935/lifetv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Turkmeneli TV
 https://stream.klcsistem.com:5443/LiveApp/streams/512289357781413484749219.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN BELGESEL TV 
-http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN SPORT TV
-http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN MOVIES TV
-http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN ACTION TV
-http://mmn.mypsx.net:1935/live/mmnhdaction/chunklist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MMN KIDS TV
-http://mmn.mypsx.net:1935/live/mmnhdkids/chunklist.m3u8
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TURKMEN SPORT
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TNT SPORTS
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Fox Sports
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Fox Sports 2 HD
-https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV HD
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=5e4v4bm2m0tc&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HALK TV (BluTV)
-https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TELE 1 TV(BluTV)
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",KRT TV
-https://krt.blutv.com/blutv_krt_live/live_540p1250000kbps/index.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele 1
-http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
+http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sozcu TV
-https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RT1 TV
-https://edge1.socialsmart.tv/rt1/bant1/playlist.m3u8
+http://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",DMAX HD
-https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000kbps/index.m3u8
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TLC HD
-https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Discovery ID HD
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Natural TV
-https://edge1.socialsmart.tv/naturaltv/bant1/chunks.m3u8?nimblesessionid=1004308935
+https://edge1.socialsmart.tv/naturaltv/bant1/chunks.m3u8?nimblesessionid=1388172933
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Magellan TV
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNN TURK HD 
-https://cnnturkdvr.blutv.com/blutv_cnnturk_dvr2/live_720p2000000/index.m3u8
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CNN TURK HD
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",HABERTURK HD
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",HABER GLOBAL HD
-https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
+http://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BLOOMBERG HT HD
-https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV100 HD 
 https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
@@ -235,7 +202,7 @@ https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Flash Haber HD 
-https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT TURK HD
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
