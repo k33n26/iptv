@@ -39,6 +39,42 @@ https://tivi191.ozelip.com:3463/stream/play.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV(2)
 http://new.cache-stream.workers.dev/stream/UCfoQxHKIWW_HrECGLaDrBEw/live.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV 3
+http://stream.tvcdn.net/diger-eglence/saban-tv-4-gulsah-film-2.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV 4
+http://stream.tvcdn.net/diger-eglence/saban-tv-3-gulsah-film.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV 5
+http://stream.tvcdn.net/diger-eglence/saban-tv-2-arzu-film.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Saban TV 6
+http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Dizi Film TV
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Belgesel TV
+http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Zeki-Metin TV
+http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Yesilcam2 TV
+http://stream.tvcdn.net/diger-eglence/yesilcam-tv-2.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Yesilcam3 TV
+http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Turk Filmleri TV
+http://stream.tvcdn.net/diger-eglence/turk-filmleri.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Suduragi TV
+http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Film Atolyesi TV
+http://stream.tvcdn.net/diger-eglence/film-atolyesi.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teleon TV 
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
 
