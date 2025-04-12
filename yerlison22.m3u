@@ -33,6 +33,9 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Rize.Turk.TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bizimkiler Nostalji
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=su2Z2_AT4ng.m3u8
 
