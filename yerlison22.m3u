@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT 1 HD
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
