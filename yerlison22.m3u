@@ -33,6 +33,9 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 
