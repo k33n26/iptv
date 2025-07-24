@@ -33,6 +33,9 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HT SPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7lqk62j5blk4&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
@@ -1568,7 +1571,6 @@ https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w1673774538
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",AnhuiTV China
 http://aliyun-shbu-live.bestvcdn.com.cn/live/program/live/ahwshd/4000000/d1.m3u8
-
 
 
 
