@@ -57,15 +57,6 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SDM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HT SPOR
-https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7lqk62j5blk4&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HT SPOR(2)
-http://ciner-live.ercdn.net/htspor/htspor.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BeinSport Haber
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
@@ -74,6 +65,9 @@ https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Rize.Turk.TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title=""Isvicre.TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sozcu TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
@@ -174,28 +168,101 @@ https://tv.arectv34.sbs/live/bsfamily.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BMovies Action
 https://tv.arectv34.sbs/live/bsaction1.m3u8
 
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geographic Channel
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BeinSport-1
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SSport-2
+https://217.30.11.74/e/3030.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SSport-2(2)
+https://217.30.11.74/e/3031.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-1
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BeinSport-2
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-1(2)
+https://lively1.cf4-86.workers.dev/static/bs1.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-1(3)
+https://lively1.cf4-86.workers.dev/static/bs11.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-2
 http://95.174.71.114:80/TR-BEINSPORT2/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BeinSport-3
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-2(2)
+https://lively1.cf4-86.workers.dev/static/bs2.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-3
 http://95.174.71.114:80/TR-BEINSPORT3/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BeinSport-4
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-4
 http://95.174.71.114:80/TR-BEINSPORT4/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-5
+https://lively1.cf4-86.workers.dev/static/bs5.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-Max1
+https://tv.arectv34.sbs/live/bm1.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-Max2
+https://tv.arectv34.sbs/live/bm2.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SporSmart1
+https://tv.arectv34.sbs/live/smart1.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SporSmart2
+https://tv.arectv34.sbs/live/smart2.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TiviBuSpor1
+https://tv.arectv34.sbs/live/t1.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TiviBuSpor2
+https://tv.arectv34.sbs/live/t2.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TiviBuSpor2
+https://tv.arectv34.sbs/live/t3.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ASpor
 http://95.174.71.114:80/TR-A-SPOR/index.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ASpor(2)
+http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4OTMwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6IjM3MmZmZmU0IiwicCI6IjM3MmZmZmU0ZGUxNDliZWQiLCJjIjoiMjg2IiwidCI6ImI1MDJjMjBiNWRlODlkODhjNDkyZjczODExZjdjNGI2IiwiZCI6IjE4MTI2MyIsInIiOiIxODQ4MTIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg5MzAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HT SPOR
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HT SPOR(2)
+http://ciner-live.ercdn.net/htspor/htspor.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BeinSport Haber
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ekol Sports
+https://metvmetv.metvmetv83.workers.dev/?id=112
 
 
 
