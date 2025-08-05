@@ -36,6 +36,9 @@ https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
