@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="KN 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/250px-Kan11Logo.svg.png" group-title="israil",KAN 11
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH 12" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/250px-Keshet12_2018.svg.png group-title="israil",CH 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/0/hdntl=exp=1752661341~acl=%2f*~data=hdntl~hmac=e09c1483ec77a2693cdf91f3d04482b2f03783ccd927dc06cf238707eaae2c87/profileManifest.m3u8?_uid=57b95473-62fd-49a4-bfee-84b31ec6ce42&rK=b9&_did=faa42beff55d6fae254a02cc4447e70f3cc5471a
+#EXTINF:-1 tvg-id="" tvg-name="CH 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/New_Logo_13_2022.jpg/250px-New_Logo_13_2022.jpg" group-title="israil",CH 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Noamperetz-now14logo.png/250px-Noamperetz-now14logo.png" group-title="israil",CH 14
+https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAKAN 33" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" group-title="israil",MAKAN 33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KAN EDU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/250px-KanHinuchit.svg.png" group-title="israil",KAN EDU
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ORF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/250px-ORF_logo.svg.png" group-title="Avusturya",ORF
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Digi SPORT 1" tvg-logo="https://commons.wikimedia.org/wiki/File:DIGI_Sport_1.svg" group-title="Romanya",Digi SPORT 1
+http://109.73.128.27/tk
+#EXTINF:-1 tvg-id="" tvg-name="TVP1" tvg-logo="https://s.tvp.pl/files/portal/v4/gfx/logo/tvp1_b.png" group-title="Polonya",TVP1
+https://dokko1new.newkso.ru/dokko1/premium560/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVP2" tvg-logo="https://s.tvp.pl/files/portal/v4/gfx/logo/tvp2_b.png" group-title="Polonya",TVP2
+https://dokko1new.newkso.ru/dokko1/premium561/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLFZqCvrjoNHmTDX9jIYau4ytE6UIpaTNAz7ryE3BDSn-lQh8BUY3wg8XxNiXxmLEpZYxJogqK_QCBgGrp50nt2q8RUDQV-pROl2wApH-l_A" group-title="Polonya",TVN
+https://dokko1new.newkso.ru/dokko1/premium565/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Happy TV" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/b/b5/HappyTV.png/revision/latest/thumbnail/width/360/height/360?cb=20191219023716" group-title="Sırbistan",Happy TV
+https://stream1.happytv.rs/Happytv/myStream/chunklist_w1509443843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentry" tvg-logo="https://yt3.googleusercontent.com/I53k7liq3FT7AExyBPnnXR5L8I9UB88_5ZVu0K2EmF_MYzFeank6kv3_ogUht2uSdhtSdEOg=s900-c-k-c0x00ffffff-no-rj" group-title="China",CGTN Documentry
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL Jazeera Documentry" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Al_Jazeera_Documentary_Channel.png/revision/latest?cb=20120211112107" group-title="BEA",AL Jazeera Documentry
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wion News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png" group-title="Hindistan",Wions News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Travelxp_HD.svg/revision/latest?cb=20200102200127" group-title="Hindistan",Travel XP
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
