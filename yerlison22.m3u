@@ -69,11 +69,14 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Rize.Turk.TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Rize.Turk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Isvicre.TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",isvicre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kibris TV
+https://play.kibristv.com/stream/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sozcu TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
