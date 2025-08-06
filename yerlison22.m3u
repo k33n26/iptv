@@ -15,6 +15,9 @@ https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",NOW TV(2)
 https://trn03.tulix.tv/gt-fox-turk-tv/index.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NOW TV(3)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",STAR HD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
@@ -38,6 +41,9 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT Nostalji
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
@@ -120,32 +126,14 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cnbc-E TV 
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FX (sarantv) 
+https://saran-live.ercdn.net/fx/index.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Yansima Sinema TV 
 https://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kemal Sunal TV 
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Kemal_Sunal_Tv.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SİNEMA 1001
-http://45.94.150.154:8000/play/a00q
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SİNEMA 1002
-http://45.94.150.154:8000/play/a00r
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SİNEMA AKSİYON 2
-http://45.94.150.154:8000/play/a00k
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SİNEMA AİLE
-http://45.94.150.154:8000/play/a00m
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SİNEMA AİLE 2
-http://45.94.150.154:8000/play/a00n
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SİNEMA KOMEDİ
-http://45.94.150.154:8000/play/a00o
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SİNEMA KOMEDİ 2
-http://45.94.150.154:8000/play/a00p
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kastamonu TV
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
@@ -159,8 +147,14 @@ https://tv.arectv11.sbs/live/bbc.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC EARTH(3)
 https://tv.prectv5.sbs/live/bbc.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC EARTH(4)
+https://tv.arectv34.sbs/live/bbc.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Discovery
 https://tv1.arectv30.sbs/live/discovery.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Discovery(2)
+https://tv.arectv34.sbs/live/discovery.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tarih TV
 https://tv.arectv19.sbs/live/tarihtv.m3u8
@@ -171,11 +165,17 @@ https://tv.arectv11.sbs/live/tarihtv.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tarih TV(3)
 https://tv.prectv5.sbs/live/tarihtv.m3u8
 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tarih TV(4)
+https://tv.arectv34.sbs/live/tarihtv.m3u8
+
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Viasat History
 https://tv.arectv11.sbs/live/viasathistory.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Viasat History(2)
 https://tv.prectv5.sbs/live/viasathistory.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CGTN Documentry
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",MSmart Turk
 https://tv.arectv34.sbs/live/mvturk.m3u8
@@ -195,10 +195,10 @@ https://tv.arectv34.sbs/live/bsfamily.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",BMovies Action
 https://tv.arectv34.sbs/live/bsaction1.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geographic Channel
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geographic Channel (sarantv)
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geographic Wild
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geographic Wild (sarantv)
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",SSport-2
@@ -291,103 +291,15 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bei
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ekol Sports
 https://metvmetv.metvmetv83.workers.dev/?id=112
 
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kuzey Kibris TV
 https://old.kuzeykibris.tv/m3u8/kktv.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Nature Time(FR)
-https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Disney Junior (sarantv)
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Nature Time(FR)(2)
-https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Baby Tv (sarantv)
+https://saran-live.ercdn.net/babytv/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV5MONDE VOYAGE
-https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV5MONDE VOYAGE(2)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CGTN Belgesel
-https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT1 (GR)
-https://speech8.anixa.tv/ert1CC/ert1CC/chunks.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT2 (GR)
-https://speech8.anixa.tv/ert2CC/ert2CC/chunks.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT3 (GR)
-https://speech8.anixa.tv/ert3CC/ert3CC/chunks.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT World (GR)
-https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT News (GR)
-https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT Kids (GR)
-http://hbbtvapp.ert.gr/stream.php/v/vid_kidstv-hbbtv_mpeg.2ts
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ERT Music (GR)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ALPHA TV (GR)
-https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ANT1 HD (GR)
-https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ANT1 SD (GR)
-http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SPORTS1 (GR)
-https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SKAI (GR)
-https://skai-live.siliconweb.com/media/cambria4/index.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",STAR INT (GR)
-https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",STAR HD (GR)
-https://livestar.siliconweb.com/media/star4/star4.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",STARC (GR)
-http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MEGA (GR)
-https://spark3.smart-tv-data.com/megaHD/megaHD/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MEGA NEWS (GR)
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MAK TV (GR)
-https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/6415884360001/playlist_dvr.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",OPEN TV (GR)
-https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ATTICA (GR)
-http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SIGMA TV (GR)
-https://sl2.sigmatv.com/hls/live.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",OMEGA (GR)
-https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",EXPLORE (GR)
-http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",AEOLOS (GR)
-https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ALPHA TV (CY)
-https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
-
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",RIK SAT (CY)
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-
-
-
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Yaz Tv (sarantv)
+https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.m3u8
 
