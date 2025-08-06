@@ -93,20 +93,18 @@ https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV5MONDE VOYAGE(2)" tvg-logo="" group-title="Fransa",TV5MONDE VOYAGE(2)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="3Sat" tvg-logo="" group-title="Almanya",3Sat
+https://ddy6new.newkso.ru/ddy6/premium726/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="5 USA" tvg-logo="" group-title="ABD",5 USA
+https://windnew.newkso.ru/wind/premium360/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Sport" tvg-logo="" group-title="Pakistan",A Sport
+https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="ABD",A&E
+https://zekonew.newkso.ru/zeko/premium302/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 BiH" tvg-logo="" group-title="Spor",Arena Sport 1 BiH
+https://windnew.newkso.ru/wind/premium579/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 Croatia" tvg-logo="" group-title="Spor",Arena Sport 1 Croatia
+https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 
 
 
