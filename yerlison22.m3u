@@ -1,305 +1,390 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT 1 HD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT 2 HD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT BELGESEL HD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",TRT BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NOW TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",NOW TV
 https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NOW TV(2)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",NOW TV(2)
 https://trn03.tulix.tv/gt-fox-turk-tv/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NOW TV(3)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",NOW TV(3)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",STAR HD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",STAR HD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",NTV HD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",NTV HD
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ATV HD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",ATV HD
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SHOW TV HD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KANAL D HD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",KANAL D HD
 http://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Teve2 HD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",Teve2 HD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TV8 HD
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tabii TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TRT Nostalji
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",TRT Nostalji
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",SuperTurk TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SuperTurk Max TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",SuperTurk Max TV
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cine 6 TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",Cine 6 TV
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cine 6 Max TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",Cine 6 Max TV
 https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cine5 TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",Cine5 TV
 https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Bi Kanal TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",Bi Kanal TV
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cine1 TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",Cine1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SDM TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",SDM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tivi 6
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ONS TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Rize.Turk TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",Rize.Turk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",isvicre TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",isvicre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kibris TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Yerel",Kibris TV
 https://play.kibristv.com/stream/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sozcu TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",Sozcu TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sozcu TV(2)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",Sozcu TV(2)
 https://162.212.179.32/gin-trn09/gin-sozcutv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Sozcu TV(3)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",Sozcu TV(3)
 https://b.fulltvizle.com/sozcu/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tele1 TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",Tele1 TV
 http://tele1-live.ercdn.net/tele1/tele1.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Halk TV 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",Halk TV 
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=5e4v4bm2m0tc&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",KRT TV 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",KRT TV 
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HaberTurk TV 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",HaberTurk TV 
 http://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HaberTurk TV(2)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",HaberTurk TV(2)
 http://ensonhaber-live.ercdn.net/haberturk/haberturk_720p.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HaberGlobal TV 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",HaberGlobal TV 
 http://ensonhaber-live.ercdn.net/haberglobal/haberglobal_720p.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ekol TV 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",Ekol TV 
 http://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FlashHaber TV 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",FlashHaber TV 
 http://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",LiderHaber TV 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Haber",LiderHaber TV 
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Play TV 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",360 TV 
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",Play TV 
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Cnbc-E TV 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Ulusal",Cnbc-E TV 
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",FX (sarantv) 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",FX (sarantv) 
 https://saran-live.ercdn.net/fx/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Yansima Sinema TV 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",Yansima Sinema TV 
 https://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kemal Sunal TV 
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",Kemal Sunal TV 
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Kemal_Sunal_Tv.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kastamonu TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Yerel",Kastamonu TV
 http://51.91.118.139:8080/kastamonutv/kastamonutv/3385
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC EARTH
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",BBC EARTH
 https://tv1.arectv30.sbs/live/bbc.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC EARTH(2)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",BBC EARTH(2)
 https://tv.arectv11.sbs/live/bbc.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC EARTH(3)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",BBC EARTH(3)
 https://tv.prectv5.sbs/live/bbc.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BBC EARTH(4)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",BBC EARTH(4)
 https://tv.arectv34.sbs/live/bbc.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Discovery
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Discovery
 https://tv1.arectv30.sbs/live/discovery.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Discovery(2)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Discovery(2)
 https://tv.arectv34.sbs/live/discovery.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tarih TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Discovery(3)
+https://ottcdn.kablowebtv.net/live_turksat_sub3/discoverychannel_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Tarih TV
 https://tv.arectv19.sbs/live/tarihtv.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tarih TV(2)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Tarih TV(2)
 https://tv.arectv11.sbs/live/tarihtv.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tarih TV(3)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Tarih TV(3)
 https://tv.prectv5.sbs/live/tarihtv.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Tarih TV(4)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Tarih TV(4)
 https://tv.arectv34.sbs/live/tarihtv.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Viasat History
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Tarih TV(5)
+https://ottcdn.kablowebtv.net/live_turksat_sub3/tarihtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Viasat History
 https://tv.arectv11.sbs/live/viasathistory.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Viasat History(2)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Viasat History(2)
 https://tv.prectv5.sbs/live/viasathistory.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",CGTN Documentry
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Viasat History(3)
+https://ottcdn.kablowebtv.net/live_turksat_sub3/viasathistory_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Viasat Explore
+https://ottcdn.kablowebtv.net/live_turksat_sub3/viasatexplore_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Love Nature
+https://ottcdn.kablowebtv.net/live_turksat_sub3/lovenaturehd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Da Vinci
+https://ottcdn.kablowebtv.net/live_turksat_sub3/davinci_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",CGTN Documentry
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",MSmart Turk
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",ID
+https://ottcdn.kablowebtv.net/live_turksat_sub3/id_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Docu Screen
+https://ottcdn.kablowebtv.net/live_turksat_sub3/docuscreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Life Tv
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Vizi Belgesel
+https://goldvod.org/tv/uyanik?id=96
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Dmax
+https://ottcdn.kablowebtv.net/live_turksat_sub3/dmax_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",TLC
+https://ottcdn.kablowebtv.net/live_turksat_sub3/tlc_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",MSmart Turk
 https://tv.arectv34.sbs/live/mvturk.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BMovies Turk
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",BMovies Turk
 https://tv.arectv34.sbs/live/bsturk.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BMovies Stars
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",BMovies Stars
 https://tv.arectv34.sbs/live/bsstars.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BMovies Premier
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",BMovies Premier
 https://tv.arectv34.sbs/live/bspremier1.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BMovies Family
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",BMovies Family
 https://tv.arectv34.sbs/live/bsfamily.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BMovies Action
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",BMovies Action
 https://tv.arectv34.sbs/live/bsaction1.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geographic Channel (sarantv)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",Film Screen
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",MSmart Classic
+https://goldvod.org/tv/vavoo?id=1337239933fee2e2ad02ff
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Sinema-Dizi",DiziSmart Max
+https://goldvod.org/tv/vavoo?id=4079530614434808c2d545
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",National Geographic Channel (sarantv)
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",National Geographic Wild (sarantv)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",National Geographic Wild (sarantv)
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SSport-2
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",SSport-1
+https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",SSport-2 (kablo)
+https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",SSport-2
 https://217.30.11.74/e/3030.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SSport-2(2)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",SSport-2(2)
 https://217.30.11.74/e/3031.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-1
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",BSport-1
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-1(2)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",BSport-1(2)
 https://lively1.cf4-86.workers.dev/static/bs1.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-1(3)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",BSport-1(3)
 https://lively1.cf4-86.workers.dev/static/bs11.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-2
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",BSport-2
 http://95.174.71.114:80/TR-BEINSPORT2/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-2(2)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",BSport-2(2)
 https://lively1.cf4-86.workers.dev/static/bs2.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-3
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",BSport-3
 http://95.174.71.114:80/TR-BEINSPORT3/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-4
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",BSport-4
 http://95.174.71.114:80/TR-BEINSPORT4/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-5
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",BSport-5
 https://lively1.cf4-86.workers.dev/static/bs5.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-Max1
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",BSport-Max1
 https://tv.arectv34.sbs/live/bm1.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BSport-Max2
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",BSport-Max2
 https://tv.arectv34.sbs/live/bm2.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SporSmart1
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",SporSmart1
 https://tv.arectv34.sbs/live/smart1.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",SporSmart2
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",SporSmart2
 https://tv.arectv34.sbs/live/smart2.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TiviBuSpor1
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",TiviBuSpor1
 https://tv.arectv34.sbs/live/t1.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TiviBuSpor2
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",TiviBuSpor2
 https://tv.arectv34.sbs/live/t2.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TiviBuSpor2
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",TiviBuSpor2
 https://tv.arectv34.sbs/live/t3.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",TabiiSpor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor1
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",TabiiSpor1
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor2
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",TabiiSpor2
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor3
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",TabiiSpor3
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor4
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",TabiiSpor4
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor5
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",TabiiSpor5
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",TabiiSpor6
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",TabiiSpor6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ASpor
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",ASpor
 http://95.174.71.114:80/TR-A-SPOR/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",ASpor(2)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",ASpor(2)
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4OTMwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6IjM3MmZmZmU0IiwicCI6IjM3MmZmZmU0ZGUxNDliZWQiLCJjIjoiMjg2IiwidCI6ImI1MDJjMjBiNWRlODlkODhjNDkyZjczODExZjdjNGI2IiwiZCI6IjE4MTI2MyIsInIiOiIxODQ4MTIiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15Lzg5MzAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HT SPOR
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",HT SPOR(2)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",HT SPOR(2)
 http://ciner-live.ercdn.net/htspor/htspor.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",BeinSport Haber
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",BeinSport Haber
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Ekol Sports
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",Ekol Sports
 https://metvmetv.metvmetv83.workers.dev/?id=112
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Kuzey Kibris TV
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Yerel",Kuzey Kibris TV
 https://old.kuzeykibris.tv/m3u8/kktv.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Disney Junior (sarantv)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Cocuk",Disney Junior (sarantv)
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Baby Tv (sarantv)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Cocuk",Baby Tv (sarantv)
 https://saran-live.ercdn.net/babytv/index.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="",Yaz Tv (sarantv)
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Cocuk",Smart Cocuk
+https://goldvod.org/tv/vavoo?id=1884291733e32c3cd7e9a5
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Cocuk",Spacetoon
+https://ottcdn.kablowebtv.net/live_turksat_sub3/spacetoon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Cocuk",Azoomee
+https://ottcdn.kablowebtv.net/live_turksat_sub3/azoomee_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Cocuk",English Club TV
+https://ottcdn.kablowebtv.net/live_turksat_sub3/englishclub_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Cocuk",LangLab TV
+https://ottcdn.kablowebtv.net/live_turksat_sub3/langlab_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Cocuk",LingoTOONS TV
+https://ottcdn.kablowebtv.net/live_turksat_sub3/lingotoons_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Cocuk",TinyTeen TV
+https://ottcdn.kablowebtv.net/live_turksat_sub3/tinyteen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="General",Yaz Tv (sarantv)
 https://playlist.fasttvcdn.com/pl/lr7kbpqgx18b3rh2kpbeog/Fire/playlist/2.m3u8
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Bein Gurme
+https://goldvod.org/tv/vavoo?id=9503946561e741aaf1f5f
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Bein iz
+http://gails.me:80/afrim.shefii/spXkFYJPJA1eXEbmwP5KDMbwp19qWRSdh/111312
+
+
+
 
