@@ -346,9 +346,6 @@ http://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",BeinSport Haber
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
 
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",Ekol Sports
-https://metvmetv.metvmetv83.workers.dev/?id=112
-
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="Yerel",Kuzey Kibris TV
 https://old.kuzeykibris.tv/m3u8/kktv.m3u8
 
@@ -391,6 +388,10 @@ http://gails.me:80/afrim.shefii/spXkFYJPJA1eXEbmwP5KDMbwp19qWRSdh/111312
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="Belgesel",Bein iz(2)
 https://goldvod.org/tv/vavoo?id=31561783590bdea7d4bf69
+
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Spor",Ekol Spor
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_720p.m3u8
+
 
 
 
