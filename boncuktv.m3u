@@ -145,6 +145,8 @@ https://trn03.tulix.tv/gt-dmax-tv/index.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/tarihtv.png" ,Tarih TV
 https://ds.ayakkabiparti.lol/tarihtv/index.m3u8
+#EXTINF:-1 tvg-id="DIYANET.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png" group-title="DİNİ",DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 group-title="BELGESEL" tvg-id="BBCEarth.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/1280px-BBC_Earth.svg.png" ,BBC earth
 http://109.61.81.147:1935/cdn7/4011/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
 #EXTINF:-1 group-title="BELGESEL" tvg-id="History.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/History%20Logo%20on%20Black%20BG.PNG" ,History
