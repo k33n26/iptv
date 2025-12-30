@@ -1,0 +1,150 @@
+#EXTM3U
+# Playlist Oluşturulma Tarihi: 30.12.2025 18:03:22
+# Toplam Kanal: 48
+
+#EXTINF:-1 tvg-id="halktv" tvg-name="Halktv" tvg-logo="https://img.youtube.com/vi/na_jT2Q1rfA/hqdefault.jpg" group-title="Haber",Halktv
+http://104.238.23.221/yt1.php?v=na_jT2Q1rfA
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://img.youtube.com/vi/pqq5c6k70kk/hqdefault.jpg" group-title="Haber",NTV
+http://104.238.23.221/yt1.php?v=pqq5c6k70kk
+
+#EXTINF:-1 tvg-id="bloomberg_ht" tvg-name="Bloomberg HT" tvg-logo="https://img.youtube.com/vi/hHSmBJk6w0c/hqdefault.jpg" group-title="Haber",Bloomberg HT
+http://104.238.23.221/yt1.php?v=hHSmBJk6w0c
+
+#EXTINF:-1 tvg-id="trt_haber" tvg-name="TRT Haber" tvg-logo="https://img.youtube.com/vi/EvlMtGiuNE4/hqdefault.jpg" group-title="Haber",TRT Haber
+http://104.238.23.221/yt1.php?v=EvlMtGiuNE4
+
+#EXTINF:-1 tvg-id="cennet_mahallesi" tvg-name="Cennet Mahallesi" tvg-logo="https://img.youtube.com/vi/lf1NxAexRAE/hqdefault.jpg" group-title="Dizi",Cennet Mahallesi
+http://104.238.23.221/yt1.php?v=lf1NxAexRAE
+
+#EXTINF:-1 tvg-id="avrupa_yakası" tvg-name="Avrupa Yakası" tvg-logo="https://img.youtube.com/vi/NGsjOrzwjZk/hqdefault.jpg" group-title="Dizi",Avrupa Yakası
+http://104.238.23.221/yt1.php?v=NGsjOrzwjZk
+
+#EXTINF:-1 tvg-id="sözcü_tv" tvg-name="Sözcü Tv" tvg-logo="https://img.youtube.com/vi/ztmY_cCtUl0/hqdefault.jpg" group-title="Haber",Sözcü Tv
+http://104.238.23.221/yt1.php?v=ztmY_cCtUl0
+
+#EXTINF:-1 tvg-id="kral_pop_radyo" tvg-name="Kral POP Radyo" tvg-logo="https://img.youtube.com/vi/5J-w9AHKHsc/hqdefault.jpg" group-title="Müzik",Kral POP Radyo
+http://104.238.23.221/yt1.php?v=5J-w9AHKHsc
+
+#EXTINF:-1 tvg-id="slow_türk" tvg-name="Slow Türk" tvg-logo="https://img.youtube.com/vi/tWTHF0r2oEw/hqdefault.jpg" group-title="Müzik",Slow Türk
+http://104.238.23.221/yt1.php?v=tWTHF0r2oEw
+
+#EXTINF:-1 tvg-id="tv100" tvg-name="TV100" tvg-logo="https://img.youtube.com/vi/6g_DvD8e2T0/hqdefault.jpg" group-title="Haber",TV100
+http://104.238.23.221/yt1.php?v=6g_DvD8e2T0
+
+#EXTINF:-1 tvg-id="haber_global" tvg-name="Haber Global" tvg-logo="https://img.youtube.com/vi/EqoCJ8BPxtE/hqdefault.jpg" group-title="Haber",Haber Global
+http://104.238.23.221/yt1.php?v=EqoCJ8BPxtE
+
+#EXTINF:-1 tvg-id="radyo_45_lik" tvg-name="Radyo 45 lik" tvg-logo="https://img.youtube.com/vi/dk_uf4o2atY/hqdefault.jpg" group-title="Müzik",Radyo 45 lik
+http://104.238.23.221/yt1.php?v=dk_uf4o2atY
+
+#EXTINF:-1 tvg-id="kral_fm" tvg-name="Kral FM" tvg-logo="https://img.youtube.com/vi/A49bKX8gb-8/hqdefault.jpg" group-title="Müzik",Kral FM
+http://104.238.23.221/yt1.php?v=A49bKX8gb-8
+
+#EXTINF:-1 tvg-id="kral_pop" tvg-name="Kral POP" tvg-logo="https://img.youtube.com/vi/GuFTuKoXepw/hqdefault.jpg" group-title="Müzik",Kral POP
+http://104.238.23.221/yt1.php?v=GuFTuKoXepw
+
+#EXTINF:-1 tvg-id="a_spor" tvg-name="A Spor" tvg-logo="https://img.youtube.com/vi/ysh-bPiD3Oo/hqdefault.jpg" group-title="Haber",A Spor
+http://104.238.23.221/yt1.php?v=ysh-bPiD3Oo
+
+#EXTINF:-1 tvg-id="radyo_7" tvg-name="Radyo 7" tvg-logo="https://img.youtube.com/vi/Nnn6OWQ6kk0/hqdefault.jpg" group-title="Müzik",Radyo 7
+http://104.238.23.221/yt1.php?v=Nnn6OWQ6kk0
+
+#EXTINF:-1 tvg-id="kızılcık_Şerbeti" tvg-name="Kızılcık Şerbeti" tvg-logo="https://img.youtube.com/vi/QXTh9Vqzc18/hqdefault.jpg" group-title="Dizi",Kızılcık Şerbeti
+http://104.238.23.221/yt1.php?v=QXTh9Vqzc18
+
+#EXTINF:-1 tvg-id="seksenler" tvg-name="Seksenler" tvg-logo="https://img.youtube.com/vi/qGYlF1MiMxw/hqdefault.jpg" group-title="Dizi",Seksenler
+http://104.238.23.221/yt1.php?v=qGYlF1MiMxw
+
+#EXTINF:-1 tvg-id="radyo_anatolian_canlı_yayın_-_70s_psychedelic_anatolian_rock_-_the_spirit_of_anatolia" tvg-name="Radyo Anatolian Canlı Yayın - 70s Psychedelic Anatolian Rock - The Spirit Of Anatolia" tvg-logo="https://img.youtube.com/vi/dubxvVmHOu0/hqdefault.jpg" group-title="Müzik",Radyo Anatolian Canlı Yayın - 70s Psychedelic Anatolian Rock - The Spirit Of Anatolia
+http://104.238.23.221/yt1.php?v=dubxvVmHOu0
+
+#EXTINF:-1 tvg-id="radyo_damar" tvg-name="Radyo DAMAR" tvg-logo="https://img.youtube.com/vi/N1VogsSbe6M/hqdefault.jpg" group-title="Müzik",Radyo DAMAR
+http://104.238.23.221/yt1.php?v=N1VogsSbe6M
+
+#EXTINF:-1 tvg-id="behzat_Ç._7/24" tvg-name="Behzat Ç. 7/24" tvg-logo="https://img.youtube.com/vi/t2UnfQ0ieHM/hqdefault.jpg" group-title="Dizi",Behzat Ç. 7/24
+http://104.238.23.221/yt1.php?v=t2UnfQ0ieHM
+
+#EXTINF:-1 tvg-id="muhteşem_yüzyıl" tvg-name="Muhteşem Yüzyıl" tvg-logo="https://img.youtube.com/vi/BZVfxvvdw1g/hqdefault.jpg" group-title="Dizi",Muhteşem Yüzyıl
+http://104.238.23.221/yt1.php?v=BZVfxvvdw1g
+
+#EXTINF:-1 tvg-id="eşkıya_dünyaya_hükümdar_olmaz" tvg-name="Eşkıya Dünyaya Hükümdar Olmaz" tvg-logo="https://img.youtube.com/vi/F0yeYa-SSDc/hqdefault.jpg" group-title="Dizi",Eşkıya Dünyaya Hükümdar Olmaz
+http://104.238.23.221/yt1.php?v=F0yeYa-SSDc
+
+#EXTINF:-1 tvg-id="radyo_seymen" tvg-name="Radyo Seymen" tvg-logo="https://img.youtube.com/vi/D-bO7oD8xNk/hqdefault.jpg" group-title="Müzik",Radyo Seymen
+http://104.238.23.221/yt1.php?v=D-bO7oD8xNk
+
+#EXTINF:-1 tvg-id="akustik_türküler" tvg-name="Akustik Türküler" tvg-logo="https://img.youtube.com/vi/_qm_JqY-6OI/hqdefault.jpg" group-title="Müzik",Akustik Türküler
+http://104.238.23.221/yt1.php?v=_qm_JqY-6OI
+
+#EXTINF:-1 tvg-id="bein_sport_haber" tvg-name="Bein Sport Haber" tvg-logo="https://img.youtube.com/vi/9xVXWLwT0vA/hqdefault.jpg" group-title="Haber",Bein Sport Haber
+http://104.238.23.221/yt1.php?v=9xVXWLwT0vA
+
+#EXTINF:-1 tvg-id="alemin_kralı" tvg-name="Alemin Kralı" tvg-logo="https://img.youtube.com/vi/avDRwKKjeSI/hqdefault.jpg" group-title="Dizi",Alemin Kralı
+http://104.238.23.221/yt1.php?v=avDRwKKjeSI
+
+#EXTINF:-1 tvg-id="enstrümantal_fon_müzikleri_•_rahatlatıcı_duygusal_müzikler_♫_ᴴᴰ" tvg-name="Enstrümantal Fon Müzikleri • Rahatlatıcı Duygusal Müzikler ♫ ᴴᴰ" tvg-logo="https://img.youtube.com/vi/EmdtE7sRMSY/hqdefault.jpg" group-title="Müzik",Enstrümantal Fon Müzikleri • Rahatlatıcı Duygusal Müzikler ♫ ᴴᴰ
+http://104.238.23.221/yt1.php?v=EmdtE7sRMSY
+
+#EXTINF:-1 tvg-id="kral_Şakir_7/24" tvg-name="Kral Şakir 7/24" tvg-logo="https://img.youtube.com/vi/5Whk9MVTpI4/hqdefault.jpg" group-title="Çocuk",Kral Şakir 7/24
+http://104.238.23.221/yt1.php?v=5Whk9MVTpI4
+
+#EXTINF:-1 tvg-id="Şömine_4k" tvg-name="Şömine 4K" tvg-logo="https://img.youtube.com/vi/ITBtNXd5WJs/hqdefault.jpg" group-title="Eğlence",Şömine 4K
+http://104.238.23.221/yt1.php?v=ITBtNXd5WJs
+
+#EXTINF:-1 tvg-id="tolgshow" tvg-name="Tolgshow" tvg-logo="https://img.youtube.com/vi/eXbVwpA3WVE/hqdefault.jpg" group-title="Eğlence",Tolgshow
+http://104.238.23.221/yt1.php?v=eXbVwpA3WVE
+
+#EXTINF:-1 tvg-id="7_numara" tvg-name="7 Numara" tvg-logo="https://img.youtube.com/vi/rS5dHYQsSxs/hqdefault.jpg" group-title="Dizi",7 Numara
+http://104.238.23.221/yt1.php?v=rS5dHYQsSxs
+
+#EXTINF:-1 tvg-id="7/24_antik_mısır_-_piramitler_youtube_Özel_yayın" tvg-name="7/24 Antik Mısır - Piramitler YouTube Özel Yayın" tvg-logo="https://img.youtube.com/vi/7EcFYsdlQoE/hqdefault.jpg" group-title="Belgesel",7/24 Antik Mısır - Piramitler YouTube Özel Yayın
+http://104.238.23.221/yt1.php?v=7EcFYsdlQoE
+
+#EXTINF:-1 tvg-id="bizimkiler" tvg-name="Bizimkiler" tvg-logo="https://img.youtube.com/vi/jvC6-s5exnI/hqdefault.jpg" group-title="Dizi",Bizimkiler
+http://104.238.23.221/yt1.php?v=jvC6-s5exnI
+
+#EXTINF:-1 tvg-id="Çiçek_taksi" tvg-name="Çiçek Taksi" tvg-logo="https://img.youtube.com/vi/h7AQN7Z3Zmg/hqdefault.jpg" group-title="Dizi",Çiçek Taksi
+http://104.238.23.221/yt1.php?v=h7AQN7Z3Zmg
+
+#EXTINF:-1 tvg-id="yeşilçam_7/24" tvg-name="Yeşilçam 7/24" tvg-logo="https://img.youtube.com/vi/Pq7ndgZHjjE/hqdefault.jpg" group-title="Eğlence",Yeşilçam 7/24
+http://104.238.23.221/yt1.php?v=Pq7ndgZHjjE
+
+#EXTINF:-1 tvg-id="eski_türk_filmleri" tvg-name="Eski Türk Filmleri" tvg-logo="https://img.youtube.com/vi/fC-Iom4mRvI/hqdefault.jpg" group-title="Eğlence",Eski Türk Filmleri
+http://104.238.23.221/yt1.php?v=fC-Iom4mRvI
+
+#EXTINF:-1 tvg-id="kemal_sunal_filmleri" tvg-name="Kemal Sunal Filmleri" tvg-logo="https://img.youtube.com/vi/_pRHXDSK8sA/hqdefault.jpg" group-title="Eğlence",Kemal Sunal Filmleri
+http://104.238.23.221/yt1.php?v=_pRHXDSK8sA
+
+#EXTINF:-1 tvg-id="kemal_sunal_filmleri_2" tvg-name="Kemal Sunal Filmleri 2" tvg-logo="https://img.youtube.com/vi/VkB9S_nInbA/hqdefault.jpg" group-title="Eğlence",Kemal Sunal Filmleri 2
+http://104.238.23.221/yt1.php?v=VkB9S_nInbA
+
+#EXTINF:-1 tvg-id="zeki-metin_filmleri" tvg-name="Zeki-Metin Filmleri" tvg-logo="https://img.youtube.com/vi/RK5GCwb-d4Y/hqdefault.jpg" group-title="Eğlence",Zeki-Metin Filmleri
+http://104.238.23.221/yt1.php?v=RK5GCwb-d4Y
+
+#EXTINF:-1 tvg-id="emret_komutanım" tvg-name="Emret Komutanım" tvg-logo="https://img.youtube.com/vi/dly2P8wDvzc/hqdefault.jpg" group-title="Dizi",Emret Komutanım
+http://104.238.23.221/yt1.php?v=dly2P8wDvzc
+
+#EXTINF:-1 tvg-id="kurtlar_vadisi" tvg-name="Kurtlar Vadisi" tvg-logo="https://img.youtube.com/vi/NzbEHkjHn6g/hqdefault.jpg" group-title="Dizi",Kurtlar Vadisi
+http://104.238.23.221/yt1.php?v=NzbEHkjHn6g
+
+#EXTINF:-1 tvg-id="rafadan_tayfa" tvg-name="Rafadan Tayfa" tvg-logo="https://img.youtube.com/vi/iWGWWFfYWig/hqdefault.jpg" group-title="Çocuk",Rafadan Tayfa
+http://104.238.23.221/yt1.php?v=iWGWWFfYWig
+
+#EXTINF:-1 tvg-id="a_para" tvg-name="A Para" tvg-logo="https://img.youtube.com/vi/6-Q8v_e-M2g/hqdefault.jpg" group-title="Haber",A Para
+http://104.238.23.221/yt1.php?v=6-Q8v_e-M2g
+
+#EXTINF:-1 tvg-id="sakarya_fırat" tvg-name="Sakarya Fırat" tvg-logo="https://img.youtube.com/vi/LrXSGDCnmnQ/hqdefault.jpg" group-title="Dizi",Sakarya Fırat
+http://104.238.23.221/yt1.php?v=LrXSGDCnmnQ
+
+#EXTINF:-1 tvg-id="arkadaşım_hoşgeldin" tvg-name="Arkadaşım Hoşgeldin" tvg-logo="https://img.youtube.com/vi/7--D-wer-r0/hqdefault.jpg" group-title="Eğlence",Arkadaşım Hoşgeldin
+http://104.238.23.221/yt1.php?v=7--D-wer-r0
+
+#EXTINF:-1 tvg-id="güldür_güldür" tvg-name="Güldür Güldür" tvg-logo="https://img.youtube.com/vi/jNMe50AHZMc/hqdefault.jpg" group-title="Eğlence",Güldür Güldür
+http://104.238.23.221/yt1.php?v=jNMe50AHZMc
+
+#EXTINF:-1 tvg-id="gönül_dağı" tvg-name="Gönül Dağı" tvg-logo="https://img.youtube.com/vi/DT2M4h17lGM/hqdefault.jpg" group-title="Dizi",Gönül Dağı
+http://104.238.23.221/yt1.php?v=DT2M4h17lGM
+
+# Playlist Sonu
+# İyi seyirler!
