@@ -1,0 +1,899 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.1.Bolum.(Donus).07.01.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.1.Bolum.(Donus).07.01.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498716/498715.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.2.Bolum.(Tasinma).14.01.1989" tvg-logo="" group-title=" 1.Sezon",Bizimkiler.2.Bolum.(Tasinma).14.01.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498726/498725.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.3.Bolum.(Horozlar Oterken).21.01.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.3.Bolum.(Horozlar Oterken).21.01.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498783/498781.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.4.Bolum.(Arabamiz Var).28.01.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.4.Bolum.(Arabamiz Var).28.01.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498768/498766.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.5.Bolum.(Bes Sekiz Arasi).04.02.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.5.Bolum.(Bes Sekiz Arasi).04.02.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498721/498720.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.6.Bolum.(Tarih Dersi).11.02.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.6.Bolum.(Tarih Dersi).11.02.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498763/498762.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.7.Bolum.(Ozel Bir Gun).18.02.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.7.Bolum.(Ozel Bir Gun).18.02.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498798/498797.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.8.Bolum.(Babam Sigarayi Birakti).25.02.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.8.Bolum.(Babam Sigarayi Birakti).25.02.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498788/498786.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.9.Bolum.(Amcam Evden Kacti).04.03.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.9.Bolum.(Amcam Evden Kacti).04.03.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/515274/515272.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.10.Bolum.(Mac Hastasi).11.03.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.10.Bolum.(Mac Hastasi).11.03.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498711/498709.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.11.Bolum.(Dava Konusu).18.03.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.11.Bolum.(Dava Konusu).18.03.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498849/498847.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.12.Bolum.(Cicekler Acarken).25.03.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.12.Bolum.(Cicekler Acarken).25.03.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498809/498807.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.13.Bolum.(Yeni Konuklar).01.04.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.13.Bolum.(Yeni Konuklar).01.04.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498844/498842.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.14.Bolum.(Gunlerden Pazar).13.05.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.14.Bolum.(Gunlerden Pazar).13.05.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498819/498817.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.15.Bolum.(Kotu Oyuncu).20.05.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.15.Bolum.(Kotu Oyuncu).20.05.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498824/498823.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.16.Bolum.(Taburcu).27.05.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.16.Bolum.(Taburcu).27.05.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498829/498827.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.17.Bolum.(Buyuk Temizlik).03.06.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.17.Bolum.(Buyuk Temizlik).03.06.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498814/498812.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.18.Bolum.(Paris Yolcusu).17.06.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.18.Bolum.(Paris Yolcusu).17.06.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498834/498832.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.19.Bolum.(Hizli Bisiklet).24.06.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.19.Bolum.(Hizli Bisiklet).24.06.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498793/498792.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.20.Bolum.(Zor Gunler).01.07.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.20.Bolum.(Zor Gunler).01.07.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498839/498838.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.21.Bolum.(Aska Vakit yok).07.10.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.21.Bolum.(Aska Vakit yok).07.10.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498923/498921.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.22.Bolum.(Yeni Arayislar).14.10.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.22.Bolum.(Yeni Arayislar).14.10.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498938/498937.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.23.Bolum.(Yasamak Guzel).21.10.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.23.Bolum.(Yasamak Guzel).21.10.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498913/498912.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.24.Bolum.(Yangin Var).28.10.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.24.Bolum.(Yangin Var).28.10.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498953/498951.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.25.Bolum.(Gok Gurultulu).04.11.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.25.Bolum.(Gok Gurultulu).04.11.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498943/498941.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.26.Bolum.(Genel Mudur).11.11.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.26.Bolum.(Genel Mudur).11.11.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498979/498978.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.27.Bolum.(Sanat Karin Doyurmaz).18.11.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.27.Bolum.(Sanat Karin Doyurmaz).18.11.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498969/498967.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.28.Bolum.(Dun Bugun).25.11.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.28.Bolum.(Dun Bugun).25.11.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498918/498916.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.29.Bolum.(Buyuk Isler).02.12.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.29.Bolum.(Buyuk Isler).02.12.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498974/498973.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.30.Bolum.(Hal Ve Gidis).09.12.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.30.Bolum.(Hal Ve Gidis).09.12.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/498928/498926.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.31.Bolum.(Yuksek Gerilim).16.12.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.31.Bolum.(Yuksek Gerilim).16.12.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/499056/499054.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.32.Bolum.(Imza Toreni).23.12.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.32.Bolum.(Imza Toreni).23.12.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/499061/499059.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.33.Bolum.(Insanoglu Kus Misali).30.12.1989" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.33.Bolum.(Insanoglu Kus Misali).30.12.1989
+https://eu1.tabii.com/apigateway/pbr/v1/media/499077/499075.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.34.Bolum.(Kisa Devre).06.01.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.34.Bolum.(Kisa Devre).06.01.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/499066/499065.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.35.Bolum.(Berlin,Kar Yagisli).13.01.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.35.Bolum.(Berlin,Kar Yagisli).13.01.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/499082/499080.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.36.Bolum.(Mufettis Var).20.01.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.36.Bolum.(Mufettis Var).20.01.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/499104/499103.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.37.Bolum.(Kalp Carpintisi).27.01.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.37.Bolum.(Kalp Carpintisi).27.01.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/499114/499113.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.38.Bolum.(Kazan Patladi).03.02.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.38.Bolum.(Kazan Patladi).03.02.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/499129/499127.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.39.Bolum.(Pastirma Kisi).10.02.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.39.Bolum.(Pastirma Kisi).10.02.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/499124/499123.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.40.Bolum.(Apartmanda Gelin Var).17.02.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.40.Bolum.(Apartmanda Gelin Var).17.02.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/499109/499108.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.41.Bolum.(Kucuk Yaramaz Sey).24.02.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.41.Bolum.(Kucuk Yaramaz Sey).24.02.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500031/500029.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.42.Bolum.(Mevsimsiz Salatalık).03.03.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.42.Bolum.(Mevsimsiz Salatalık).03.03.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500127/500125.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.43.Bolum.(Erken Oten Horoz).10.03.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.43.Bolum.(Erken Oten Horoz).10.03.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500051/500049.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.44.Bolum.(Is Gezisi).17.03.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.44.Bolum.(Is Gezisi).17.03.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500026/500024.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.45.Bolum.(Atesli Gunler).24.03.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.45.Bolum.(Atesli Gunler).24.03.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500061/500059.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.46.Bolum.(Erken Bahar).31.03.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.46.Bolum.(Erken Bahar).31.03.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500122/500121.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.47.Bolum.(Sevgi Baglari).07.04.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.47.Bolum.(Sevgi Baglari).07.04.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500046/500045.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.48.Bolum.(Yerinde Duramiyor).14.04.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.48.Bolum.(Yerinde Duramiyor).14.04.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500036/500035.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.49.Bolum.(Yeryuzu).21.04.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.49.Bolum.(Yeryuzu).21.04.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500071/500069.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.50.Bolum.(Cok Bulutlu).28.04.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.50.Bolum.(Cok Bulutlu).28.04.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500132/500131.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.51.Bolum.(Zincirleme).05.05.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.51.Bolum.(Zincirleme).05.05.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500157/500155.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.52.Bolum.(Hircin Ve Inatci).12.05.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.52.Bolum.(Hircin Ve Inatci).12.05.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500177/500176.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.53.Bolum.(Bitmeyen Senfoni).19.05.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.53.Bolum.(Bitmeyen Senfoni).19.05.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500152/500150.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.54.Bolum.(Kucuk Bir Yanlislik).26.05.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.54.Bolum.(Kucuk Bir Yanlislik).26.05.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500172/500170.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.55.Bolum.(Atesi Sonduruyor).02.06.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.55.Bolum.(Atesi Sonduruyor).02.06.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500162/500161.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.56.Bolum.(Her Sey Yolunda).09.06.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.56.Bolum.(Her Sey Yolunda).09.06.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500147/500145.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.57.Bolum.(Acili,Eksili).16.06.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.57.Bolum.(Acili,Eksili).16.06.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500137/500135.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.58.Bolum.(Etek Boyu).23.06.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.58.Bolum.(Etek Boyu).23.06.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500187/500185.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.59.Bolum.(Yol Kavsaginda).30.06.1990" tvg-logo="" group-title=" 2.Sezon(1989-1990)",Bizimkiler.59.Bolum.(Yol Kavsaginda).30.06.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/500182/500180.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.60.Bolum.(Tatli Hayat).07.10.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.60.Bolum.(Tatli Hayat).07.10.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/502359/502357.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.61.Bolum.(Buyuk Istanbul).14.10.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.61.Bolum.(Buyuk Istanbul).14.10.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/502626/502624.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.62.Bolum.(1,2,3).21.10.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.62.Bolum.(1,2,3).21.10.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/502969/502968.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.63.Bolum.(Yeni Kiracilar).28.10.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.63.Bolum.(Yeni Kiracilar).28.10.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/502337/502335.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.64.Bolum.(Kiracini Seveceksin).04.11.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.64.Bolum.(Kiracini Seveceksin).04.11.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/502364/502362.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.65.Bolum.(Okuma Gunleri).11.11.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.65.Bolum.(Okuma Gunleri).11.11.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/502974/502972.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.66.Bolum.(Atis Serbest).18.11.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.66.Bolum.(Atis Serbest).18.11.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/502526/502525.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.67.Bolum.(Aptalca).25.11.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.67.Bolum.(Aptalca).25.11.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/502541/502539.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.68.Bolum.(Oyle Bir Cumartesi).02.12.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.68.Bolum.(Oyle Bir Cumartesi).02.12.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/518223/518222.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.69.Bolum.(Yagis Beklenmiyor).09.12.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.69.Bolum.(Yagis Beklenmiyor).09.12.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/502531/502530.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.70.Bolum.(Babama Bir Sey Olursa).16.12.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.70.Bolum.(Babama Bir Sey Olursa).16.12.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/502994/502993.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.71.Bolum.(Bitmeyen Yaz).23.12.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.71.Bolum.(Bitmeyen Yaz).23.12.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/503050/503049.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.72.Bolum.(Az Sekerli Ve Sade).30.12.1990" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.72.Bolum.(Az Sekerli Ve Sade).30.12.1990
+https://eu1.tabii.com/apigateway/pbr/v1/media/503174/503173.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.73.Bolum.(Gecmis Zaman).06.01.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.73.Bolum.(Gecmis Zaman).06.01.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503179/503177.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.74.Bolum.(…Ve Gunun Birinde).13.01.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.74.Bolum.(…Ve Gunun Birinde).13.01.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503194/503192.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.75.Bolum.(Yeni Bir Soluk).20.01.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.75.Bolum.(Yeni Bir Soluk).20.01.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503311/503310.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.76.Bolum.(Buyuk Yargilama).27.01.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.76.Bolum.(Buyuk Yargilama).27.01.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503344/503342.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.77.Bolum.(Kirmizi Kart).03.02.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.77.Bolum.(Kirmizi Kart).03.02.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503316/503314.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.78.Bolum.(Gece Ucuslari).10.02.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.78.Bolum.(Gece Ucuslari).10.02.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503339/503338.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.79.Bolum.(Kemerini Sikacaksin).17.02.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.79.Bolum.(Kemerini Sikacaksin).17.02.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503359/503357.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.80.Bolum.(Vurgun).24.02.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.80.Bolum.(Vurgun).24.02.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503364/503362.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.81.Bolum.(Uydu Savasi).03.03.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.81.Bolum.(Uydu Savasi).03.03.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503354/503352.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=2
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.82.Bolum.(Gorusme Gunu).10.03.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.82.Bolum.(Gorusme Gunu).10.03.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503349/503348.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.83.Bolum.(Prova Gecesi).17.03.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.83.Bolum.(Prova Gecesi).17.03.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503374/503372.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.84.Bolum.(Son Imparator).24.03.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.84.Bolum.(Son Imparator).24.03.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503369/503368.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.85.Bolum.(Muzik Dersleri).07.04.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.85.Bolum.(Muzik Dersleri).07.04.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503486/503484.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.86.Bolum.(Baris Gunleri).14.04.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.86.Bolum.(Baris Gunleri).14.04.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503506/503505.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.87.Bolum.(Bayramlik).21.04.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.87.Bolum.(Bayramlik).21.04.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503491/503490.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.88.Bolum.(Parani Yiyeceksin).28.04.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.88.Bolum.(Parani Yiyeceksin).28.04.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503521/503519.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.89.Bolum.(Karakolda).05.05.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.89.Bolum.(Karakolda).05.05.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503526/503524.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.90.Bolum.(Parmak Izleri).12.05.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.90.Bolum.(Parmak Izleri).12.05.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/503541/503540.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.91.Bolum.(Kotu Haber).19.05.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.91.Bolum.(Kotu Haber).19.05.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505533/505532.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.92.Bolum.(Super Yetenek).26.05.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.92.Bolum.(Super Yetenek).26.05.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505563/505562.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.93.Bolum.(Son Model).02.06.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.93.Bolum.(Son Model).02.06.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505553/505551.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.94.Bolum.(Hava Yolcusu).09.06.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.94.Bolum.(Hava Yolcusu).09.06.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505548/505546.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.95.Bolum.(Kavak Yelleri).16.06.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.95.Bolum.(Kavak Yelleri).16.06.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505538/505537.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.96.Bolum.(Uygun Hesap).23.06.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.96.Bolum.(Uygun Hesap).23.06.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505528/505527.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.97.Bolum.(Komsunu Seveceksin).30.06.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.97.Bolum.(Komsunu Seveceksin).30.06.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505558/505557.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.98.Bolum.(Yolun Sonu).07.07.1991" tvg-logo="" group-title=" 3.Sezon(1990-1991)",Bizimkiler.98.Bolum.(Yolun Sonu).07.07.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505543/505541.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.99.Bolum.(Hayat Bu).06.10.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.99.Bolum.(Hayat Bu).06.10.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505568/505567.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.100.Bolum.(Aday Adayi).13.10.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.100.Bolum.(Aday Adayi).13.10.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505599/505597.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.101.Bolum.(Soyacekim).20.10.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.101.Bolum.(Soyacekim).20.10.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505594/505592.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.102.Bolum.(Hava Nasil Oralarda).27.10.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.102.Bolum.(Hava Nasil Oralarda).27.10.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505583/505582.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.103.Bolum.(Istavrit Cirozu).03.11.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.103.Bolum.(Istavrit Cirozu).03.11.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505588/505587.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.104.Bolum.(Hesapsizlik).10.11.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.104.Bolum.(Hesapsizlik).10.11.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505578/505577.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.105.Bolum.(Bir Aksaklik Var).17.11.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.105.Bolum.(Bir Aksaklik Var).17.11.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505573/505571.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.106.Bolum.(Limonesk).24.11.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.106.Bolum.(Limonesk).24.11.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505619/505618.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.107.Bolum.(Hava Parasi).01.12.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.107.Bolum.(Hava Parasi).01.12.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505614/505612.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.108.Bolum.(Parmakliklar Arasinda).08.12.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.108.Bolum.(Parmakliklar Arasinda).08.12.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505604/505603.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.109.Bolum.(Camasir Gunleri).15.12.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.109.Bolum.(Camasir Gunleri).15.12.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505609/505608.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.110.Bolum.(Baskin).22.12.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.110.Bolum.(Baskin).22.12.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/505624/505623.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.111.Bolum.(Uzlasma Gunu).29.12.1991" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.111.Bolum.(Uzlasma Gunu).29.12.1991
+https://eu1.tabii.com/apigateway/pbr/v1/media/506636/506634.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.112.Bolum.(Karakolda Ayna Var).05.01.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.112.Bolum.(Karakolda Ayna Var).05.01.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/506502/506500.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.113.Bolum.(Sanat Dostlari).12.01.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.113.Bolum.(Sanat Dostlari).12.01.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/506512/506511.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.114.Bolum.(Pazar Antlasmasi).19.01.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.114.Bolum.(Pazar Antlasmasi).19.01.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/506491/506490.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.115.Bolum.(Tango Biyik Bilakis).26.01.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.115.Bolum.(Tango Biyik Bilakis).26.01.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/506474/506473.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.116.Bolum.(Seffaf Kampanya).02.02.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.116.Bolum.(Seffaf Kampanya).02.02.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/506457/506455.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.117.Bolum.(Otorite Boslugu).09.02.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.117.Bolum.(Otorite Boslugu).09.02.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/506496/506494.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.118.Bolum.(Son Prova).16.02.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.118.Bolum.(Son Prova).16.02.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/506648/506646.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.119.Bolum.(Sanat Aski).23.02.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.119.Bolum.(Sanat Aski).23.02.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/506517/506516.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.120.Bolum.(Yolsuzluk Dosyasi).01.03.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.120.Bolum.(Yolsuzluk Dosyasi).01.03.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/506413/506412.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.121.Bolum.(Degmesin Yagli Boya).08.03.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.121.Bolum.(Degmesin Yagli Boya).08.03.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507572/507570.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.122.Bolum.(Mercimek Skandali).15.03.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.122.Bolum.(Mercimek Skandali).15.03.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507562/507561.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.123.Bolum.(Hayati Tehlike).22.03.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.123.Bolum.(Hayati Tehlike).22.03.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507577/507576.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.124.Bolum.(Sevgi Gunu).29.03.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.124.Bolum.(Sevgi Gunu).29.03.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507567/507565.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.125.Bolum.(Bayram Sekeri).05.04.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.125.Bolum.(Bayram Sekeri).05.04.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/502831/502829.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.126.Bolum.(Venedik Anilari).12.04.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.126.Bolum.(Venedik Anilari).12.04.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507804/507802.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.127.Bolum.(Gunduz Guzeli).19.04.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.127.Bolum.(Gunduz Guzeli).19.04.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507844/507842.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.128.Bolum.(Torununu Goreceksin).26.04.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.128.Bolum.(Torununu Goreceksin).26.04.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507799/507797.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.129.Bolum.(Uc Tekerlekli).03.05.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.129.Bolum.(Uc Tekerlekli).03.05.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507849/507846.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.130.Bolum.(Bahar Yorgunluklari).10.05.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.130.Bolum.(Bahar Yorgunluklari).10.05.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507839/507837.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=3
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.131.Bolum.(Mayis'in Ondokuzu).17.05.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.131.Bolum.(Mayis'in Ondokuzu).17.05.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507809/507808.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.132.Bolum.(Cayir Sefasi).24.05.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.132.Bolum.(Cayir Sefasi).24.05.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507814/507813.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.133.Bolum.(Saman Nezlesi).31.05.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.133.Bolum.(Saman Nezlesi).31.05.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507869/507867.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.134.Bolum.(Kurbanlik).07.06.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.134.Bolum.(Kurbanlik).07.06.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507859/507857.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.135.Bolum.(Alcaktan Ucus).14.06.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.135.Bolum.(Alcaktan Ucus).14.06.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507937/507935.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.136.Bolum.(Guneyli Dostlar).21.06.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.136.Bolum.(Guneyli Dostlar).21.06.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507854/507852.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.137.Bolum.(Herkes Yolunda).28.06.1992" tvg-logo="" group-title=" 4.Sezon(1991-1992)",Bizimkiler.137.Bolum.(Herkes Yolunda).28.06.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/507864/507862.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.138.Bolum.(Son Darbe).27.09.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.138.Bolum.(Son Darbe).27.09.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509512/509510.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.139.Bolum.(Alman Civisi).04.10.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.139.Bolum.(Alman Civisi).04.10.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509527/509526.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.140.Bolum.(Geregi Dusunuldu).11.10.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.140.Bolum.(Geregi Dusunuldu).11.10.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509584/509582.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.141.Bolum.(Buyuk Catlak).18.10.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.141.Bolum.(Buyuk Catlak).18.10.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509507/509501.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.142.Bolum.(Uyum Calismalari).25.10.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.142.Bolum.(Uyum Calismalari).25.10.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509537/509536.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.143.Bolum.(Son Kahvalti).01.11.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.143.Bolum.(Son Kahvalti).01.11.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509479/509477.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.144.Bolum.(Kirkindan Sonra).08.11.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.144.Bolum.(Kirkindan Sonra).08.11.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509532/509531.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.145.Bolum.(Bayat Lokum).15.11.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.145.Bolum.(Bayat Lokum).15.11.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509474/509472.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.146.Bolum.(Bicak Ustunde).22.11.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.146.Bolum.(Bicak Ustunde).22.11.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509562/509560.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.147.Bolum.(Gel Babasi).29.11.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.147.Bolum.(Gel Babasi).29.11.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509589/509588.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.148.Bolum.(Secim Heyecani).06.12.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.148.Bolum.(Secim Heyecani).06.12.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509579/509577.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.149.Bolum.(Son Damla).13.12.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.149.Bolum.(Son Damla).13.12.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509506/509505.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.150.Bolum.(Bitmeyen Kavga).20.12.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.150.Bolum.(Bitmeyen Kavga).20.12.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509572/509570.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.151.Bolum.(Acilan Sandik).27.12.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.151.Bolum.(Acilan Sandik).27.12.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/509798/509797.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.Ozel.Bolum.(Yilbasi Ozel).31.12.1992" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.Ozel.Bolum.(Yilbasi Ozel).31.12.1992
+https://eu1.tabii.com/apigateway/pbr/v1/media/512093/512091.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.152.Bolum.(Son Beste).03.01.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.152.Bolum.(Son Beste).03.01.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509602/509600.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.153.Bolum.(Eksi Alti).10.01.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.153.Bolum.(Eksi Alti).10.01.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509803/509801.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.154.Bolum.(Bunalim Kapida).17.01.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.154.Bolum.(Bunalim Kapida).17.01.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509721/509719.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.155.Bolum.(Karin Agrisi).24.01.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.155.Bolum.(Karin Agrisi).24.01.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509768/509766.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.156.Bolum.(Suskunluk Yasasi).31.01.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.156.Bolum.(Suskunluk Yasasi).31.01.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509711/509710.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.157.Bolum.(Kayisi Hosafi).07.02.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.157.Bolum.(Kayisi Hosafi).07.02.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509763/509761.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.158.Bolum.(Kestirme Yol).14.02.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.158.Bolum.(Kestirme Yol).14.02.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509773/509772.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.159.Bolum.(Tam Isabet).21.02.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.159.Bolum.(Tam Isabet).21.02.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509726/509724.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.160.Bolum.(Inleyen Nagmeler).28.02.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.160.Bolum.(Inleyen Nagmeler).28.02.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509738/509736.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.161.Bolum.(Kapi Duvar).07.03.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.161.Bolum.(Kapi Duvar).07.03.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509778/509776.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.162.Bolum.(Sicak Basti).14.03.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.162.Bolum.(Sicak Basti).14.03.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509758/509756.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.163.Bolum.(Gun Donerken).21.03.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.163.Bolum.(Gun Donerken).21.03.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509793/509791.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.164.Bolum.(Gecmis Bayram).28.03.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.164.Bolum.(Gecmis Bayram).28.03.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509788/509786.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.165.Bolum.(Infaz Gecesi).04.04.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.165.Bolum.(Infaz Gecesi).04.04.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/509753/509752.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=3
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.166.Bolum.(Ilahi Adalet).11.04.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.166.Bolum.(Ilahi Adalet).11.04.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510548/510546.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.167.Bolum.(Sohret Yolunda).18.04.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.167.Bolum.(Sohret Yolunda).18.04.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510583/510581.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.168.Bolum.(Bahar Vurgunu).25.04.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.168.Bolum.(Bahar Vurgunu).25.04.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510543/510541.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.169.Bolum.(Kirkdokuz Bucuk).02.05.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.169.Bolum.(Kirkdokuz Bucuk).02.05.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510588/510587.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.170.Bolum.(Dusuk Tansiyon).09.05.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.170.Bolum.(Dusuk Tansiyon).09.05.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510558/510557.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.171.Bolum.(Kesin Issizlik).16.05.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.171.Bolum.(Kesin Issizlik).16.05.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510563/510561.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.172.Bolum.(Fasulye Bunalimi).23.05.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.172.Bolum.(Fasulye Bunalimi).23.05.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510538/510536.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.173.Bolum.(Zemberek).30.05.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.173.Bolum.(Zemberek).30.05.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510553/510552.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.174.Bolum.(Giyotin).06.06.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.174.Bolum.(Giyotin).06.06.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510573/510572.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.175.Bolum.(Aile Baglari).13.06.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.175.Bolum.(Aile Baglari).13.06.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510578/510576.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.176.Bolum.(Saldim Cayira).20.06.1993" tvg-logo="" group-title=" 5.Sezon(1992-1993)",Bizimkiler.176.Bolum.(Saldim Cayira).20.06.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510568/510567.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.177.Bolum.(Cati Savaslari).03.10.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.177.Bolum.(Cati Savaslari).03.10.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510603/510601.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.178.Bolum.(Gorev Aski).10.10.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.178.Bolum.(Gorev Aski).10.10.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510598/510597.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.179.Bolum.(İc Hastaliklar).17.10.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.179.Bolum.(İc Hastaliklar).17.10.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/510593/510591.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.180.Bolum.(Gizli Dusler).24.10.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.180.Bolum.(Gizli Dusler).24.10.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/511351/511349.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.181.Bolum.(Yalnizlar).31.10.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.181.Bolum.(Yalnizlar).31.10.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/511341/511339.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.182.Bolum.(Cikis Yok).07.11.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.182.Bolum.(Cikis Yok).07.11.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/511381/511380.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.183.Bolum.(Yirmiiki Ayar).14.11.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.183.Bolum.(Yirmiiki Ayar).14.11.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/511256/511255.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.184.Bolum.(Uc Numara Tertip).21.11.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.184.Bolum.(Uc Numara Tertip).21.11.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/511386/511385.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.185.Bolum.(Kerevitlenme).28.11.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.185.Bolum.(Kerevitlenme).28.11.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/511391/511389.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.186.Bolum.(Yilda Bir).05.12.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.186.Bolum.(Yilda Bir).05.12.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/511346/511345.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.187.Bolum.(Baliklama).12.12.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.187.Bolum.(Baliklama).12.12.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/511266/511265.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.188.Bolum.(Farkli Acilar).19.12.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.188.Bolum.(Farkli Acilar).19.12.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/511261/511259.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.189.Bolum.(Firdondu).26.12.1993" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.189.Bolum.(Firdondu).26.12.1993
+https://eu1.tabii.com/apigateway/pbr/v1/media/511336/511335.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.190.Bolum.(Yeni Umutlar).02.01.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.190.Bolum.(Yeni Umutlar).02.01.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/511276/511274.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.191.Bolum.(Donus).09.01.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.191.Bolum.(Donus).09.01.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/511465/511463.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.192.Bolum.(Isvec Lokumu).16.01.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.192.Bolum.(Isvec Lokumu).16.01.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/511460/511458.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.193.Bolum.(Bitmeyen Kredi).23.01.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.193.Bolum.(Bitmeyen Kredi).23.01.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/511396/511395.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.194.Bolum.(Dogaya Donus).30.01.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.194.Bolum.(Dogaya Donus).30.01.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/511426/511424.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.195.Bolum.(Son Pazar).06.02.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.195.Bolum.(Son Pazar).06.02.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/511444/511442.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=2
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.196.Bolum.(Sicak Ziyaretler).13.02.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.196.Bolum.(Sicak Ziyaretler).13.02.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/511431/511430.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.197.Bolum.(Karisik Liste).20.02.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.197.Bolum.(Karisik Liste).20.02.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/511455/511454.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.198.Bolum.(Sabri Vak'asi).27.02.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.198.Bolum.(Sabri Vak'asi).27.02.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/511480/511478.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.199.Bolum.(Ozel Girisim).06.03.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.199.Bolum.(Ozel Girisim).06.03.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/511470/511469.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.200.Bolum.(Cifte Dalya).13.03.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.200.Bolum.(Cifte Dalya).13.03.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/511436/511434.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.201.Bolum.(Genis Cerceve).20.03.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.201.Bolum.(Genis Cerceve).20.03.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512043/512041.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.202.Bolum.(Kukreyen Fare).27.03.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.202.Bolum.(Kukreyen Fare).27.03.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512032/512030.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.203.Bolum.(Keskin Darbe).03.04.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.203.Bolum.(Keskin Darbe).03.04.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512027/512026.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.204.Bolum.(Ask Nagmeleri).10.04.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.204.Bolum.(Ask Nagmeleri).10.04.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512012/512011.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.205.Bolum.(Isgal Altinda).17.04.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.205.Bolum.(Isgal Altinda).17.04.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512017/512015.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.206.Bolum.(Hesap Gunu).24.04.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.206.Bolum.(Hesap Gunu).24.04.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512007/512005.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.207.Bolum.(Tam Takim).24.04.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.207.Bolum.(Tam Takim).24.04.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512053/512051.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.208.Bolum.(Annem Annem).08.05.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.208.Bolum.(Annem Annem).08.05.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512022/512020.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.209.Bolum.(Ilk Adim).15.05.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.209.Bolum.(Ilk Adim).15.05.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512002/512000.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.210.Bolum.(Son Kurban).22.05.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.210.Bolum.(Son Kurban).22.05.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512048/512046.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.211.Bolum.(Gomlek Bunalimi).29.05.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.211.Bolum.(Gomlek Bunalimi).29.05.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512088/512086.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.212.Bolum.(Tahtakafali).05.06.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.212.Bolum.(Tahtakafali).05.06.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512105/512104.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.213.Bolum.(Ilk Denetim).12.06.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.213.Bolum.(Ilk Denetim).12.06.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512078/512076.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.214.Bolum.(Is Insani).19.06.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.214.Bolum.(Is Insani).19.06.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512083/512082.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.215.Bolum.(Kiyim).26.06.1994" tvg-logo="" group-title=" 6.Sezon(1993-1994)",Bizimkiler.215.Bolum.(Kiyim).26.06.1994
+https://eu1.tabii.com/apigateway/pbr/v1/media/512073/512071.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.216.Bolum.(Yuvaya Donus).09.10.1994" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.216.Bolum.(Yuvaya Donus).09.10.1994
+https://mp4.movie-yt.workers.dev/?ID=MNL9-R0fYAg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.217.Bolum.(Muhur Gozlum).16.10.1994" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.217.Bolum.(Muhur Gozlum).16.10.1994
+https://mp4.movie-yt.workers.dev/?ID=iJW3oMe2Uro
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.218.Bolum.(Son Gece).23.10.1994" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.218.Bolum.(Son Gece).23.10.1994
+https://mp4.movie-yt.workers.dev/?ID=Gmbvt7yStys
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.219.Bolum.(Dusman Kursunu).30.10.1994" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.219.Bolum.(Dusman Kursunu).30.10.1994
+https://mp4.movie-yt.workers.dev/?ID=-Vvm1d-ZmB0
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.220.Bolum.(Yeniden Dogus).06.11.1994" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.220.Bolum.(Yeniden Dogus).06.11.1994
+https://mp4.movie-yt.workers.dev/?ID=yMtasryvr5c
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.221.Bolum.(Susuz Ve Sicak).13.11.1994" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.221.Bolum.(Susuz Ve Sicak).13.11.1994
+https://mp4.movie-yt.workers.dev/?ID=mBDn_Hz1ivg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.222.Bolum.(Gece Kusu).20.11.1994" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.222.Bolum.(Gece Kusu).20.11.1994
+https://mp4.movie-yt.workers.dev/?ID=neaqYHEnVp8
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.223.Bolum.(Tepeustu).27.11.1994" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.223.Bolum.(Tepeustu).27.11.1994
+https://mp4.movie-yt.workers.dev/?ID=j7TqJif5M3g
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.224.Bolum.(Kulucka).04.12.1994" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.224.Bolum.(Kulucka).04.12.1994
+https://mp4.movie-yt.workers.dev/?ID=8N3QvSVYMPk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.225.Bolum.(Son Kuslar).11.12.1994" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.225.Bolum.(Son Kuslar).11.12.1994
+https://mp4.movie-yt.workers.dev/?ID=HSg3FfpooNA
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.226.Bolum.(Okuma Provasi).18.12.1994" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.226.Bolum.(Okuma Provasi).18.12.1994
+https://mp4.movie-yt.workers.dev/?ID=wtv-x_67o7Q
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.227.Bolum.(Atesli Gunler).25.12.1994" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.227.Bolum.(Atesli Gunler).25.12.1994
+https://mp4.movie-yt.workers.dev/?ID=ddh7UgrIQTc
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.228.Bolum.(Firdondu).01.01.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.228.Bolum.(Firdondu).01.01.1995
+https://mp4.movie-yt.workers.dev/?ID=j2aloCH2Fro
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.229.Bolum.(Ihale Bedeli).08.01.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.229.Bolum.(Ihale Bedeli).08.01.1995
+https://mp4.movie-yt.workers.dev/?ID=nNUJb-X3abg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.230.Bolum.(Bozulan Dengeler).08.01.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.229.Bolum.(Ihale Bedeli).08.01.1995
+https://mp4.movie-yt.workers.dev/?ID=E1nAVOYT_lQ
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.231.Bolum.(Son Yoklama).22.01.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.231.Bolum.(Son Yoklama).22.01.1995
+https://mp4.movie-yt.workers.dev/?ID=yF2V0ZBV6u8
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.232.Bolum.(Sanat Aski).29.01.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.232.Bolum.(Sanat Aski).29.01.1995
+https://mp4.movie-yt.workers.dev/?ID=AQpDD0zMwIw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.233.Bolum.(Kose Kapmaca).05.02.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.233.Bolum.(Kose Kapmaca).05.02.1995
+https://mp4.movie-yt.workers.dev/?ID=oR2yB9gs9wg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.234.Bolum.(Kar Taneleri).12.02.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.234.Bolum.(Kar Taneleri).12.02.1995
+https://mp4.movie-yt.workers.dev/?ID=pXqqcJF0BPE
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.235.Bolum.(Is Gunu).19.02.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.235.Bolum.(Is Gunu).19.02.1995
+https://mp4.movie-yt.workers.dev/?ID=nO9sOAAY5W4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.236.Bolum.(Buyulu Ask).26.02.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.236.Bolum.(Buyulu Ask).26.02.1995
+https://mp4.movie-yt.workers.dev/?ID=GynDEEn4xgs
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.237.Bolum.(Bir Yel Esti).05.03.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.237.Bolum.(Bir Yel Esti).05.03.1995
+https://mp4.movie-yt.workers.dev/?ID=IKmdH4L2RFY
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.238.Bolum.(Vicdan Azabi).12.03.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.238.Bolum.(Vicdan Azabi).12.03.1995
+https://mp4.movie-yt.workers.dev/?ID=3DpCqQyMjY0
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.239.Bolum.(Ezbere Hayir).19.03.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",BizimBizimkiler.239.Bolum.(Ezbere Hayir).19.03.1995
+https://mp4.movie-yt.workers.dev/?ID=VfI7ZSjmQ8o
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.240.Bolum.(Giris Bedava).26.03.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.240.Bolum.(Giris Bedava).26.03.1995
+https://mp4.movie-yt.workers.dev/?ID=tsSRCwapVf4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.241.Bolum.(Gorulen Luzum Uzerine).02.04.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.241.Bolum.(Gorulen Luzum Uzerine).02.04.1995
+https://mp4.movie-yt.workers.dev/?ID=tiZDS6wUYQs
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.242.Bolum.(Sicak Pazar).09.04.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.242.Bolum.(Sicak Pazar).09.04.1995
+https://mp4.movie-yt.workers.dev/?ID=wpBuA3sz1Aw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.243.Bolum.(Okuma Heyecani).16.04.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.243.Bolum.(Okuma Heyecani).16.04.1995
+https://mp4.movie-yt.workers.dev/?ID=IahH5rIbymk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.244.Bolum.(Parmak Izleri).23.04.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.244.Bolum.(Parmak Izleri).23.04.1995
+https://mp4.movie-yt.workers.dev/?ID=EraZXr0dklg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.245.Bolum.(Acik Artırma).30.04.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.245.Bolum.(Acik Artırma).30.04.1995
+https://mp4.movie-yt.workers.dev/?ID=4-q2Z_1eHxw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.246.Bolum.(Bes Yildizli).07.05.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.246.Bolum.(Bes Yildizli).07.05.1995
+https://mp4.movie-yt.workers.dev/?ID=8slq1p9QSNc
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.247.Bolum.(Is Kazasi).14.05.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.247.Bolum.(Is Kazasi).14.05.1995
+https://mp4.movie-yt.workers.dev/?ID=MpKbX60otJs
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.248.Bolum.(Bahar Vurgunu).21.05.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.248.Bolum.(Bahar Vurgunu).21.05.1995
+https://mp4.movie-yt.workers.dev/?ID=gtOH2hd_FUE
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.249.Bolum.(Hayal Kent).28.05.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.249.Bolum.(Hayal Kent).28.05.1995
+https://mp4.movie-yt.workers.dev/?ID=hvQUf7dRFrs
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.250.Bolum.(Ince Ayar).04.06.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.250.Bolum.(Ince Ayar).04.06.1995
+https://mp4.movie-yt.workers.dev/?ID=CCLH88D8oaU
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.251.Bolum.(Disleri Donduruyor).11.06.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.251.Bolum.(Disleri Donduruyor).11.06.1995
+https://mp4.movie-yt.workers.dev/?ID=_Uw-6bXELXw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.252.Bolum.(Ayni Cati Altinda).18.06.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.252.Bolum.(Ayni Cati Altinda).18.06.1995
+https://mp4.movie-yt.workers.dev/?ID=ajG9lsHjulI
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.253.Bolum.(Yaz Guzeli).25.06.1995" tvg-logo="" group-title=" 7.Sezon(1994-1995)",Bizimkiler.253.Bolum.(Yaz Guzeli).25.06.1995
+https://mp4.movie-yt.workers.dev/?ID=STuDmoCe-nY
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.254.Bolum.(Bulusma).08.10.1995" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.254.Bolum.(Bulusma).08.10.1995
+https://mp4.movie-yt.workers.dev/?ID=0zgHZ6k-M3s
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.255.Bolum.(Az Bulutlu).15.10.1995" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.255.Bolum.(Az Bulutlu).15.10.1995
+https://mp4.movie-yt.workers.dev/?ID=kn68MciZa2s
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.256.Bolum.(Eski Tas Eski Hamam).22.10.1995" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.256.Bolum.(Eski Tas Eski Hamam).22.10.1995
+https://mp4.movie-yt.workers.dev/?ID=lFTVTMV0CPA
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.257.Bolum.(Yeni Imaj).29.10.1995" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.257.Bolum.(Yeni Imaj).29.10.1995
+https://mp4.movie-yt.workers.dev/?ID=i5Kx10TTDyM
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.258.Bolum.(Orumcek Adam).05.11.1995" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.258.Bolum.(Orumcek Adam).05.11.1995
+https://mp4.movie-yt.workers.dev/?ID=uecdceZkPAM
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.259.Bolum.(Ense Tirasi).12.11.1995" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.259.Bolum.(Ense Tirasi).12.11.1995
+https://mp4.movie-yt.workers.dev/?ID=-OdouMxZmys
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.260.Bolum.(Canli Yayin).19.11.1995" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.260.Bolum.(Canli Yayin).19.11.1995
+https://mp4.movie-yt.workers.dev/?ID=TlSAXzM7SkA
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.261.Bolum.(Yagmur Altinda).26.11.1995" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.261.Bolum.(Yagmur Altinda).26.11.1995
+https://mp4.movie-yt.workers.dev/?ID=Jti4s6y-R2Y
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.262.Bolum.(Celiskiler).03.12.1995" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.262.Bolum.(Celiskiler).03.12.1995
+https://mp4.movie-yt.workers.dev/?ID=yCHv9ZzUoWE
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.263.Bolum.(Ince Kiyim).10.12.1995" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.263.Bolum.(Ince Kiyim).10.12.1995
+https://mp4.movie-yt.workers.dev/?ID=A5DvovmDPRA
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.264.Bolum.(Emanetci).17.12.1995" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.264.Bolum.(Emanetci).17.12.1995
+https://mp4.movie-yt.workers.dev/?ID=E5R1AbviFv4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.265.Bolum.(Mal Bildirimi).24.12.1995" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.265.Bolum.(Mal Bildirimi).24.12.1995
+https://mp4.movie-yt.workers.dev/?ID=L6KoH-jF5JQ
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.266.Bolum.(Gozalti).07.01.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.266.Bolum.(Gozalti).07.01.1996
+https://mp4.movie-yt.workers.dev/?ID=i6SrcM52DAU
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.267.Bolum.(Iyilik Melegi).14.01.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.267.Bolum.(Iyilik Melegi).14.01.1996
+https://mp4.movie-yt.workers.dev/?ID=cTi9k2_R7D0
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.268.Bolum.(Kus Gonullu).21.01.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.268.Bolum.(Kus Gonullu).21.01.1996
+https://mp4.movie-yt.workers.dev/?ID=F-XxpLLsO14
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.269.Bolum.(Haksiz Rekabet).28.01.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.269.Bolum.(Haksiz Rekabet).28.01.1996
+https://mp4.movie-yt.workers.dev/?ID=pQPu89OaMMU
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.270.Bolum.(Kimsesiz).04.02.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.270.Bolum.(Kimsesiz).04.02.1996
+https://mp4.movie-yt.workers.dev/?ID=bf8q2nxmjUk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.271.Bolum.(Mazlum).11.02.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.271.Bolum.(Mazlum).11.02.1996
+https://mp4.movie-yt.workers.dev/?ID=78GaHzYS4nw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.272.Bolum.(Dunyalik).18.02.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.272.Bolum.(Dunyalik).18.02.1996
+https://mp4.movie-yt.workers.dev/?ID=aOyfSF_g0Kw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.273.Bolum.(Acik Gorus).25.02.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.273.Bolum.(Acik Gorus).25.02.1996
+https://mp4.movie-yt.workers.dev/?ID=0iMOJjSpBHo
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.274.Bolum.(Mum Isiginda).03.03.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.274.Bolum.(Mum Isiginda).03.03.1996
+https://mp4.movie-yt.workers.dev/?ID=1BL9g1SkMVI
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.275.Bolum.(Battal Beden).10.03.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.275.Bolum.(Battal Beden).10.03.1996
+https://mp4.movie-yt.workers.dev/?ID=yIxnd2LcSiM
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.276.Bolum.(Son Komando).17.03.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.276.Bolum.(Son Komando).17.03.1996
+https://mp4.movie-yt.workers.dev/?ID=tKFE58ftYqs
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.277.Bolum.(Yildizlarin Altinda).24.03.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.277.Bolum.(Yildizlarin Altinda).24.03.1996
+https://mp4.movie-yt.workers.dev/?ID=Rb4mauFn4p4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.278.Bolum.(Hastalik Hastasi).31.03.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.278.Bolum.(Hastalik Hastasi).31.03.1996
+https://mp4.movie-yt.workers.dev/?ID=kmKYWRCPx68
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.279.Bolum.(Son Pismanlik).07.04.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.279.Bolum.(Son Pismanlik).07.04.1996
+https://mp4.movie-yt.workers.dev/?ID=XxNhvoY3KrI
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.280.Bolum.(Hayat Opucugu).14.04.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.280.Bolum.(Hayat Opucugu).14.04.1996
+https://mp4.movie-yt.workers.dev/?ID=poopgVEtYfw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.281.Bolum.(Rus Ruleti).21.04.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.281.Bolum.(Rus Ruleti).21.04.1996
+https://mp4.movie-yt.workers.dev/?ID=cPjgelxAVSk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.282.Bolum.(Bayramlik).28.04.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.282.Bolum.(Bayramlik).28.04.1996
+https://mp4.movie-yt.workers.dev/?ID=91vPm9OLpBw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.283.Bolum.(Curuk Damat).12.05.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.283.Bolum.(Curuk Damat).12.05.1996
+https://mp4.movie-yt.workers.dev/?ID=cpWWqbwgvU0
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.284.Bolum.(Sicak Dalgasi).19.05.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.284.Bolum.(Sicak Dalgasi).19.05.1996
+https://mp4.movie-yt.workers.dev/?ID=Ic9XSbRHVww
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.285.Bolum.(Bunalimli Gunler).26.05.1996" tvg-logo="" group-title=" 8.Sezon(1995-1996)",Bizimkiler.285.Bolum.(Bunalimli Gunler).26.05.1996
+https://mp4.movie-yt.workers.dev/?ID=M1GnA0RlYgk
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.286.Bolum.(Genc Babaya Ogutler).27.10.1996" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.286.Bolum.(Genc Babaya Ogutler).27.10.1996
+https://mp4.movie-yt.workers.dev/?ID=sLDfN6AasOw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.287.Bolum.(Yuvami Yikamazsin).03.11.1996" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.287.Bolum.(Yuvami Yikamazsin).03.11.1996
+https://mp4.movie-yt.workers.dev/?ID=Yi2NTBs0o9w
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.288.Bolum.(Yalnizlik Gunleri).10.11.1996" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.288.Bolum.(Yalnizlik Gunleri).10.11.1996
+https://mp4.movie-yt.workers.dev/?ID=_DWNc2n3Uc0
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.289.Bolum.(Uyuyan Guzel).17.11.1996" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.289.Bolum.(Uyuyan Guzel).17.11.1996
+https://mp4.movie-yt.workers.dev/?ID=ZgLo-1ZQrZk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.290.Bolum.(Business Class).24.11.1996" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.290.Bolum.(Business Class).24.11.1996
+https://mp4.movie-yt.workers.dev/?ID=lDWEYD9RXSA
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.291.Bolum.(Analik Davasi).01.12.1996" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.291.Bolum.(Analik Davasi).01.12.1996
+https://mp4.movie-yt.workers.dev/?ID=SCCID7wxY3c
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.292.Bolum.(Protesto).08.12.1996" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.292.Bolum.(Protesto).08.12.1996
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.293.Bolum.(Kabak Tadi).15.12.1996" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.293.Bolum.(Kabak Tadi).15.12.1996
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.294.Bolum.(Polis Copu).22.12.1996" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.294.Bolum.(Polis Copu).22.12.1996
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.295.Bolum.(Kara Yil).29.12.1996" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.295.Bolum.(Kara Yil).29.12.1996
+https://mp4.movie-yt.workers.dev/?ID=Ig42fJmW9zI
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.296.Bolum.().05.01.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.296.Bolum.().05.01.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.297.Bolum.(Top Patladi).12.01.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.297.Bolum.(Top Patladi).12.01.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.298.Bolum.(Canli Yayin).19.01.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.298.Bolum.(Canli Yayin).19.01.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.299.Bolum.(Hizli Vuruslar).26.01.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.299.Bolum.(Hizli Vuruslar).26.01.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.300.Bolum.(Bir Icim Su).02.02.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.300.Bolum.(Bir Icim Su).02.02.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.301.Bolum.().09.02.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.301.Bolum.().09.02.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.302.Bolum.(Damdaki Horoz).16.02.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.302.Bolum.(Damdaki Horoz).16.02.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.303.Bolum.(Beyin Sarsintisi).23.02.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.303.Bolum.(Beyin Sarsintisi).23.02.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.304.Bolum.(Annemin Yeni Hayati).02.03.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.304.Bolum.(Annemin Yeni Hayati).02.03.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.305.Bolum.(Rol Arkadaslari).09.03.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.305.Bolum.(Rol Arkadaslari).09.03.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.306.Bolum.().16.03.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.306.Bolum.().16.03.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.307.Bolum.(Baris Elcileri).23.03.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.307.Bolum.(Baris Elcileri).23.03.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.308.Bolum.(Aydinlanma).30.03.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.308.Bolum.(Aydinlanma).30.03.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.309.Bolum.(Tutsaklar).06.04.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.309.Bolum.(Tutsaklar).06.04.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.310.Bolum.(New York, New York).13.04.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.310.Bolum.(New York, New York).13.04.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.311.Bolum.(Nisan Bereketi).27.04.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.311.Bolum.(Nisan Bereketi).27.04.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.312.Bolum.(Bitmeyen Gun).04.05.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.312.Bolum.(Bitmeyen Gun).04.05.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.313.Bolum.(Ucan Damatlik).11.05.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.313.Bolum.(Ucan Damatlik).11.05.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.314.Bolum.(Naklen Yayin).18.05.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.314.Bolum.(Naklen Yayin).18.05.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.315.Bolum.(Vur Kazmayi).25.05.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.315.Bolum.(Vur Kazmayi).25.05.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.316.Bolum.(Ev Hanimlari).01.06.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.316.Bolum.(Ev Hanimlari).01.06.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.317.Bolum.(Ilk Yaz).08.06.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.317.Bolum.(Ilk Yaz).08.06.1997
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.318.Bolum.(Son Uyari).15.06.1997" tvg-logo="" group-title=" 9.Sezon(1996-1997)",Bizimkiler.318.Bolum.(Son Uyari).15.06.1997
+https://mp4.movie-yt.workers.dev/?ID=
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.319.Bolum.(Sayili Gunler).12.10.1997" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.319.Bolum.(Sayili Gunler).12.10.1997
+https://mp4.movie-yt.workers.dev/?ID=U57zgFjhE_E
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.320.Bolum.(Insanlik Hali).19.10.1997" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.320.Bolum.(Insanlik Hali).19.10.1997
+https://mp4.movie-yt.workers.dev/?ID=qJJrEd1Vo6I
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.321.Bolum.(Tam Pansiyon).26.10.1997" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.321.Bolum.(Tam Pansiyon).26.10.1997
+https://mp4.movie-yt.workers.dev/?ID=_L_wxrhpNSk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.322.Bolum.(Temiz Eller).02.11.1997" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.322.Bolum.(Temiz Eller).02.11.1997
+https://mp4.movie-yt.workers.dev/?ID=gYC9-faaP84
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.323.Bolum.(Kirli Camasirlar).09.11.1997" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.323.Bolum.(Kirli Camasirlar).09.11.1997
+https://mp4.movie-yt.workers.dev/?ID=tWWsmFOQJiY
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.324.Bolum.(Yarim Dusuk).16.11.1997" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.324.Bolum.(Yarim Dusuk).16.11.1997
+https://mp4.movie-yt.workers.dev/?ID=CxCqpCiZzic
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.325.Bolum.(Iktidar Boslugu).23.11.1997" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.325.Bolum.(Iktidar Boslugu).23.11.1997
+https://mp4.movie-yt.workers.dev/?ID=ml1kXd2Xwqk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.326.Bolum.(Kazandibi).30.11.1997" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.326.Bolum.(Kazandibi).30.11.1997
+https://mp4.movie-yt.workers.dev/?ID=qm2sv1asFXU
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.327.Bolum.(Zabit Olayi).07.12.1997" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.327.Bolum.(Zabit Olayi).07.12.1997
+https://mp4.movie-yt.workers.dev/?ID=3nDi-6gmrvw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.328.Bolum.(Kapali Siyaset).14.12.1997" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.328.Bolum.(Kapali Siyaset).14.12.1997
+https://mp4.movie-yt.workers.dev/?ID=_X0KX_1vrfk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.329.Bolum.(Gecilmez Sinav).21.12.1997" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.329.Bolum.(Gecilmez Sinav).21.12.1997
+https://mp4.movie-yt.workers.dev/?ID=z740MGs8Iqw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.330.Bolum.(Yagmalama).28.12.1997" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.330.Bolum.(Yagmalama).28.12.1997
+https://mp4.movie-yt.workers.dev/?ID=JyJacUsiL2Q
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.331.Bolum.(Genclik Heyecani).04.01.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.331.Bolum.(Genclik Heyecani).04.01.1998
+https://mp4.movie-yt.workers.dev/?ID=t1UrmHDqL_k
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.332.Bolum.(Menzil Disi).11.01.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.332.Bolum.(Menzil Disi).11.01.1998
+https://mp4.movie-yt.workers.dev/?ID=BjOQTpqzRSI
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.333.Bolum.(Acilis Toreni).18.01.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.333.Bolum.(Acilis Toreni).18.01.1998
+https://mp4.movie-yt.workers.dev/?ID=0t3G-wZWbag
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.334.Bolum.(Gecici Dunya).25.01.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.334.Bolum.(Gecici Dunya).25.01.1998
+https://mp4.movie-yt.workers.dev/?ID=wxWcfsQdgfw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.335.Bolum.(Yalnizlik Gunleri).01.02.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.335.Bolum.(Yalnizlik Gunleri).01.02.1998
+https://mp4.movie-yt.workers.dev/?ID=_MJZehdnuh4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.336.Bolum.(Ankara Bunalimi).08.02.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.336.Bolum.(Ankara Bunalimi).08.02.1998
+https://mp4.movie-yt.workers.dev/?ID=Yph-b23s5VY
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.337.Bolum.(Toplu Imha).15.02.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.337.Bolum.(Toplu Imha).15.02.1998
+https://mp4.movie-yt.workers.dev/?ID=PTgPio10FNg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.338.Bolum.(Bilirkisi Raporu).22.02.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.338.Bolum.(Bilirkisi Raporu).22.02.1998
+https://mp4.movie-yt.workers.dev/?ID=tSTDAHbF-N4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.339.Bolum.(Kiralik Ev).01.03.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.339.Bolum.(Kiralik Ev).01.03.1998
+https://mp4.movie-yt.workers.dev/?ID=GfVRvCNt1JM
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.340.Bolum.(Kafesteki Kus).08.03.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.340.Bolum.(Kafesteki Kus).08.03.1998
+https://mp4.movie-yt.workers.dev/?ID=GM51vDho6HY
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.341.Bolum.(Az Sonra).15.03.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.341.Bolum.(Az Sonra).15.03.1998
+https://mp4.movie-yt.workers.dev/?ID=VkGcrfyOXlw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.342.Bolum.(Can Sikintisi).22.03.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.342.Bolum.(Can Sikintisi).22.03.1998
+https://mp4.movie-yt.workers.dev/?ID=3lK_EiklnlY
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.343.Bolum.(Halilsehir).29.03.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.343.Bolum.(Halilsehir).29.03.1998
+https://mp4.movie-yt.workers.dev/?ID=GfvJ-P6jdd0
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.344.Bolum.(Bayram Sonrasi).12.04.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.344.Bolum.(Bayram Sonrasi).12.04.1998
+https://mp4.movie-yt.workers.dev/?ID=rmhlVWb7gZQ
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.345.Bolum.(Son Kapi).19.04.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.345.Bolum.(Son Kapi).19.04.1998
+https://mp4.movie-yt.workers.dev/?ID=AQI-JdqVzm8
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.346.Bolum.(Sevimli Gelinler).26.04.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.346.Bolum.(Sevimli Gelinler).26.04.1998
+https://mp4.movie-yt.workers.dev/?ID=kAooQUG69V4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.347.Bolum.(Amcanin Gazabi).03.05.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.347.Bolum.(Amcanin Gazabi).03.05.1998
+https://mp4.movie-yt.workers.dev/?ID=gTi_0Ol7zbM
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.348.Bolum.(Can Pazari).10.05.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.348.Bolum.(Can Pazari).10.05.1998
+https://mp4.movie-yt.workers.dev/?ID=A8op5jenztA
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.349.Bolum.(Genc Yetenekler).17.05.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.349.Bolum.(Genc Yetenekler).17.05.1998
+https://mp4.movie-yt.workers.dev/?ID=9-LulyrUOPY
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.350.Bolum.(Kucuk Bir Yolsuzluk).24.05.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.350.Bolum.(Kucuk Bir Yolsuzluk).24.05.1998
+https://mp4.movie-yt.workers.dev/?ID=L1Tms7OQmZo
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.351.Bolum.(Agir Suclama).31.05.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.351.Bolum.(Agir Suclama).31.05.1998
+https://mp4.movie-yt.workers.dev/?ID=gPkXbmARBBg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.352.Bolum.(Sabah Tirasi).07.06.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.352.Bolum.(Sabah Tirasi).07.06.1998
+https://mp4.movie-yt.workers.dev/?ID=HedzpeNQARs
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.353.Bolum.(Ahlak Notu).14.06.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.353.Bolum.(Ahlak Notu).14.06.1998
+https://mp4.movie-yt.workers.dev/?ID=bZOrN8yzI4w
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.354.Bolum.(Ilk Ve Son).21.06.1998" tvg-logo="" group-title=" 10.Sezon(1997-1998)",Bizimkiler.354.Bolum.(Ilk Ve Son).21.06.1998
+https://mp4.movie-yt.workers.dev/?ID=-afEZ8wDLuA
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.355.Bolum.(Yeni Kiracilar).11.10.1998" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.355.Bolum.(Yeni Kiracilar).11.10.1998
+https://mp4.movie-yt.workers.dev/?ID=zKorE6ly2XI
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.356.Bolum.(Koltuk Savasi).18.10.1998" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.356.Bolum.(Koltuk Savasi).18.10.1998
+https://mp4.movie-yt.workers.dev/?ID=Kq-k7CrdfE0
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.357.Bolum.(Cekic Sesleri).25.10.1998" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.357.Bolum.(Cekic Sesleri).25.10.1998
+https://mp4.movie-yt.workers.dev/?ID=l5Qae3tmbMo
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.358.Bolum.(Yaprak Sarma).01.11.1998" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.358.Bolum.(Yaprak Sarma).01.11.1998
+https://mp4.movie-yt.workers.dev/?ID=4iDIXrJ5DxU
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.359.Bolum.(Ters Vurus).08.11.1998" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.359.Bolum.(Ters Vurus).08.11.1998
+https://mp4.movie-yt.workers.dev/?ID=wyDnQyc80cE
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.360.Bolum.(Yarali Kus).15.11.1998" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.360.Bolum.(Yarali Kus).15.11.1998
+https://mp4.movie-yt.workers.dev/?ID=un2ypiFLiMM
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.361.Bolum.(Zorlu Gorev).22.11.1998" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.361.Bolum.(Zorlu Gorev).22.11.1998
+https://mp4.movie-yt.workers.dev/?ID=EpCip0-V0Xg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.362.Bolum.(Kavga Bitti).29.11.1998" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.362.Bolum.(Kavga Bitti).29.11.1998
+https://mp4.movie-yt.workers.dev/?ID=UteM4uUeUyo
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.363.Bolum.(Mutluluk Gunleri).06.12.1998" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.363.Bolum.(Mutluluk Gunleri).06.12.1998
+https://mp4.movie-yt.workers.dev/?ID=0pGGwZofBHM
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.364.Bolum.(Babam Sikisik).13.12.1998" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.364.Bolum.(Babam Sikisik).13.12.1998
+https://mp4.movie-yt.workers.dev/?ID=wfio1Z_Lquo
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.365.Bolum.(Dumani Ustunde).20.12.1998" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.365.Bolum.(Dumani Ustunde).20.12.1998
+https://mp4.movie-yt.workers.dev/?ID=V_E9lZ07KKg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.366.Bolum.(Gece Nobeti).27.12.1998" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.366.Bolum.(Gece Nobeti).27.12.1998
+https://mp4.movie-yt.workers.dev/?ID=PabrBX0fPF8
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.367.Bolum.(Bolu Cikarmasi).28.02.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.367.Bolum.(Bolu Cikarmasi).28.02.1999
+https://mp4.movie-yt.workers.dev/?ID=2xD_FCP8WZk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.368.Bolum.(Sapik Ideoloji).07.03.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.368.Bolum.(Sapik Ideoloji).07.03.1999
+https://mp4.movie-yt.workers.dev/?ID=ILJExAwl6Uo
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.369.Bolum.(Sandiktan Cikma).14.03.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.369.Bolum.(Sandiktan Cikma).14.03.1999
+https://mp4.movie-yt.workers.dev/?ID=R2VpRXGCKgY
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.370.Bolum.(Bati Cephesi).21.03.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.370.Bolum.(Bati Cephesi).21.03.1999
+https://mp4.movie-yt.workers.dev/?ID=FCOHEGIE4YY
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.371.Bolum.(O Simdi Asker).04.04.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.371.Bolum.(O Simdi Asker).04.04.1999
+https://mp4.movie-yt.workers.dev/?ID=EGc7vuD7yqs
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.372.Bolum.(Son Halka).11.04.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.372.Bolum.(Son Halka).11.04.1999
+https://mp4.movie-yt.workers.dev/?ID=5LtsEIIlICc
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.373.Bolum.(18 Nisan).18.04.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.373.Bolum.(18 Nisan).18.04.1999
+https://mp4.movie-yt.workers.dev/?ID=Wk5C13GdVgY
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.374.Bolum.(Sakal Tirasi).25.04.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.374.Bolum.(Sakal Tirasi).25.04.1999
+https://mp4.movie-yt.workers.dev/?ID=mEuu3H1z_Y0
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.375.Bolum.(Kirik Kalpler).02.05.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.375.Bolum.(Kirik Kalpler).02.05.1999
+https://mp4.movie-yt.workers.dev/?ID=dogovEb7-X0
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.376.Bolum.(Iktidar Boslugu).09.05.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.376.Bolum.(Iktidar Boslugu).09.05.1999
+https://mp4.movie-yt.workers.dev/?ID=nodPWZv_21M
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.377.Bolum.(Kotu Haber).16.05.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.377.Bolum.(Kotu Haber).16.05.1999
+https://mp4.movie-yt.workers.dev/?ID=yFfRskgbIGw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.378.Bolum.().23.05.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.378.Bolum.().23.05.1999
+https://mp4.movie-yt.workers.dev/?ID=jVBhXiw_36k
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.379.Bolum.(Amerika Bunalimi).30.05.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.379.Bolum.(Amerika Bunalimi).30.05.1999
+https://mp4.movie-yt.workers.dev/?ID=fmBU8czG4es
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.380.Bolum.(Orta Oyunu).06.06.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.380.Bolum.(Orta Oyunu).06.06.1999
+https://mp4.movie-yt.workers.dev/?ID=qQsq3r97ads
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.381.Bolum.(Yaz Kokulari).13.06.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.381.Bolum.(Yaz Kokulari).13.06.1999
+https://mp4.movie-yt.workers.dev/?ID=SrQ-HBRbB8g
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.382.Bolum.(Kova Burcu).20.06.1999" tvg-logo="" group-title=" 11.Sezon(1998-1999)",Bizimkiler.382.Bolum.(Kova Burcu).20.06.1999
+https://mp4.movie-yt.workers.dev/?ID=T6zhfFsWP-8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.383.Bolum.(Artci Sarsintilar).14.11.1999" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.383.Bolum.(Artci Sarsintilar).14.11.1999
+https://mp4.movie-yt.workers.dev/?ID=Jv5V7UtQ61A
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.384.Bolum.(Orada Bir Klip Var,Ufukta!).21.11.1999" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.384.Bolum.(Orada Bir Klip Var,Ufukta!).21.11.1999
+https://mp4.movie-yt.workers.dev/?ID=_aoW9GcxmRo
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.385.Bolum.(Arayislar).28.11.1999" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.385.Bolum.(Arayislar).28.11.1999
+https://mp4.movie-yt.workers.dev/?ID=l3xTlzsDzOM
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.386.Bolum.(Yarinlar Bizim!).05.12.1999" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.386.Bolum.(Yarinlar Bizim!).05.12.1999
+https://mp4.movie-yt.workers.dev/?ID=euszreA8nCI
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.387.Bolum.(Beyin Firtinasi).12.12.1999" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.387.Bolum.(Beyin Firtinasi).12.12.1999
+https://mp4.movie-yt.workers.dev/?ID=tCIhkUn5MZc
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.388.Bolum.(Galata'dan At Beni).19.12.1999" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.388.Bolum.(Galata'dan At Beni).19.12.1999
+https://mp4.movie-yt.workers.dev/?ID=0YHuLX5CIXs
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.389.Bolum.(Ozel Bir Gun).26.12.1999" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.389.Bolum.(Ozel Bir Gun).26.12.1999
+https://mp4.movie-yt.workers.dev/?ID=eSosPCMFjrM
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.390.Bolum.(Birinci Raunt).16.01.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.390.Bolum.(Birinci Raunt).16.01.2000
+https://mp4.movie-yt.workers.dev/?ID=pCe7yE5oR_k
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.391.Bolum.(Sucustu).23.01.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.391.Bolum.(Sucustu).23.01.2000
+https://mp4.movie-yt.workers.dev/?ID=ZmQLwfSROXI
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.392.Bolum.(Yuksek Tansiyon).30.01.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.392.Bolum.(Yuksek Tansiyon).30.01.2000
+https://mp4.movie-yt.workers.dev/?ID=iiAb9DeAsks
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.393.Bolum.(Kaza Kursunu).06.02.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.393.Bolum.(Kaza Kursunu).06.02.2000
+https://mp4.movie-yt.workers.dev/?ID=vnt9_bHaai4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.394.Bolum.(Depremci).13.02.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.394.Bolum.(Depremci).13.02.2000
+https://mp4.movie-yt.workers.dev/?ID=BP5vfe4HEPk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.395.Bolum.(Limon).20.02.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.395.Bolum.(Limon).20.02.2000
+https://mp4.movie-yt.workers.dev/?ID=tuZXLKsOHZM
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.396.Bolum.(Ask).27.02.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.396.Bolum.(Ask).27.02.2000
+https://mp4.movie-yt.workers.dev/?ID=534NEnP3zdg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.397.Bolum.(Bol Sarimsakli).05.03.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.397.Bolum.(Bol Sarimsakli).05.03.2000
+https://mp4.movie-yt.workers.dev/?ID=OUb1JWg2TM0
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.398.Bolum.(Kacak).12.03.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.398.Bolum.(Kacak).12.03.2000
+https://mp4.movie-yt.workers.dev/?ID=c2c-813_Y-E
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.399.Bolum.(Karga Tulumba).19.03.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.399.Bolum.(Karga Tulumba).19.03.2000
+https://mp4.movie-yt.workers.dev/?ID=yImUJNn3P18
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.400.Bolum.(Bas Dondurucu).26.03.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.400.Bolum.(Bas Dondurucu).26.03.2000
+https://mp4.movie-yt.workers.dev/?ID=rgCiZRTV7tE
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.401.Bolum.(Bahar Huzunleri).02.04.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.401.Bolum.(Bahar Huzunleri).02.04.2000
+https://mp4.movie-yt.workers.dev/?ID=dwtzpA3lZsg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.402.Bolum.(Bes Gun Bes Gece).09.04.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.402.Bolum.(Bes Gun Bes Gece).09.04.2000
+https://mp4.movie-yt.workers.dev/?ID=aVgU1rXAEXQ
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.403.Bolum.(Buyuk Sir).16.04.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.403.Bolum.(Buyuk Sir).16.04.2000
+https://mp4.movie-yt.workers.dev/?ID=-sAcFFo8bCU
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.404.Bolum.(Nese Doluyor Insan).23.04.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.404.Bolum.(Nese Doluyor Insan).23.04.2000
+https://mp4.movie-yt.workers.dev/?ID=7qd0PNPj9vg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.405.Bolum.(Deniz Manzarali).30.04.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.405.Bolum.(Deniz Manzarali).30.04.2000
+https://mp4.movie-yt.workers.dev/?ID=D-oEXgG9bLk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.406.Bolum.(Geceyarisi Harekati).07.05.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.406.Bolum.(Geceyarisi Harekati).07.05.2000
+https://mp4.movie-yt.workers.dev/?ID=I2hA7-GciB4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.407.Bolum.(Alisveris Gunu).14.05.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.407.Bolum.(Alisveris Gunu).14.05.2000
+https://mp4.movie-yt.workers.dev/?ID=Vsi61iPZsmY
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.408.Bolum.(Korku Filmi Gibi).21.05.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.408.Bolum.(Korku Filmi Gibi).21.05.2000
+https://mp4.movie-yt.workers.dev/?ID=qW0zUNAlCrE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
