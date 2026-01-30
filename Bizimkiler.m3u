@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.1.Bolum.(Donus).07.01.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.1.Bolum.(Donus).07.01.1989
 https://eu1.tabii.com/apigateway/pbr/v1/media/498716/498715.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
-#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.2.Bolum.(Tasinma).14.01.1989" tvg-logo="" group-title=" 1.Sezon",Bizimkiler.2.Bolum.(Tasinma).14.01.1989
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.2.Bolum.(Tasinma).14.01.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.2.Bolum.(Tasinma).14.01.1989
 https://eu1.tabii.com/apigateway/pbr/v1/media/498726/498725.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
 #EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.3.Bolum.(Horozlar Oterken).21.01.1989" tvg-logo="" group-title=" 1.Sezon(1989)",Bizimkiler.3.Bolum.(Horozlar Oterken).21.01.1989
 https://eu1.tabii.com/apigateway/pbr/v1/media/498783/498781.mpd?width=-1&height=-1&bandwidth=-1&subtitleType=vtt&selected_id=5
@@ -871,6 +871,133 @@ https://mp4.movie-yt.workers.dev/?ID=I2hA7-GciB4
 https://mp4.movie-yt.workers.dev/?ID=Vsi61iPZsmY
 #EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.408.Bolum.(Korku Filmi Gibi).21.05.2000" tvg-logo="" group-title=" 12.Sezon(1999-2000)",Bizimkiler.408.Bolum.(Korku Filmi Gibi).21.05.2000
 https://mp4.movie-yt.workers.dev/?ID=qW0zUNAlCrE
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.409.Bolum.(Bir Aci Bir Mutluluk).01.10.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.409.Bolum.(Bir Aci Bir Mutluluk).01.10.2000
+https://mp4.movie-yt.workers.dev/?ID=c6UKFaT4eXI
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.410.Bolum.(Bebek).08.10.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.410.Bolum.(Bebek).08.10.2000
+https://mp4.movie-yt.workers.dev/?ID=W22NsqAfZMI
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.411.Bolum.(Sattin Bizi Anne).15.10.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.411.Bolum.(Sattin Bizi Anne).15.10.2000
+https://mp4.movie-yt.workers.dev/?ID=dv_4ricNPbo
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.412.Bolum.(Sayim Suyum Var).22.10.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.412.Bolum.(Sayim Suyum Var).22.10.2000
+https://mp4.movie-yt.workers.dev/?ID=mudEvJNqPEQ
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.413.Bolum.(En Buyuk Bayram).29.10.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.413.Bolum.(En Buyuk Bayram).29.10.2000
+https://mp4.movie-yt.workers.dev/?ID=zs1Z22EaVuk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.414.Bolum.(Zafer Sarhoslugu).05.11.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.414.Bolum.(Zafer Sarhoslugu).05.11.2000
+https://mp4.movie-yt.workers.dev/?ID=2lqZn6lbln4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.415.Bolum.(Direnis).12.11.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.415.Bolum.(Direnis).12.11.2000
+https://mp4.movie-yt.workers.dev/?ID=03Y_61k-gC4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.416.Bolum.(Pusu).19.11.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.416.Bolum.(Pusu).19.11.2000
+https://mp4.movie-yt.workers.dev/?ID=EhLvN_tnKJg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.417.Bolum.(Darbe Ustune Darbe).26.11.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.417.Bolum.(Darbe Ustune Darbe).26.11.2000
+https://mp4.movie-yt.workers.dev/?ID=H6JRPhpFZBg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.418.Bolum.(Hirsiz Polis).03.12.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.418.Bolum.(Hirsiz Polis).03.12.2000
+https://mp4.movie-yt.workers.dev/?ID=gXFXaAJqeqM
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.419.Bolum.(Son Rezalet).10.12.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.419.Bolum.(Son Rezalet).10.12.2000
+https://mp4.movie-yt.workers.dev/?ID=Q7XtdHlNnyE
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.420.Bolum.(Torun Ambargosu).17.12.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.420.Bolum.(Torun Ambargosu).17.12.2000
+https://mp4.movie-yt.workers.dev/?ID=sUK7daCLII0
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.421.Bolum.(Gule Gule 2000).24.12.2000" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.421.Bolum.(Gule Gule 2000).24.12.2000
+https://mp4.movie-yt.workers.dev/?ID=QiYGAp8a0ZY
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.422.Bolum.(Karsi Pencere).14.01.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.422.Bolum.(Karsi Pencere).14.01.2001
+https://mp4.movie-yt.workers.dev/?ID=Xmoo0ik0UVw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.423.Bolum.(Akşam Çöküyor İstanbul'a).21.01.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.423.Bolum.(Akşam Çöküyor İstanbul'a).21.01.2001
+https://mp4.movie-yt.workers.dev/?ID=bFKiNc_zJSk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.424.Bolum.(Aşk Ateşi).28.01.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.424.Bolum.(Aşk Ateşi).28.01.2001
+https://mp4.movie-yt.workers.dev/?ID=kvP44i2wTtA
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.425.Bolum.(Zeynep Krizi).04.02.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.425.Bolum.(Zeynep Krizi).04.02.2001
+https://mp4.movie-yt.workers.dev/?ID=ygBLRyBEw7s
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.426.Bolum.(Beyaz Enerji).11.02.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.426.Bolum.(Beyaz Enerji).11.02.2001
+https://mp4.movie-yt.workers.dev/?ID=MSCYtj9YMP4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.427.Bolum.(Medyatik Pilav).18.02.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.427.Bolum.(Medyatik Pilav).18.02.2001
+https://mp4.movie-yt.workers.dev/?ID=WEr4KZkR2Gk
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.428.Bolum.(Rüzgarın Oğlu).25.02.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.428.Bolum.(Rüzgarın Oğlu).25.02.2001
+https://mp4.movie-yt.workers.dev/?ID=0uMR4kiEpbo
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.429.Bolum.(Cemil Hastaligi).04.03.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.429.Bolum.(Cemil Hastaligi).04.03.2001
+https://mp4.movie-yt.workers.dev/?ID=K37HbArvkvE
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.430.Bolum.(Kucuk Darginliklar).06.05.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.430.Bolum.(Kucuk Darginliklar).06.05.2001
+https://mp4.movie-yt.workers.dev/?ID=aFPl8FMqmGc
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.431.Bolum.(Tarz Meselesi).13.05.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.431.Bolum.(Tarz Meselesi).13.05.2001
+https://mp4.movie-yt.workers.dev/?ID=I2q4jy3lM3w
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.432.Bolum.(Halkalı Şeker).20.05.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.432.Bolum.(Halkalı Şeker).20.05.2001
+https://mp4.movie-yt.workers.dev/?ID=5bmQ0XeYS68
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.433.Bolum.(Umutsuz Yaşanmaz).27.05.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.433.Bolum.(Umutsuz Yaşanmaz).27.05.2001
+https://mp4.movie-yt.workers.dev/?ID=3MkV6hM3mPg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.434.Bolum.(Para Para Para).03.06.2001" tvg-logo="" group-title=" 13.Sezon(2000-2001)",Bizimkiler.434.Bolum.(Para Para Para).03.06.2001
+https://mp4.movie-yt.workers.dev/?ID=1HuSuhUPPr0
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.435.Bolum.(Dolara Hücum).17.09.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.435.Bolum.(Dolara Hücum).17.09.2001
+https://mp4.movie-yt.workers.dev/?ID=r3g4ILdmjKo
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.436.Bolum.(Mirasyediler).24.09.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.436.Bolum.(Mirasyediler).24.09.2001
+https://mp4.movie-yt.workers.dev/?ID=WSa9KH7rx9w
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.437.Bolum.(Beyaz Yalanlar).01.10.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.437.Bolum.(Beyaz Yalanlar).01.10.2001
+https://mp4.movie-yt.workers.dev/?ID=8kfGHa7Mf80
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.438.Bolum.(Bebek).08.10.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.438.Bolum.(Bebek).08.10.2001
+https://mp4.movie-yt.workers.dev/?ID=zVtNGZg7Qm4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.439.Bolum.(Para Bizi Gözetliyor).15.10.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.439.Bolum.(Para Bizi Gözetliyor).15.10.2001
+https://mp4.movie-yt.workers.dev/?ID=NeD8kc0rH9U
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.440.Bolum.(Çocuk Muamelesi).22.10.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.440.Bolum.(Çocuk Muamelesi).22.10.2001
+https://mp4.movie-yt.workers.dev/?ID=Eh3ARgUlYKc
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.441.Bolum.(Üçüncü Dünya Savaşı).29.10.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.441.Bolum.(Üçüncü Dünya Savaşı).29.10.2001
+https://mp4.movie-yt.workers.dev/?ID=b23h5aBeIuY
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.442.Bolum.(Son Bombardıman).05.11.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.442.Bolum.(Son Bombardıman).05.11.2001
+https://mp4.movie-yt.workers.dev/?ID=yt-AOAFcvbQ
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.443.Bolum.(Boş Tencereler).12.11.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.443.Bolum.(Boş Tencereler).12.11.2001
+https://mp4.movie-yt.workers.dev/?ID=CTLN1Yap-Fw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.444.Bolum.(Cennet Rüyası).19.11.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.444.Bolum.(Cennet Rüyası).19.11.2001
+https://mp4.movie-yt.workers.dev/?ID=Fq02j5z8nWg
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.445.Bolum.(Sır).26.11.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.445.Bolum.(Sır).26.11.2001
+https://mp4.movie-yt.workers.dev/?ID=MrSZj0Pv1D4
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.446.Bolum.(Moral).03.12.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.446.Bolum.(Moral).03.12.2001
+https://mp4.movie-yt.workers.dev/?ID=Th8aD1I3iPc
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.447.Bolum.(Ayçiçekyağı Kralı).10.12.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.447.Bolum.(Ayçiçekyağı Kralı).10.12.2001
+https://mp4.movie-yt.workers.dev/?ID=rLwHHtT1njw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.448.Bolum.(Tatlı Bayram).17.12.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.448.Bolum.(Tatlı Bayram).17.12.2001
+https://mp4.movie-yt.workers.dev/?ID=NBEvkGwkpKo
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.449.Bolum.(Katı Rejim).30.12.2001" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.449.Bolum.(Katı Rejim).30.12.2001
+https://mp4.movie-yt.workers.dev/?ID=jmWx7aeh91Q
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.450.Bolum.(Çek Bir Bilet).06.01.2002" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.450.Bolum.(Çek Bir Bilet).06.01.2002
+https://mp4.movie-yt.workers.dev/?ID=DHtcSOZdJoc
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.451.Bolum.(Sudan Ucuz).13.01.2002" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.451.Bolum.(Sudan Ucuz).13.01.2002
+https://mp4.movie-yt.workers.dev/?ID=LmWQGYdFP-c
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.452.Bolum.(Tamamen Duygusal).14.02.2002" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.452.Bolum.(Tamamen Duygusal).14.02.2002
+https://mp4.movie-yt.workers.dev/?ID=Bf1nu50lP28
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.453.Bolum.(Babalar ve Oğullar).21.02.2002" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.453.Bolum.(Babalar ve Oğullar).21.02.2002
+https://mp4.movie-yt.workers.dev/?ID=zBHDLXCWWLE
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.454.Bolum.(Üçüncü Kuşak).28.02.2002" tvg-logo="" group-title=" 14.Sezon(2001-2002)",Bizimkiler.454.Bolum.(Üçüncü Kuşak).28.02.2002
+https://mp4.movie-yt.workers.dev/?ID=HXTfnVEO7tQ
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.455.Bolum.(Biz Ayrılamayız).15.09.2002" tvg-logo="" group-title=" 15.Sezon(2002)",Bizimkiler.455.Bolum.(Biz Ayrılamayız).15.09.2002
+https://mp4.movie-yt.workers.dev/?ID=7no_OvfpeGw
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.456.Bolum.().22.09.2002" tvg-logo="" group-title=" 15.Sezon(2002)",Bizimkiler.456.Bolum.().22.09.2002
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.457.Bolum.().29.09.2002" tvg-logo="" group-title=" 15.Sezon(2002)",Bizimkiler.457.Bolum.().29.09.2002
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.458.Bolum.().13.10.2002" tvg-logo="" group-title=" 15.Sezon(2002)",Bizimkiler.458.Bolum.().13.10.2002
+https://mp4.movie-yt.workers.dev/?ID=
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler.459.Bolum.(Final).22.10.2002" tvg-logo="" group-title=" 15.Sezon(2002)",Bizimkiler.459.Bolum.(Final).22.10.2002
+https://mp4.movie-yt.workers.dev/?ID=
+
+
+
+
+
+
+
+
 
 
 
