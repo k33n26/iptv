@@ -1,0 +1,335 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/d/9U/12174/Thumbnail.png?v=636987852865799359",DiziSmart Premium
+https://dsmartgo-live.ercdn.net/dizismartpremium/dizismartpremium.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/w/Uq/16203/Thumbnail.png?v=637080272246525439",FX
+https://dsmartgo-live.ercdn.net/fx/fx.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/k/F2/11913/Thumbnail.png?v=636987852570463393",DiziSmart Max
+https://dsmartgo-live.ercdn.net/dsmartgo/dizismartmax/dizismartmax.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/T/QU/22894/Thumbnail.png?v=637451110741160494",Sinema TV
+https://dsmartgo-live.ercdn.net/sinematv1/sinematv1.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/Y/3N/22904/Thumbnail.png?v=637451112092517864",Sinema TV 2
+https://dsmartgo-live.ercdn.net/sinematv2/sinematv2.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/t/tD/22896/Thumbnail.png?v=637451113240734096",Sinema TV Aksiyon
+https://dsmartgo-live.ercdn.net/sinemaaksiyon/sinemaaksiyon.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/M/RG/22895/Thumbnail.png?v=637451113519506247",Sinema TV Aksiyon 2
+https://dsmartgo-live.ercdn.net/sinemaaksiyon2/sinemaaksiyon2.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/-/EU/22897/Thumbnail.png?v=637451112510519826",Sinema TV Aile
+https://dsmartgo-live.ercdn.net/sinemaaile/sinemaaile.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Mq/22898/Thumbnail.png?v=637451112840546049",Sinema TV Aile 2
+https://dsmartgo-live.ercdn.net/sinemaaile2/sinemaaile2.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/w/9a/22899/Thumbnail.png?v=637451113872971832",Sinema TV Comedy
+https://dsmartgo-live.ercdn.net/sinemakomedi/sinemakomedi.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/o/oG/22900/Thumbnail.png?v=637451114172995678",Sinema TV Comedy 2
+https://dsmartgo-live.ercdn.net/sinemakomedi2/sinemakomedi2.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/g/6y/22901/Thumbnail.png?v=637451111086187905",Sinema TV 1001
+https://dsmartgo-live.ercdn.net/sinema1001/sinema1001.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/C/XZ/22902/Thumbnail.png?v=637451111420745737",Sinema TV 1002
+https://dsmartgo-live.ercdn.net/sinema1002/sinema1002.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/Y/-N/11902/Thumbnail.png?v=638475537514947618",FilmScreen
+https://dsmartgo-live.ercdn.net/filmbox/filmbox.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/y/L4/13864/Thumbnail.png?v=636987853760557953",MovieSmart Classic
+https://dsmartgo-live.ercdn.net/moviesmartclassic/moviesmartclassic.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/ZI/13863/Thumbnail.png?v=636987856299906443",MovieSmart Turk
+https://dsmartgo-live.ercdn.net/moviesmartturk/moviesmartturk.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/z/Bk/11905/Thumbnail.png?v=636932878711499780",STAR
+https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/Q/Eq/13351/Thumbnail.png?v=636932873338148072",ATV
+https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/Q/ou/11887/Thumbnail.png?v=636926485630162197",TRT 1
+https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/k/0U/13732/Thumbnail.png?v=636934334673308427",Kanal 7
+https://dsmartgo-live.ercdn.net/dsmartgo/kanal7/kanal7.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/a/WI/13727/Thumbnail.png?v=636948061871631256",TV8
+https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/2/HH/11906/Thumbnail.png?v=638433526771493494",NOW
+https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/N/Oj/96692/Thumbnail.png?v=638597449150404142",Haber Coklu Ekran
+https://dsmartgo-live.ercdn.net/habermozaik/habermozaik.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/a/u2/11786/Thumbnail.png?v=638688084958908188",CNN Turk
+https://dsmartgo-live.ercdn.net/dsmartgo/cnnturk/cnnturk.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/F/VA/13721/Thumbnail.png?v=636962982239736458",NTV
+https://dsmartgo-live.ercdn.net/dsmartgo/ntv/ntv.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/6/F9/12895/Thumbnail.png?v=636927788705862725",TRT Haber
+https://dsmartgo-live.ercdn.net/trthaber/trthaber.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/V/gp/13350/Thumbnail.png?v=636958855592697509",Haber Turk
+https://dsmartgo-live.ercdn.net/dsmartgo/haberturk/haberturk.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/4/eT/13724/Thumbnail.png?v=636947690631933990",24
+https://dsmartgo-live.ercdn.net/dsmartgo/24/24.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/L/oz/13722/Thumbnail.png?v=636958840911967163",A Haber
+https://dsmartgo-live.ercdn.net/ahaber/ahaber.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/c/ow/13411/Thumbnail.png?v=636927791219697765",TLC
+https://dsmartgo-live.ercdn.net/dsmartgo/tlc/tlc.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/d/Ei/15008/Thumbnail.png?v=637036168349837042",TV 100
+https://dsmartgo-live.ercdn.net/tv100/tv100.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/6/tJ/96832/Thumbnail.png?v=638536021018302048",CNBC-E
+https://dsmartgo-live.ercdn.net/cnbce/cnbce.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/n/1w/96071/Thumbnail.png?v=638500624221448284",Ekol TV
+https://dsmartgo-live.ercdn.net/ekoltv/ekoltv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/N/NI/13571/Thumbnail.png?v=636962983923810541",Beyaz TV
+https://dsmartgo-live.ercdn.net/dsmartgo/beyaztv/beyaztv.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/W/KZ/13523/Thumbnail.png?v=636927753183594806",TV Net
+https://dsmartgo-live.ercdn.net/tvnet/tvnet.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/d/R2/13858/Thumbnail.png?v=636945436708801114",Haber Global
+https://dsmartgo-live.ercdn.net/dsmartgo/haberglobal/haberglobal.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/g/tH/13726/Thumbnail.png?v=637688915842503345",360
+https://dsmartgo-live.ercdn.net/360/360.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/j/Q7/13734/Thumbnail.png?v=636948480200618498",Bloomberg HT
+https://dsmartgo-live.ercdn.net/bloomberg/bloomberg.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/A/SU/13405/Thumbnail.png?v=636926423353172180",TGRT Haber
+https://dsmartgo-live.ercdn.net/tgrthaber/tgrthaber.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/D/5X/11893/Thumbnail.png?v=636962985661490103",DMAX
+https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/R/oy/13522/Thumbnail.png?v=636927749233817129",Ulke TV
+https://dsmartgo-live.ercdn.net/ulketv/ulketv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/T/PK/11898/Thumbnail.png?v=636958854708564755",CNN International
+https://dsmartgo-live.ercdn.net/cnnint/cnnint.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/p/XZ/11897/Thumbnail.png?v=636927762970840516",BBC World News
+https://dsmartgo-live.ercdn.net/bbcworldnews/bbcworldnews.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/v/7e/13515/Thumbnail.png?v=636927795189199961",A Para
+https://dsmartgo-live.ercdn.net/apara/apara.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/J/D0/100988/Thumbnail.png?v=638687426908518892",GZT TV
+https://dsmartgo-live.ercdn.net/gzt/gzt.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png?v=636996527021886315",BBC Earth
+https://dsmartgo-live.ercdn.net/bbcearth/bbcearth.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/t/hI/13387/Thumbnail.png?v=636927790293842950",Viasat History
+https://dsmartgo-live.ercdn.net/viasathistory/viasathistory.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/_/wh/11899/Thumbnail.png?v=638348556015283678",DocuScreen
+https://dsmartgo-live.ercdn.net/docubox/docubox.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/6a/18359/Thumbnail.png?v=637194414598070635",Love Nature
+https://dsmartgo-live.ercdn.net/lovenature/lovenature.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png?v=637523447444009285",Discovery Channel
+https://dsmartgo-live.ercdn.net/discoverychannel/discoverychannel.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/b/vE/11891/Thumbnail.png?v=638396909362573214",Discovery ID
+https://dsmartgo-live.ercdn.net/discoveryscience/discoveryscience.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/V/zw/16198/Thumbnail.png?v=637080263252321251",National Geographic
+https://dsmartgo-live.ercdn.net/natgeo/natgeo.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/U/GH/16199/Thumbnail.png?v=637141612229716915",National Geographic WILD
+https://dsmartgo-live.ercdn.net/natgeowild/natgeowild.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/1/Fd/58626/Thumbnail.png?v=638288263696795101",Tarih Tv
+https://dsmartgo-live.ercdn.net/tarihtv/tarihtv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/RM/13866/Thumbnail.png?v=636947664979131552",TRT Belgesel
+https://dsmartgo-live.ercdn.net/trtbelgesel/trtbelgesel.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/E/I9/11901/Thumbnail.png?v=636996531102325033",Fashion TV
+https://dsmartgo-live.ercdn.net/fashiontv/fashiontv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/n/72/96693/Thumbnail.png?v=638597449747727277",Spor Coklu Ekran
+https://dsmartgo-live.ercdn.net/spormozaik/spormozaik.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/6/7E/11911/Thumbnail.png?v=638713601963232106",CosmoSports
+https://dsmartgo-live.ercdn.net/fightbox/fightbox.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/P/4W/13572/Thumbnail.png?v=638769315343542167",Tay TV
+https://dsmartgo-live.ercdn.net/taytv/taytv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/L/Ra/11892/Thumbnail.png?v=637523448547534467",Eurosport 1
+https://dsmartgo-live.ercdn.net/eurosport1/eurosport1.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/Ws/11900/Thumbnail.png?v=637523448763020339",Eurosport 2
+https://dsmartgo-live.ercdn.net/eurosport2/eurosport2.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/p/el/11909/Thumbnail.png?v=636989786506964094",Spor Smart
+https://dsmartgo-live.ercdn.net/smartspor/smartspor.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/a/Bl/14585/Thumbnail.png?v=636996602766471783",Spor Smart 2
+https://dsmartgo-live.ercdn.net/smartspor2/smartspor2.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/S4/98405/Thumbnail.png?v=638621736619578533",HT Spor
+https://dsmartgo-live.ercdn.net/htspor/htspor.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/qJ/13729/Thumbnail.png?v=636958841750981510",A Spor
+https://dsmartgo-live.ercdn.net/aspor/aspor.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/_/Ee/108759/Thumbnail.png?v=638931713897281951",Sifir TV
+https://dsmartgo-live.ercdn.net/sifirtv/sifirtv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/g/fi/13391/Thumbnail.png?v=636926454802035450",FB TV
+https://dsmartgo-live.ercdn.net/fbtv/fbtv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/S/IP/11910/Thumbnail.png?v=636844561916855787",Sports TV
+https://dsmartgo-live.ercdn.net/sportstv/sportstv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/MK/11888/Thumbnail.png?v=636927786114521514",TRT Spor
+https://dsmartgo-live.ercdn.net/trtspor/trtspor.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/NK/15953/Thumbnail.png?v=637572951690838556",Trt Spor Yildiz
+https://dsmartgo-live.ercdn.net/trtspor2/trtspor2.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/j/3s/13867/Thumbnail.png?v=636948472402801171",TV 8,5
+https://dsmartgo-live.ercdn.net/tv8_5/tv8_5.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/B/M1/13568/Thumbnail.png?v=636928346850541326",Ulusal TV
+https://dsmartgo-live.ercdn.net/ulusaltv/ulusaltv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/I/XZ/54352/Thumbnail.png?v=638149808545159761",SZC TV
+https://dsmartgo-live.ercdn.net/sozcutv/sozcutv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/f/np/13872/Thumbnail.png?v=636996545585843191",ShowMax
+https://dsmartgo-live.ercdn.net/showmax/showmax.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/q/xd/100989/Thumbnail.png?v=638989729389165986",Lider Haber
+https://dsmartgo-live.ercdn.net/liderhaber/liderhaber.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/H/00/73067/Thumbnail.png?v=638869140394735196",Bi Kanal
+https://dsmartgo-live.ercdn.net/cine1/cine1.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/E/lr/13378/Thumbnail.png?v=636926430128106828",Akit
+https://dsmartgo-live.ercdn.net/akit/akit.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/N/ZR/103646/Thumbnail.png?v=638763252126424273",Diyanet Tv
+https://dsmartgo-live.ercdn.net/diyanettv/diyanettv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/C/kv/13373/Thumbnail.png?v=636927792336389851",TRT 2
+https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/0/IE/13382/Thumbnail.png?v=636927792043085296",TRT Muzik
+https://dsmartgo-live.ercdn.net/trtmuzik/trtmuzik.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/IR/13524/Thumbnail.png?v=636958830545927787",Dream TV
+https://dsmartgo-live.ercdn.net/dreamtv/dreamtv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/4w/13361/Thumbnail.png?v=636958831541944426",Dream Turk
+https://dsmartgo-live.ercdn.net/dreamturk/dreamturk.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/I/9w/13573/Thumbnail.png?v=636948497636014786",Power Turk
+https://dsmartgo-live.ercdn.net/powerturk/powerturk.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/qg/13574/Thumbnail.png?v=636948497425060525",Power TV
+https://dsmartgo-live.ercdn.net/powertv/powertv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/c/_s/13870/Thumbnail.png?v=636948470239732792",Cartoon Network
+https://dsmartgo-live.ercdn.net/cartoonnetwork/cartoonnetwork.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/_/-b/11912/Thumbnail.png?v=638621736129920108",Cocuk Smart
+https://dsmartgo-live.ercdn.net/smartcocuk/smartcocuk.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/9/Bn/13518/Thumbnail.png?v=638293698417878155",Cartoonito
+https://dsmartgo-live.ercdn.net/boomerang/boomerang.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/V/vi/11890/Thumbnail.png?v=636947695571206905",Baby TV
+https://dsmartgo-live.ercdn.net/babytv/babytv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/I/WS/13404/Thumbnail.png?v=638537872180344695",Minika GO
+https://dsmartgo-live.ercdn.net/minikago/minikago.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/L/_2/13369/Thumbnail.png?v=637715262329556939",TRT Cocuk
+https://dsmartgo-live.ercdn.net/trtcocuk/trtcocuk.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/-/6Y/103647/Thumbnail.png?v=638763253577639545",TRT Diyanet Cocuk
+https://dsmartgo-live.ercdn.net/trtdiyanetcocuk/trtdiyanetcocuk.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/Qh/11907/Thumbnail.png?v=636844426569873302",Da Vinci Learning
+https://dsmartgo-live.ercdn.net/davincilearning/davincilearning.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/0/xE/70184/Thumbnail.png?v=638345059276546324",Moonbug
+https://dsmartgo-live.ercdn.net/moonbug/moonbug.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/n/ct/22903/Thumbnail.png?v=638532647170877888",Disney Junior
+https://dsmartgo-live.ercdn.net/disneyjunior/disneyjunior.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/2/Q2/13402/Thumbnail.png?v=638537872552128654",Minika Cocuk
+https://dsmartgo-live.ercdn.net/minikacocuk/minikacocuk.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/-/q4/14484/Thumbnail.png?v=638713603133396766",Azoomee
+https://dsmartgo-live.ercdn.net/fastfunbox/fastfunbox.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/V/CW/106947/Thumbnail.png?v=638844484870231441",RT International
+https://dsmartgo-live.ercdn.net/rtint/rtint.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/U/uY/110565/Thumbnail.png?v=639008855398399298",CGTN Documentary
+https://dsmartgo-live.ercdn.net/cgtn/cgtn.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/x/-N/41259/Thumbnail.png?v=637698317263843574",Luys TV
+https://dsmartgo-live.ercdn.net/luystv/luystv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/I/xI/99040/Thumbnail.png?v=638631039820290115",ON6 TV
+https://dsmartgo-live.ercdn.net/on6tv/on6tv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/E/rf/54954/Thumbnail.png?v=638161189679837418",TV 264
+https://dsmartgo-live.ercdn.net/tv264/tv264.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/S/_q/13566/Thumbnail.png?v=637716231154178099",Halk TV
+https://dsmartgo-live.ercdn.net/dsmartgo/halktv/halktv.isml/playlist.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/z/c_/13569/Thumbnail.png?v=636928351928413811",Tele 1
+https://dsmartgo-live.ercdn.net/tele1/tele1.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/9/aZ/46627/Thumbnail.png?v=638838583824183907",Flash Haber
+https://dsmartgo-live.ercdn.net/flashhaber/flashhaber.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/U/q8/13412/Thumbnail.png?v=636958843746603410",a2
+https://dsmartgo-live.ercdn.net/a2/a2.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/Z/NK/12176/Thumbnail.png?v=636947699179076182",TRT World
+https://dsmartgo-live.ercdn.net/trtworld/trtworld.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/4/uH/13380/Thumbnail.png?v=636926490261173885",TRT Kurdi
+https://dsmartgo-live.ercdn.net/trtkurdi/trtkurdi.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/N/ix/13413/Thumbnail.png?v=636926486489178825",TRT Avaz
+https://dsmartgo-live.ercdn.net/trtavaz/trtavaz.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/8/qW/13521/Thumbnail.png?v=636945419374933809",TRT El Arabiya
+https://dsmartgo-live.ercdn.net/trtelarabiya/trtelarabiya.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/t/Os/13719/Thumbnail.png?v=636958847745172398",A News HD
+https://dsmartgo-live.ercdn.net/anews/anews.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+
+#EXTINF:-1 tvg-logo="https://dsmart-static-v2.ercdn.net/content/c/Po/13865/Thumbnail.png?v=636948477832691316",NHK (ingilizce)
+https://dsmartgo-live.ercdn.net/nhk/nhk.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
