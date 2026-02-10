@@ -1,0 +1,357 @@
+#EXTM3U x-tvg-url="https://mth.tc/epgemista"
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="GEMISTA",Sky Sports News
+https://stream.yiannisko-10f.workers.dev/sid=skysportsnews
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="GEMISTA",Sky Sports Main Event
+https://stream.yiannisko-10f.workers.dev/sid=skysportsmainevent
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-hz-uk.png" group-title="GEMISTA",Sky Sports Football
+https://stream.yiannisko-10f.workers.dev/sid=SkySportsFootballUK
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="GEMISTA",Sky Sports Premier League
+https://stream.yiannisko-10f.workers.dev/sid=skysportspremierleague
+#EXTINF:-1 tvg-id="SkySp+.uk" tvg-name="Sky Sports+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-plus-hz-uk.png" group-title="GEMISTA",Sky Sports+
+https://stream.yiannisko-10f.workers.dev/sid=skysportsplus
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-uk.png" group-title="GEMISTA",Sky Sports Tennis
+https://stream.yiannisko-10f.workers.dev/sid=skysportstennisuk
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="GEMISTA",Sky Sports F1
+https://stream.yiannisko-10f.workers.dev/sid=SkySportsF1
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="GEMISTA",Sky Sports Mix
+https://stream.yiannisko-10f.workers.dev/sid=skysportsmixuk
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="Sky Sports NFL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="GEMISTA",Sky Sports NFL
+https://stream.yiannisko-10f.workers.dev/sid=skysportsaction
+#EXTINF:-1 tvg-id="laliga-tv.uk" tvg-name="LaLiga TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/laliga-tv-uk.png" group-title="GEMISTA",LaLiga TV
+https://stream.yiannisko-10f.workers.dev/sid=ViaplayLaLigaUK
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="GEMISTA",TNT Sports 1
+https://stream.yiannisko-10f.workers.dev/sid=TNT1UK
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="GEMISTA",TNT Sports 2
+https://stream.yiannisko-10f.workers.dev/sid=tntsports2
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="GEMISTA",TNT Sports 3
+https://stream.yiannisko-10f.workers.dev/sid=tntsports3
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="GEMISTA",TNT Sports 4
+https://stream.yiannisko-10f.workers.dev/sid=tntsports4
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="GEMISTA",Premier Sports 1
+https://stream.yiannisko-10f.workers.dev/sid=PREMIERSPORTS1
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-2-uk.png" group-title="GEMISTA",Premier Sports 2
+https://stream.yiannisko-10f.workers.dev/sid=PREMIERSPORTS2
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-network-us.png" group-title="GEMISTA",CBS Sports Network
+https://stream.yiannisko-10f.workers.dev/sid=CBSSPORTSNETWORK
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png" group-title="GEMISTA",FS1
+https://stream.yiannisko-10f.workers.dev/sid=FOXSPORTS1
+#EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FS2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png" group-title="GEMISTA",FS2
+https://stream.yiannisko-10f.workers.dev/sid=FOXSPORTS2
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="GEMISTA",ESPN
+https://stream.yiannisko-10f.workers.dev/sid=ESPN
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png" group-title="GEMISTA",ESPN 2
+https://stream.yiannisko-10f.workers.dev/sid=ESPN2
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN SPORTS USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-us.png" group-title="GEMISTA",beIN SPORTS USA
+https://stream.yiannisko-10f.workers.dev/sid=beINSPORTSUS
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-hz-us.png" group-title="GEMISTA",Tennis Channel
+https://stream.yiannisko-10f.workers.dev/sid=TENNISCHANNEL
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="ESPN SEC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-sec-hz-us.png" group-title="GEMISTA",ESPN SEC Network
+https://stream.yiannisko-10f.workers.dev/sid=ESPNSECNETWORK
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-u-us.png" group-title="GEMISTA",ESPN U
+https://stream.yiannisko-10f.workers.dev/sid=ESPNU
+#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-name="FOX Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-deportes-us.png" group-title="GEMISTA",FOX Deportes
+https://stream.yiannisko-10f.workers.dev/sid=FOXDEPORTES
+#EXTINF:-1 tvg-id="TSN.HD.ca2" tvg-name="TSN1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png" group-title="GEMISTA",TSN1
+https://stream.yiannisko-10f.workers.dev/sid=TSN1
+#EXTINF:-1 tvg-id="TSN.2.HD.ca2" tvg-name="TSN2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" group-title="GEMISTA",TSN2
+https://stream.yiannisko-10f.workers.dev/sid=TSN2
+#EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-name="TSN3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="GEMISTA",TSN3
+https://stream.yiannisko-10f.workers.dev/sid=TSN3
+#EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-name="TSN4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="GEMISTA",TSN4
+https://stream.yiannisko-10f.workers.dev/sid=TSN4
+#EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-name="TSN5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png" group-title="GEMISTA",TSN5
+https://stream.yiannisko-10f.workers.dev/sid=TSN5
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-360-ca.png" group-title="GEMISTA",Sportsnet 360
+https://stream.yiannisko-10f.workers.dev/sid=Sportsnet360
+#EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-name="Sportsnet One" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-ca.png" group-title="GEMISTA",Sportsnet One
+https://stream.yiannisko-10f.workers.dev/sid=SportsnetOne
+#EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-name="Sportsnet East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png" group-title="GEMISTA",Sportsnet East
+https://stream.yiannisko-10f.workers.dev/sid=SportsnetEast
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-name="Sportsnet West" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png" group-title="GEMISTA",Sportsnet West
+https://stream.yiannisko-10f.workers.dev/sid=SportsnetWest
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-name="Sportsnet Ontario" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-ca.png" group-title="GEMISTA",Sportsnet Ontario
+https://stream.yiannisko-10f.workers.dev/sid=SportsnetOntario
+#EXTINF:-1 tvg-id="Sportsnet.World.ca2" tvg-name="Sportsnet World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png" group-title="GEMISTA",Sportsnet World
+https://stream.yiannisko-10f.workers.dev/sid=SportsnetWorld
+#EXTINF:-1 tvg-id="TVA.Sports.HD.ca2" tvg-name="TVA Sports CA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png" group-title="GEMISTA",TVA Sports CA
+https://stream.yiannisko-10f.workers.dev/sid=TVASports
+#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-name="DAZN LaLiga" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="GEMISTA",DAZN LaLiga
+https://stream.yiannisko-10f.workers.dev/sid=DAZNLaLiga
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="DAZN 1 ESP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png" group-title="GEMISTA",DAZN 1 ESP
+https://stream.yiannisko-10f.workers.dev/sid=DAZN1ES
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="DAZN 2 ESP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png" group-title="GEMISTA",DAZN 2 ESP
+https://stream.yiannisko-10f.workers.dev/sid=DAZN2ES
+#EXTINF:-1 tvg-id="DAZN.3.es" tvg-name="DAZN 3 ESP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png" group-title="GEMISTA",DAZN 3 ESP
+https://stream.yiannisko-10f.workers.dev/sid=DAZN3ES
+#EXTINF:-1 tvg-id="DAZN.4.es" tvg-name="DAZN 4 ESP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png" group-title="GEMISTA",DAZN 4 ESP
+https://stream.yiannisko-10f.workers.dev/sid=DAZN4ES
+#EXTINF:-1 tvg-id="M+.Deportes.es" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="GEMISTA",Movistar Deportes
+https://stream.yiannisko-10f.workers.dev/sid=MDEPORTES
+#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-name="Movistar LaLiga" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="GEMISTA",Movistar LaLiga
+https://stream.yiannisko-10f.workers.dev/sid=LALIGAES
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png" group-title="GEMISTA",Teledeporte
+https://stream.yiannisko-10f.workers.dev/sid=TELEDEPORTEES
+#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-name="Vamos!" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png" group-title="GEMISTA",Vamos!
+https://stream.yiannisko-10f.workers.dev/sid=VamosES
+#EXTINF:-1 tvg-id="M+.Liga.de.Campeones.es" tvg-name="Movistar Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png" group-title="GEMISTA",Movistar Liga de Campeones
+https://stream.yiannisko-10f.workers.dev/sid=MLIGADECAMPEONES
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="GEMISTA",Rai Sport
+https://stream.yiannisko-10f.workers.dev/sid=RAISportIT
+#EXTINF:-1 tvg-id="DAZN.1.it.it" tvg-name="DAZN IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dazn-channel-it.png" group-title="GEMISTA",DAZN IT
+https://stream.yiannisko-10f.workers.dev/sid=ZonaDAZN
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-name="Sky Sport Uno IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-uno-it.png" group-title="GEMISTA",Sky Sport Uno IT
+https://stream.yiannisko-10f.workers.dev/sid=SkySportUnoIT
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-name="Sky Sport Calcio IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="GEMISTA",Sky Sport Calcio IT
+https://stream.yiannisko-10f.workers.dev/sid=SkySportCalcioIT
+#EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-name="Sky Sport Max IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-football-it.png" group-title="GEMISTA",Sky Sport Max IT
+https://stream.yiannisko-10f.workers.dev/sid=SkySportMaxIT
+#EXTINF:-1 tvg-id="Sky.Sport.Mix.it" tvg-name="Sky Sport Mix IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-mix-it.png" group-title="GEMISTA",Sky Sport Mix IT
+https://stream.yiannisko-10f.workers.dev/sid=SkySportMixIT
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-name="Sky Sport Tennis IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-tennis-it.png" group-title="GEMISTA",Sky Sport Tennis IT
+https://stream.yiannisko-10f.workers.dev/sid=SkySportTennisIT
+#EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-name="Super Tennis IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-tennis-it.png" group-title="GEMISTA",Super Tennis IT
+https://stream.yiannisko-10f.workers.dev/sid=Supertennis
+#EXTINF:-1 tvg-id="DAZN.1.de" tvg-name="DAZN 1 DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn1-de.png" group-title="GEMISTA",DAZN 1 DE
+https://stream.yiannisko-10f.workers.dev/sid=DAZNDE
+#EXTINF:-1 tvg-id="DAZN.2.de" tvg-name="DAZN 2 DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn2-de.png" group-title="GEMISTA",DAZN 2 DE
+https://stream.yiannisko-10f.workers.dev/sid=DAZN2DE
+#EXTINF:-1 tvg-id="sportdigital.Fussball.de" tvg-name="SportDigital DE" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportdigital-fussball.png" group-title="GEMISTA",SportDigital DE
+https://stream.yiannisko-10f.workers.dev/sid=sportdigitalfussball
+#EXTINF:-1 tvg-id="Sky.Sport.News.de" tvg-name="Sky Sport News DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-de.png" group-title="GEMISTA",Sky Sport News DE
+https://stream.yiannisko-10f.workers.dev/sid=SkySportsNewsDE
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky Sport Bundesliga DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png" group-title="GEMISTA",Sky Sport Bundesliga DE
+https://stream.yiannisko-10f.workers.dev/sid=SkySportsBundesliga
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" tvg-name="Sky Sport Austria 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-austria-1-de.png" group-title="GEMISTA",Sky Sport Austria 1
+https://stream.yiannisko-10f.workers.dev/sid=SkySportAustria
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport Premier League DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" group-title="GEMISTA",Sky Sport Premier League DE
+https://stream.yiannisko-10f.workers.dev/sid=SkySportPremierLeagueDE
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="GEMISTA",Sky Sport Top Event DE
+https://stream.yiannisko-10f.workers.dev/sid=SkySportTopEvent
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.de" tvg-name="Sky Sport Tennis DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-tennis-de.png" group-title="GEMISTA",Sky Sport Tennis DE
+https://stream.yiannisko-10f.workers.dev/sid=SkySportsTennisDE
+#EXTINF:-1 tvg-id="Sky.Sport.Mix.de" tvg-name="Sky Sport Mix DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-de.png" group-title="GEMISTA",Sky Sport Mix DE
+https://stream.yiannisko-10f.workers.dev/sid=SkySportMixDE
+#EXTINF:-1 tvg-id="Canal+.Sport.fr" tvg-name="Canal+ Sport FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-fr.png" group-title="GEMISTA",Canal+ Sport FR
+https://stream.yiannisko-10f.workers.dev/sid=CANALSPORTFR
+#EXTINF:-1 tvg-id="Canal+.Foot.fr" tvg-name="Canal+ Foot FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-foot-fr.png" group-title="GEMISTA",Canal+ Foot FR
+https://stream.yiannisko-10f.workers.dev/sid=FOOTPLUSFR
+#EXTINF:-1 tvg-id="Canal+.Sport.360.fr" tvg-name="Canal+ Sport 360 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-360-fr.png" group-title="GEMISTA",Canal+ Sport 360 FR
+https://stream.yiannisko-10f.workers.dev/sid=CANALS360
+#EXTINF:-1 tvg-id="RMC.Sport.1.fr" tvg-name="RMC Sport 1 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-sport-1-fr.png" group-title="GEMISTA",RMC Sport 1 FR
+https://stream.yiannisko-10f.workers.dev/sid=RMCSPORT1FR
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN Sports 1 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/bein-sports-1-french-fr.png" group-title="GEMISTA",beIN Sports 1 FR
+https://stream.yiannisko-10f.workers.dev/sid=BEINSPORT1FR
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-name="beIN Sports 2 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/bein-sports-2-french-fr.png" group-title="GEMISTA",beIN Sports 2 FR
+https://stream.yiannisko-10f.workers.dev/sid=BEINSPORT2FR
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-name="beIN Sports 3 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/bein-sports-3-french-fr.png" group-title="GEMISTA",beIN Sports 3 FR
+https://stream.yiannisko-10f.workers.dev/sid=BEINSPORT3FR
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-name="beIN Sports Max 4 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" group-title="GEMISTA",beIN Sports Max 4 FR
+https://stream.yiannisko-10f.workers.dev/sid=beINMAX4FR
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-name="beIN Sports Max 5 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-5-max-hz-int.png" group-title="GEMISTA",beIN Sports Max 5 FR
+https://stream.yiannisko-10f.workers.dev/sid=beINMAX5FR
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-name="beIN Sports Max 6 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-6-max-hz-int.png" group-title="GEMISTA",beIN Sports Max 6 FR
+https://stream.yiannisko-10f.workers.dev/sid=beINMAX6FR
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-name="beIN Sports Max 7 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-7-max-hz-int.png" group-title="GEMISTA",beIN Sports Max 7 FR
+https://stream.yiannisko-10f.workers.dev/sid=beINMAX7FR
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-name="beIN Sports Max 8 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-8-max-hz-int.png" group-title="GEMISTA",beIN Sports Max 8 FR
+https://stream.yiannisko-10f.workers.dev/sid=beINMAX8FR
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-name="beIN Sports Max 9 FR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-9-max-hz-int.png" group-title="GEMISTA",beIN Sports Max 9 FR
+https://stream.yiannisko-10f.workers.dev/sid=beINMAX9FR
+#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-name="Arena 1 Premium RS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-1-premium-rs.png" group-title="GEMISTA",Arena 1 Premium RS
+https://stream.yiannisko-10f.workers.dev/sid=ARENASPORT1PREMIUMRS
+#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-name="Arena 2 Premium RS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-2-premium-rs.png" group-title="GEMISTA",Arena 2 Premium RS
+https://stream.yiannisko-10f.workers.dev/sid=ARENASPORT2PREMIUMRS
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-name="Arena 3 Premium RS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-3-premium-rs.png" group-title="GEMISTA",Arena 3 Premium RS
+https://stream.yiannisko-10f.workers.dev/sid=ARENASPORT3PREMIUMRS
+#EXTINF:-1 tvg-id="SK.4.HD.(SR/BIH).ba" tvg-name="Sport Klub 4 RS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/sportklub-4-hr.png" group-title="GEMISTA",Sport Klub 4 RS
+https://stream.yiannisko-10f.workers.dev/sid=SPORTKLUB4RS
+#EXTINF:-1 tvg-id="CANAL+.Sport.pl" tvg-name="Canal+ Sport PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png" group-title="GEMISTA",Canal+ Sport PL
+https://stream.yiannisko-10f.workers.dev/sid=CANALSPORTPL
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" tvg-name="Canal+ Sport 2 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-2-pl.png" group-title="GEMISTA",Canal+ Sport 2 PL
+https://stream.yiannisko-10f.workers.dev/sid=CANALSPORT2PL
+#EXTINF:-1 tvg-id="CANAL+.Sport.3.pl" tvg-name="Canal+ Sport 3 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-3-pl.png" group-title="GEMISTA",Canal+ Sport 3 PL
+https://stream.yiannisko-10f.workers.dev/sid=CANALSPORT3PL
+#EXTINF:-1 tvg-id="CANAL+.Sport.4.pl" tvg-name="Canal+ Sport 4 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-4-pl.png" group-title="GEMISTA",Canal+ Sport 4 PL
+https://stream.yiannisko-10f.workers.dev/sid=CANALSPORT4PL
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" tvg-name="Canal+ Sport 5 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-5-pl.png" group-title="GEMISTA",Canal+ Sport 5 PL
+https://stream.yiannisko-10f.workers.dev/sid=CANALSPORT5PL
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.1.HD.pl" tvg-name="Canal+ Extra 1 PL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH1gk5aa5Sm-XF0pu9nvz9cRviJaYKU0JB61ETSshMLw&s=10" group-title="GEMISTA",Canal+ Extra 1 PL
+https://stream.yiannisko-10f.workers.dev/sid=CLPLExtra1
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.2.HD.pl" tvg-name="Canal+ Extra 2 PL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaMFmXdyztuMnXIAe43ipyjqtQp_5pXzwXWg39xcHS3Q&s=10" group-title="GEMISTA",Canal+ Extra 2 PL
+https://stream.yiannisko-10f.workers.dev/sid=CLPLExtra2
+#EXTINF:-1 tvg-id="Polsat.Sport.pl" tvg-name="Polsat Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-pl.png" group-title="GEMISTA",Polsat Sport 1
+https://stream.yiannisko-10f.workers.dev/sid=POLSATSPORTPL
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" tvg-name="Polsat Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-2-pl.png" group-title="GEMISTA",Polsat Sport 2
+https://stream.yiannisko-10f.workers.dev/sid=POLSATSPORTEXTRA
+#EXTINF:-1 tvg-id="Polsat.Sport.News.HD.pl" tvg-name="Polsat Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-3-pl.png" group-title="GEMISTA",Polsat Sport 3
+https://stream.yiannisko-10f.workers.dev/sid=POLSATSPORTNEWS
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" tvg-name="Polsat Sport Premium 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-premium-1-pl.png" group-title="GEMISTA",Polsat Sport Premium 1
+https://stream.yiannisko-10f.workers.dev/sid=PolsatSportPremium1
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" tvg-name="Polsat Sport Premium 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-premium-2-pl.png" group-title="GEMISTA",Polsat Sport Premium 2
+https://stream.yiannisko-10f.workers.dev/sid=PolsatSportPremium2
+#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-name="Eleven Sports 1 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/eleven-sports-1-int.png" group-title="GEMISTA",Eleven Sports 1 PL
+https://stream.yiannisko-10f.workers.dev/sid=ElevenSports1PL
+#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-name="Eleven Sports 2 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/eleven-sports-2-int.png" group-title="GEMISTA",Eleven Sports 2 PL
+https://stream.yiannisko-10f.workers.dev/sid=ElevenSports2PL
+#EXTINF:-1 tvg-id="Eleven.Sports.3.pl" tvg-name="Eleven Sports 3 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/eleven-sports-3-int.png" group-title="GEMISTA",Eleven Sports 3 PL
+https://stream.yiannisko-10f.workers.dev/sid=ElevenSports3PL
+#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" tvg-name="Eleven Sports 4 PL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/eleven-sports-4-int.png" group-title="GEMISTA",Eleven Sports 4 PL
+https://stream.yiannisko-10f.workers.dev/sid=ElevenSports4PL
+#EXTINF:-1 tvg-id="ESPN.1.nl" tvg-name="ESPN NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-nl.png" group-title="GEMISTA",ESPN NL
+https://stream.yiannisko-10f.workers.dev/sid=ESPN1NL
+#EXTINF:-1 tvg-id="ESPN.2.nl" tvg-name="ESPN 2 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-2-nl.png" group-title="GEMISTA",ESPN 2 NL
+https://stream.yiannisko-10f.workers.dev/sid=ESPN2NL
+#EXTINF:-1 tvg-id="ESPN.3.nl" tvg-name="ESPN 3 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-3-nl.png" group-title="GEMISTA",ESPN 3 NL
+https://stream.yiannisko-10f.workers.dev/sid=ESPN3NL
+#EXTINF:-1 tvg-id="ESPN.4.nl" tvg-name="ESPN 4 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-4-nl.png" group-title="GEMISTA",ESPN 4 NL
+https://stream.yiannisko-10f.workers.dev/sid=ESPN4NL
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo Sport NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-nl.png" group-title="GEMISTA",Ziggo Sport NL
+https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo Sport 2 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-2-nl.png" group-title="GEMISTA",Ziggo Sport 2 NL
+https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport2
+#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-name="Ziggo Sport 3 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-3-nl.png" group-title="GEMISTA",Ziggo Sport 3 NL
+https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport3
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-name="Ziggo Sport 4 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-4-nl.png" group-title="GEMISTA",Ziggo Sport 4 NL
+https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport4
+#EXTINF:-1 tvg-id="Ziggo.Sport.5.nl" tvg-name="Ziggo Sport 5 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-5-nl.png" group-title="GEMISTA",Ziggo Sport 5 NL
+https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport5
+#EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" tvg-name="Ziggo Sport 6 NL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-6-nl.png" group-title="GEMISTA",Ziggo Sport 6 NL
+https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport6
+#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-name="DAZN 1 PT" tvg-logo="https://proxy.yiannisko-10f.workers.dev?url2=https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png" group-title="GEMISTA",DAZN 1 PT
+https://stream.yiannisko-10f.workers.dev/sid=ELEVEN1
+#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-name="DAZN 2 PT" tvg-logo="https://proxy.yiannisko-10f.workers.dev?url2=https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png" group-title="GEMISTA",DAZN 2 PT
+https://stream.yiannisko-10f.workers.dev/sid=ELEVEN2
+#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-name="DAZN 3 PT" tvg-logo="https://proxy.yiannisko-10f.workers.dev?url2=https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png" group-title="GEMISTA",DAZN 3 PT
+https://stream.yiannisko-10f.workers.dev/sid=ELEVEN3
+#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-name="DAZN 4 PT" tvg-logo="https://proxy.yiannisko-10f.workers.dev?url2=https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png" group-title="GEMISTA",DAZN 4 PT
+https://stream.yiannisko-10f.workers.dev/sid=ELEVEN4
+#EXTINF:-1 tvg-id="DAZN.5.pt" tvg-name="DAZN 5 PT" tvg-logo="https://proxy.yiannisko-10f.workers.dev?url2=https://upload.wikimedia.org/wikipedia/commons/e/e5/DAZN_5.png" group-title="GEMISTA",DAZN 5 PT
+https://stream.yiannisko-10f.workers.dev/sid=ELEVEN5
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="Sport TV 1 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-1-pt.png" group-title="GEMISTA",Sport TV 1 PT
+https://stream.yiannisko-10f.workers.dev/sid=SPT1
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="Sport TV 2 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-2-pt.png" group-title="GEMISTA",Sport TV 2 PT
+https://stream.yiannisko-10f.workers.dev/sid=SPT2
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="Sport TV 3 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-3-pt.png" group-title="GEMISTA",Sport TV 3 PT
+https://stream.yiannisko-10f.workers.dev/sid=SPT3
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="Sport TV 4 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="GEMISTA",Sport TV 4 PT
+https://stream.yiannisko-10f.workers.dev/sid=SPT4
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="Sport TV 5 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="GEMISTA",Sport TV 5 PT
+https://stream.yiannisko-10f.workers.dev/sid=SPT5
+#EXTINF:-1 tvg-id="SPORT.TV6.HD.pt" tvg-name="Sport TV 6 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-6-pt.png" group-title="GEMISTA",Sport TV 6 PT
+https://stream.yiannisko-10f.workers.dev/sid=SPT6
+#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-name="Sport TV+ PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-mais-pt.png" group-title="GEMISTA",Sport TV+ PT
+https://stream.yiannisko-10f.workers.dev/sid=SPTPlus
+#EXTINF:-1 tvg-id="Canal.11.HD.pt" tvg-name="Canal 11 PT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal11-pt.png" group-title="GEMISTA",Canal 11 PT
+https://stream.yiannisko-10f.workers.dev/sid=Canal11
+#EXTINF:-1 tvg-id="MAX.Sport.1.bg" tvg-name="Max Sport 1 BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-1-bg.png" group-title="GEMISTA",Max Sport 1 BG
+https://stream.yiannisko-10f.workers.dev/sid=MaxSportBG
+#EXTINF:-1 tvg-id="MAX.Sport.2.bg" tvg-name="Max Sport 2 BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-2-bg.png" group-title="GEMISTA",Max Sport 2 BG
+https://stream.yiannisko-10f.workers.dev/sid=MaxSport2BG
+#EXTINF:-1 tvg-id="MAX.Sport.3.bg" tvg-name="Max Sport 3 BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-3-bg.png" group-title="GEMISTA",Max Sport 3 BG
+https://stream.yiannisko-10f.workers.dev/sid=MaxSport3BG
+#EXTINF:-1 tvg-id="MAX.Sport.4.bg" tvg-name="Max Sport 4 BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-4-bg.png" group-title="GEMISTA",Max Sport 4 BG
+https://stream.yiannisko-10f.workers.dev/sid=MaxSport4BG
+#EXTINF:-1 tvg-id="Нова.Спорт.bg" tvg-name="Nova Sport BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-sport-bg.png" group-title="GEMISTA",Nova Sport BG
+https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTBG
+#EXTINF:-1 tvg-id="Diema.Sport.HD.bg" tvg-name="Diema Sport BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport-hd-bg.png" group-title="GEMISTA",Diema Sport BG
+https://stream.yiannisko-10f.workers.dev/sid=DiemaSport
+#EXTINF:-1 tvg-id="Diema.Sport.2.HD.bg" tvg-name="Diema Sport 2 BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport2-hd-bg.png" group-title="GEMISTA",Diema Sport 2 BG
+https://stream.yiannisko-10f.workers.dev/sid=DiemaSport2
+#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-name="Diema Sport 3 BG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport3-hd-bg.png" group-title="GEMISTA",Diema Sport 3 BG
+https://stream.yiannisko-10f.workers.dev/sid=DiemaSport3
+#EXTINF:-1 tvg-id="Novasports.Start.gr" tvg-name="Nova Sports Start GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png" group-title="GEMISTA",Nova Sports Start GR
+https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTSST
+#EXTINF:-1 tvg-id="Novasports.Premier.League.HD.gr" tvg-name="Nova Sports Premier League GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-premier-league.png" group-title="GEMISTA",Nova Sports Premier League GR
+https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTSPL
+#EXTINF:-1 tvg-id="Novasports.Prime.gr" tvg-name="Nova Sports Prime GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png" group-title="GEMISTA",Nova Sports Prime GR
+https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTSPR
+#EXTINF:-1 tvg-id="Novasports1.gr" tvg-name="Nova Sports 1 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-1-gr.png" group-title="GEMISTA",Nova Sports 1 GR
+https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS1
+#EXTINF:-1 tvg-id="Novasports2.gr" tvg-name="Nova Sports 2 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-2-gr.png" group-title="GEMISTA",Nova Sports 2 GR
+https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS2
+#EXTINF:-1 tvg-id="Novasports3.gr" tvg-name="Nova Sports 3 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-3-gr.png" group-title="GEMISTA",Nova Sports 3 GR
+https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS3
+#EXTINF:-1 tvg-id="Novasports4.gr" tvg-name="Nova Sports 4 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-4-gr.png" group-title="GEMISTA",Nova Sports 4 GR
+https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS4
+#EXTINF:-1 tvg-id="Novasports5.gr" tvg-name="Nova Sports 5 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-5-gr.png" group-title="GEMISTA",Nova Sports 5 GR
+https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS5
+#EXTINF:-1 tvg-id="Novasports6.gr" tvg-name="Nova Sports 6 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-6-gr.png" group-title="GEMISTA",Nova Sports 6 GR
+https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS6
+#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-name="Cosmote Sport 1 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png" group-title="GEMISTA",Cosmote Sport 1 GR
+https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT1
+#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-name="Cosmote Sport 2 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-2-gr.png" group-title="GEMISTA",Cosmote Sport 2 GR
+https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT2
+#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-name="Cosmote Sport 3 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-3-gr.png" group-title="GEMISTA",Cosmote Sport 3 GR
+https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT3
+#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-name="Cosmote Sport 4 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-4-gr.png" group-title="GEMISTA",Cosmote Sport 4 GR
+https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT4
+#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-name="Cosmote Sport 5 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-5-gr.png" group-title="GEMISTA",Cosmote Sport 5 GR
+https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT5
+#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-name="Cosmote Sport 6 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-6-gr.png" group-title="GEMISTA",Cosmote Sport 6 GR
+https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT6
+#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-name="Cosmote Sport 7 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-7-gr.png" group-title="GEMISTA",Cosmote Sport 7 GR
+https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT7
+#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-name="Cosmote Sport 8 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-8-gr.png" group-title="GEMISTA",Cosmote Sport 8 GR
+https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT8
+#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-name="Cosmote Sport 9 GR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-9-gr.png" group-title="GEMISTA",Cosmote Sport 9 GR
+https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT9
+#EXTINF:-1 tvg-id="COSMOTE.Sport.Highlights.HD.gr" tvg-name="Cosmote Sport HL GR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAKPmjCrzfY92JJSF3C8a_OJjKkAz7QQcR9dyKDsj8&s=10" group-title="GEMISTA",Cosmote Sport HL GR
+https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORTHG
+#EXTINF:-1 tvg-id="Cablenet.Sports.1.cy" tvg-name="Cablenet Sports 1 CY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuecmefieh3u_Hjb7Hg07v-3AbcsNnBhtCX-8SVOIlNA&s=10" group-title="GEMISTA",Cablenet Sports 1 CY
+https://stream.yiannisko-10f.workers.dev/sid=Cablenet1
+#EXTINF:-1 tvg-id="Cablenet.Sports.2.cy" tvg-name="Cablenet Sports 2 CY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuecmefieh3u_Hjb7Hg07v-3AbcsNnBhtCX-8SVOIlNA&s=10" group-title="GEMISTA",Cablenet Sports 2 CY
+https://stream.yiannisko-10f.workers.dev/sid=Cablenet2
+#EXTINF:-1 tvg-id="DIGI.Sport.1.(HD).ro" tvg-name="Digi Sport 1 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-1-ro.png" group-title="GEMISTA",Digi Sport 1 RO
+https://stream.yiannisko-10f.workers.dev/sid=DIGISPORT1
+#EXTINF:-1 tvg-id="DIGI.Sport.2.(HD).ro" tvg-name="Digi Sport 2 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-2-ro.png" group-title="GEMISTA",Digi Sport 2 RO
+https://stream.yiannisko-10f.workers.dev/sid=DIGISPORT2
+#EXTINF:-1 tvg-id="DIGI.Sport.3.(HD).ro" tvg-name="Digi Sport 3 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-3-ro.png" group-title="GEMISTA",Digi Sport 3 RO
+https://stream.yiannisko-10f.workers.dev/sid=DIGISPORT3
+#EXTINF:-1 tvg-id="DIGI.Sport.4.(HD).ro" tvg-name="Digi Sport 4 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-4-ro.png" group-title="GEMISTA",Digi Sport 4 RO
+https://stream.yiannisko-10f.workers.dev/sid=DIGISPORT4
+#EXTINF:-1 tvg-id="Prima.Sport.1.(HD).ro" tvg-name="Prima Sport 1 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-1-ro.png" group-title="GEMISTA",Prima Sport 1 RO
+https://stream.yiannisko-10f.workers.dev/sid=PrimaSport1
+#EXTINF:-1 tvg-id="Prima.Sport.2.(HD).ro" tvg-name="Prima Sport 2 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-2-ro.png" group-title="GEMISTA",Prima Sport 2 RO
+https://stream.yiannisko-10f.workers.dev/sid=PrimaSport2
+#EXTINF:-1 tvg-id="Prima.Sport.3.(HD).ro" tvg-name="Prima Sport 3 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-3-ro.png" group-title="GEMISTA",Prima Sport 3 RO
+https://stream.yiannisko-10f.workers.dev/sid=PrimaSport3
+#EXTINF:-1 tvg-id="Prima.Sport.4.(HD).ro" tvg-name="Prima Sport 4 RO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-4-ro.png" group-title="GEMISTA",Prima Sport 4 RO
+https://stream.yiannisko-10f.workers.dev/sid=PrimaSport4
+#EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-name="Arena Sport 1 CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-G8i0BDPPWiAuEoAqwrSepyy7lOz1yZm1z6RhiLC4IA&s=10" group-title="GEMISTA",Arena Sport 1 CZ
+https://stream.yiannisko-10f.workers.dev/sid=ARNSPORT1SK
+#EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-name="Arena Sport 2 CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkzBAlGUsLxGF-hrLgg9m8hyrsjkJiLhlCpI1AWYO&s" group-title="GEMISTA",Arena Sport 2 CZ
+https://stream.yiannisko-10f.workers.dev/sid=ARNSPORT2SK
+#EXTINF:-1 tvg-id="Nova.Sport.1.cz" tvg-name="Nova Sport 1 CZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-sport-1-cz.png" group-title="GEMISTA",Nova Sport 1 CZ
+https://stream.yiannisko-10f.workers.dev/sid=NOVASPORT1CZ
+#EXTINF:-1 tvg-id="Nova.Sport.2.cz" tvg-name="Nova Sport 2 CZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-sport-2-cz.png" group-title="GEMISTA",Nova Sport 2 CZ
+https://stream.yiannisko-10f.workers.dev/sid=NOVASPORT2CZ
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="Sport 1 CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEydFlWDPAYzgWMnYqe6Y-a1HupGFV3bVOYp1GbHY4JwzRYl52HkAFB1U&s=10" group-title="GEMISTA",Sport 1 CZ
+https://stream.yiannisko-10f.workers.dev/sid=SPORT1CZ
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport 2 CZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJMpom0xFYjHKE9ToWCG5DYYvgLrfDlfNjanTRwosFA&s=10" group-title="GEMISTA",Sport 2 CZ
+https://stream.yiannisko-10f.workers.dev/sid=SPORT2CZ
+#EXTINF:-1 tvg-id="viju sport.ru" tvg-name="Viju+ Sport RU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/viju-plus-sport-ru.png" group-title="GEMISTA",Viju+ Sport RU
+https://stream.yiannisko-10f.workers.dev/sid=VijuPLUSSport
+#EXTINF:-1 tvg-id="KHL.ru" tvg-name="KHL RU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-ru.png" group-title="GEMISTA",KHL RU
+https://stream.yiannisko-10f.workers.dev/sid=KHLTV
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-name="KHL Prime RU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-prime-ru.png" group-title="GEMISTA",KHL Prime RU
+https://stream.yiannisko-10f.workers.dev/sid=KHLPrime
+#EXTINF:-1 tvg-id="Setanta Sports 1.ru" tvg-name="Setanta Sports 1 RU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/300?cb=20230804042515" group-title="GEMISTA",Setanta Sports 1 RU
+https://stream.yiannisko-10f.workers.dev/sid=Setanta1RU
+#EXTINF:-1 tvg-id="Setanta Sports 2.ru" tvg-name="Setanta Sports 2 RU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Setanta_Sports_2_2023.svg/revision/latest?cb=20230804053337" group-title="GEMISTA",Setanta Sports 2 RU
+https://stream.yiannisko-10f.workers.dev/sid=Setanta2RU
+#EXTINF:-1 tvg-id="match futbol 1.ru" tvg-name="Match Football 1 RU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-futbol-1-ru.png" group-title="GEMISTA",Match Football 1 RU
+https://stream.yiannisko-10f.workers.dev/sid=MatchTV
+#EXTINF:-1 tvg-id="match futbol 2.ru" tvg-name="Match Football 2 RU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-futbol-2-ru.png" group-title="GEMISTA",Match Football 2 RU
+https://stream.yiannisko-10f.workers.dev/sid=MatchTV2
+#EXTINF:-1 tvg-id="match futbol 3.ru" tvg-name="Match Football 3 RU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-futbol-3-ru.png" group-title="GEMISTA",Match Football 3 RU
+https://stream.yiannisko-10f.workers.dev/sid=MatchTV3
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png" group-title="GEMISTA",Canal+ Sport AFR
+https://stream.yiannisko-10f.workers.dev/sid=CNPLSP1AF
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 2 AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-2-pl.png" group-title="GEMISTA",Canal+ Sport 2 AFR
+https://stream.yiannisko-10f.workers.dev/sid=CNPLSP2AF
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 3 AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-3-pl.png" group-title="GEMISTA",Canal+ Sport 3 AFR
+https://stream.yiannisko-10f.workers.dev/sid=CNPLSP3AF
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-4-pl.png" group-title="GEMISTA",Canal+ Sport 4 AFR
+https://stream.yiannisko-10f.workers.dev/sid=CNPLSP4AF
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 5 AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-5-pl.png" group-title="GEMISTA",Canal+ Sport 5 AFR
+https://stream.yiannisko-10f.workers.dev/sid=CNPLSP5AF
