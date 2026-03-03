@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/national-geographic-uk.png",National Geographic-JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1280px-NHK_BSP4K_2023_logo.svg.png?_=20231204103605",NHK BSP4K-JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHK_BS_2023_logo.svg/1280px-NHK_BS_2023_logo.svg.png?_=20231204103604",NHK BS-JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/national-geographic-uk.png",National Geographic-TR
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/national-geographic-wild-uk.png",National Geographic Wild-TR
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/tlc-int.png",TLC-TR
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-belgesel-tr.png",TRT BELGESEL 2K-TR
+https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/cgtn-documentary-int.png",CGTN DOCUMENTARY-TR
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
+#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Travelxp_logo.svg/1280px-Travelxp_logo.svg.png?_=20250519141217",TRAVEL XP-INT
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Travelxp_logo.svg/1280px-Travelxp_logo.svg.png?_=20250519141217",TRAVEL XP-FR
+https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Travelxp_logo.svg/1280px-Travelxp_logo.svg.png?_=20250519141217",TRAVEL XP-DE
+https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Yeni Zelanda" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Travelxp_logo.svg/1280px-Travelxp_logo.svg.png?_=20250519141217",TRAVEL XP-NZ
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Moğolistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/3840px-BBC_Lifestyle2.svg.png",BBC LIFESTYLE-MN
+https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
+#EXTINF:-1 group-title="Moğolistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/330px-BBC_Earth_2023.svg.png",BBC EARTH-MN
+https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
