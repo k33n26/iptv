@@ -1,46 +1,144 @@
 #EXTM3U
-#EXTINF:-1 group-title="Japonya" tvg-logo="https://i.ibb.co/KjnzMVWd/NGJPN.jpg",National Geographic-JP
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://i.ibb.co/JFSp3zhD/NGJPN.jpg",National Geographic-JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-#EXTINF:-1 group-title="Japonya" tvg-logo="https://i.ibb.co/5WSrht8D/NHK-BSP4-K.png",NHK BSP4K-JP
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://i.ibb.co/Z1mLMq2G/NHK-BSP4-K.png",NHK BSP4K-JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/Q7DBC8Mb/national-geographic.png",National Geographic-TR
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/wFc354b9/national-geographic.png",National Geographic-TR
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/HL4TR6g5/national-geographic-wild.png",National Geographic Wild-TR
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/wZVc2cbH/national-geographic-wild.png",National Geographic Wild-TR
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/KpGwYPNB/tlc.png",TLC-TR
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/8gbxjH5D/tlc.png",TLC-TR
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
-#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/wh25D9hJ/trt-belgesel.png",TRT BELGESEL 2K-TR
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/jPtYM6JB/trt-belgesel.png",TRT BELGESEL 2K-TR
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/1GbS9Nqj/cgtn-documentary-int.png",CGTN DOCUMENTARY-TR
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/bjc2R6Dz/cgtn-documentary-int.png",CGTN DOCUMENTARY-TR
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
-#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/x8jp5M8q/Travelxp.png",TRAVEL XP-INT
+#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/0pKfFLqs/Travelxp.png",TRAVEL XP-INT
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/x8jp5M8q/Travelxp.png",TRAVEL XP-FR
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/0pKfFLqs/Travelxp.png",TRAVEL XP-FR
 https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/x8jp5M8q/Travelxp.png",TRAVEL XP-DE
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/0pKfFLqs/Travelxp.png",TRAVEL XP-DE
 https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Yeni Zelanda" tvg-logo="https://i.ibb.co/x8jp5M8q/Travelxp.png",TRAVEL XP-NZ
+#EXTINF:-1 group-title="Yeni Zelanda" tvg-logo="https://i.ibb.co/0pKfFLqs/Travelxp.png",TRAVEL XP-NZ
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Moğolistan" tvg-logo="https://i.ibb.co/8L84fJd2/BBC-Lifestyle.png",BBC LIFESTYLE-MN
+#EXTINF:-1 group-title="Moğolistan" tvg-logo="https://i.ibb.co/svFP28KT/BBC-Lifestyle.png",BBC LIFESTYLE-MN
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
-#EXTINF:-1 group-title="Moğolistan" tvg-logo="https://i.ibb.co/pBRG20x3/BBC-Earth.png",BBC EARTH-MN
+#EXTINF:-1 group-title="Moğolistan" tvg-logo="https://i.ibb.co/tM5KPLkB/BBC-Earth.png",BBC EARTH-MN
 https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
-#EXTINF:-1 group-title="Katar" tvg-logo="https://i.ibb.co/8g265rqm/Al-JAZEERA-Documentary.png",Al JAZEERA Documentary-QA
+#EXTINF:-1 group-title="Katar" tvg-logo="https://i.ibb.co/d4Rqcg6j/Al-JAZEERA-Documentary.png",Al JAZEERA Documentary-QA
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
-#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/yvnBYQ3/Nature-Time.png",Nature Time-FR
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/r2KtyTZ3/Nature-Time.png",Nature Time-FR
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 group-title="Kuveyt" tvg-logo="https://i.ibb.co/jvTrYRMd/Ch4-Teen-Documentary.png",Ch4Teen Documentary-KW
+#EXTINF:-1 group-title="Kuveyt" tvg-logo="https://i.ibb.co/F40RW3B2/Ch4-Teen-Documentary.png",Ch4Teen Documentary-KW
 http://ch14.tv/live/ch4teendoc/playlist.m3u8
-#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://i.ibb.co/MkjRs1Nq/This-is-Bulgaria-TV.png",This is Bulgaria-BG
+#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://i.ibb.co/7tw7q79Q/This-is-Bulgaria-TV.png",This is Bulgaria-BG
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
-#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://i.ibb.co/pjj138HG/Agro-TV.png",Agro TV-BG
+#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://i.ibb.co/LzM8N3ST/Agro-TV.png",Agro TV-BG
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
-#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://i.ibb.co/YBFc5PN8/Travel-TV-BG.png",Travel Tv-BG
+#EXTINF:-1 group-title="Bulgaristan" tvg-logo="https://i.ibb.co/67vj8HQS/Travel-TV-BG.png",Travel Tv-BG
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
-#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/Y4DpM1vL/Animaux-TV.png",Animaux-FR
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/mCJ74H1V/Animaux-TV.png",Animaux-FR
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
-#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/B2WzKMwz/TV5-Monde-Voyage.png",TV5 Monde Voyage-FR
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/p6KGLBTr/TV5-Monde-Voyage.png",TV5 Monde Voyage-FR
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/PKGZrHW/Trek.png",Trek-FR
+https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+#EXTINF:-1 group-title="Suudi Arabistan" tvg-logo="https://i.ibb.co/cXbgh62J/ASHARQ-Documentary.png",ASHARQ Documentary-SA
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
+#EXTINF:-1 group-title="Suudi Arabistan" tvg-logo="https://i.ibb.co/rf5hJjYm/ASHARQ-D-SCOVERY.png",ASHARQ Discovery-SA
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/cKY2pP5y/Love-Nature-TV.png",Love Nature-INT
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 group-title="İspanya" tvg-logo="https://i.ibb.co/TqYpNGKN/Andalucia-TV.png",Turismo Andalucia-ES
+https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
+#EXTINF:-1 group-title="Yunanistan" tvg-logo="https://i.ibb.co/mFMKWcjP/Xploregr.png",Xplore-GR
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 group-title="Tacikistan" tvg-logo="https://i.ibb.co/tM764gtW/ilm-va-tabiat-tj.png",Ilm Va Tabiat-TJ
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://i.ibb.co/SX07C3Hz/RT-Doc.png",RT DOCUMENTARY-RU
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/TD1NV9dg/Drone-TV.png",Drone TV-INT
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/4300.m3u8
+#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/TD1NV9dg/Drone-TV.png",Drone TV(Alternatif)-INT
+https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/VYQff4qc/documentary-plus.png",Documentary+-US
+https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/8n6BRHTJ/Doc-Story.png",DOCSTORY-FR
+https://jmp2.uk/stvp-FR1200001N2
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/LDsTgzSk/Destination-Nature.png",Destination Nature-FR
+https://jmp2.uk/stvp-FRBC4000001IO
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/tTtcCS1v/Cap-Terre.png",Cap Terre-FR
+https://jmp2.uk/stvp-FRBC3900004DS
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/QvYFz1Jb/invatition-arte.jpg",Invitation au voyage-ARTE-FR
+https://jmp2.uk/stvp-FR3700004HZ
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/0pCjcGSM/Wilder-Planet.png",Wilder Planet-FR
+https://jmp2.uk/stvp-ATBA3300031VR
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/Z1msMs0C/One-Terra.png",One Terra-DE
+https://jmp2.uk/stvp-ATBA1500021SL
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/35tYB6JH/Terra-Mater-Wild.png",Terra Mater WILD-DE
+https://jmp2.uk/stvp-ATBD2700001KY
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/fzd9Qj58/Tierwelt.png",Tierwelt-DE
+https://jmp2.uk/stvp-ATAJ0500427A
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/spVVfPG3/xplorede.png",Xplore-DE
+https://jmp2.uk/stvp-ATAJ0500428A
+#EXTINF:-1 group-title="Kanada" tvg-logo="https://i.ibb.co/VYQff4qc/documentary-plus.png",Documentary+-CA
+https://jmp2.uk/stvp-CABC2300019UD
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/qMkvK2f0/thedesignnetwork.png",The Design Network-US
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/35DfCVLt/Stingray-Naturescape.png",Stingray Naturescape-INT
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayNaturescape&ads.content_livestream=0&ads.csid=zeus_eu_stingrayambiance_ssai&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1288&ads.rakuten_streaming_id=675edd95-5a3c-410e-a602-88e8d82fbbc8&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883056&ads.xumo_channel_id=88883056&ads.xumo_contentId=188&ads.xumo_contentName=StingrayAmbiance&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=188&ads.xumo_providerName=stingray-naturescape-eng-rakutentv&ads.xumo_streamId=88883056
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/VcnnBDQM/weather-Spy.png",Water Spy-US
+https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=documentary&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=5155&ads.rtv_content_language=en&ads.rtvid=271859&ads.streaming_id=4ce2789b-463b-4e9b-9369-a87254c2a1a9&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1143
+#EXTINF:-1 group-title="İspanya" tvg-logo="https://i.ibb.co/Y7pfFjfn/Naturaleza.png",Naturaleza TV-ES
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=0798c3bb-ba1b-4697-ab63-d57222f913a3&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_channel_id=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=naturaleza-spa-rakutentv&ads.xumo_streamId=88883049
+#EXTINF:-1 group-title="İspanya" tvg-logo="https://i.ibb.co/rG0pk9n0/love-planet.png",Love The Planet-ES
+https://jmp2.uk/stvp-ESBC4700002TD
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/s96c9ccZ/Naturevision.png",NatureVision-US
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992449&ads.csid=lgchannels_[COUNTRY]_NatureVision_ssai&ads.content_language=en&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_rating=tv-g&ads.xumo_contentName=NatureVision&ads.xumo_contentId=133&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=0&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992449&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 group-title="İran" tvg-logo="https://i.ibb.co/kVVfw7Rp/gemnature.png",Gem Nature-IR
+https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
+#EXTINF:-1 group-title="İran" tvg-logo="https://i.ibb.co/dwHJNZ9F/persiana-docs.png",Persiana DOC-IR
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/MDb3wNYt/nauticalchannel.png",Nautical Channel-INT
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/MDb3wNYt/nauticalchannel.png",Nautical Channel(Alternatif)-INT
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/N65YF82R/fieldstream.png",Field&Stream-US
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Şili" tvg-logo="https://i.ibb.co/8DZvFK1h/13cultura.png",13 Cultura-CL
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 group-title="Karadağ" tvg-logo="https://i.ibb.co/MDmLNW21/Adria-Nature.png",Adria Nature-ME
+https://de1.adriatelekom.com/AdriaNature-www/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Karadağ" tvg-logo="https://i.ibb.co/RpvJm8R1/Adria-Fishing.png",Adria Fishing-ME
+https://de1.adriatelekom.com/AdriaFishing-www/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Karadağ" tvg-logo="https://i.ibb.co/bgT5pyN8/Adria-Travel.png",Adria Travel-ME
+https://de1.adriatelekom.com/AdriaTravel-www/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Karadağ" tvg-logo="https://i.ibb.co/fYG3fgcc/Adria-Hunting.png",Adria Hunting-ME
+https://de1.adriatelekom.com/AdriaHunting-www/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Karadağ" tvg-logo="https://i.ibb.co/9H8StVtb/Adria-Kitchen.png",Adria Kitchen-ME
+https://de1.adriatelekom.com/AdriaKitchen-www/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/jpnfckW/adventureearth.png",Adventure Earth-DE
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/jpnfckW/adventureearth.png",Adventure Earth(Alternatif)-DE
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 group-title="Brezilya" tvg-logo="https://i.ibb.co/qYMs3WpF/Amazon-Sat.png",Amazon SAT-BR
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 group-title="İngiltere" tvg-logo="https://i.ibb.co/3YMZnyHs/BBCTop-Gear.png",BBC Topgear-GB
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+#EXTINF:-1 group-title="Endonezya" tvg-logo="https://i.ibb.co/dsVbH46v/Biznet-Adventure.png",Biznet Adventure-ID
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/KpbXv3mt/KTOO360-TV.png",KTOO 360TV 3 (FNX)-US
+https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="https://i.ibb.co/CKL7yJVt/davinci.png",Da Vinci Learning-VN
+https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
+#EXTINF:-1 group-title="İran" tvg-logo="https://i.ibb.co/VYsy0yFB/persiana-travel.png",Persiana Travel-IR
+https://ptravelhls.persiana.live/hls/stream.m3u8
+
+
+
+
+
+
 
 
 
