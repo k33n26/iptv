@@ -39,8 +39,8 @@ https://restr2.bgtv.bg/agro/hls/agro.m3u8
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/Y4DpM1vL/Animaux-TV.png",Animaux-FR
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
-
-
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/B2WzKMwz/TV5-Monde-Voyage.png",TV5 Monde Voyage-FR
+https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 
 
 
