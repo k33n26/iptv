@@ -133,6 +133,37 @@ https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 #EXTINF:-1 group-title="İran" tvg-logo="https://i.ibb.co/VYsy0yFB/persiana-travel.png",Persiana Travel-IR
 https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="İspanya" tvg-logo="https://i.ibb.co/cS2wKN5x/3cat.png",3Cat Càmeres del temps-ES
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-logo="https://i.ibb.co/SXzWp4cq/Schladming-Dachstein.png",Schladming-Dachstein TV-AT
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Brezilya" tvg-logo="https://i.ibb.co/cKZM8F4J/Turismo-RDTV.png",Turismo RDTV-BR
+https://streamunoapp.com:3086/live/telemileniolive.m3u8
+#EXTINF:-1 group-title="İspanya" tvg-logo="https://i.ibb.co/vxMmCCKL/lovevine.png",Love Wine-ES
+https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 group-title="Brezilya" tvg-logo="https://i.ibb.co/XrgjGmW8/xpherewild.png",XPHERE WILD-BR
+https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8?hls_ctx=ll430r6p
+#EXTINF:-1 group-title="Tacikistan" tvg-logo="https://i.ibb.co/gcSxmg2/tv-sayohi-tj.png",TV Sayohi-TJ
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 group-title="İsviçre" tvg-logo="https://i.ibb.co/VWpg8GRk/meteonews.png",Meteonews-CH
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 group-title="Umman" tvg-logo="https://i.ibb.co/LzgjGwvZ/Oman-Althakafia.png",Oman Althakafia-OM
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Suudi Arabistan" tvg-logo="https://i.ibb.co/VWNJfqWM/Al-Thaqafiya-TVpng.png",Saudi Thaqafiya TV-SA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/dJD58179/outsidetv.png",Outside TV-US
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/8gtbRzCV/pursuitup.png",Pursuit UP-US
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/tM5KPLkB/BBC-Earth.png",BBC Earth-INT
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
+#EXTINF:-1 group-title="Yeni Zelanda" tvg-logo="https://i.ibb.co/1Yy5ZT0Y/Outdoor-Channel.png",Outdoor Channel-NZ
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+
+
+
+
 
 
 
