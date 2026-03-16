@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Japonya" tvg-logo="https://i.ibb.co/JFSp3zhD/NGJPN.jpg",National Geographic-JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://i.ibb.co/0jZBTvwc/history-channel-seeklogo.png",History Channel-JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://i.ibb.co/zhrP87Kg/Discovery-logop.png",Discovery Channel-JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 #EXTINF:-1 group-title="Japonya" tvg-logo="https://i.ibb.co/Z1mLMq2G/NHK-BSP4-K.png",NHK BSP4K-JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/wFc354b9/national-geographic.png",National Geographic-TR
@@ -13,7 +17,7 @@ https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/bjc2R6Dz/cgtn-documentary-int.png",CGTN DOCUMENTARY-TR
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
-#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/0pKfFLqs/Travelxp.png",TRAVEL XP-INT
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="https://i.ibb.co/0pKfFLqs/Travelxp.png",TRAVEL XP-INT
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/0pKfFLqs/Travelxp.png",TRAVEL XP-FR
 https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
@@ -47,7 +51,7 @@ https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
 #EXTINF:-1 group-title="Suudi Arabistan" tvg-logo="https://i.ibb.co/rf5hJjYm/ASHARQ-D-SCOVERY.png",ASHARQ Discovery-SA
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/cKY2pP5y/Love-Nature-TV.png",Love Nature-INT
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="https://i.ibb.co/cKY2pP5y/Love-Nature-TV.png",Love Nature-INT
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 group-title="İspanya" tvg-logo="https://i.ibb.co/TqYpNGKN/Andalucia-TV.png",Turismo Andalucia-ES
 https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
@@ -57,9 +61,9 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 https://live.teleradiocom.tj/15/3m.m3u8
 #EXTINF:-1 group-title="Rusya" tvg-logo="https://i.ibb.co/SX07C3Hz/RT-Doc.png",RT DOCUMENTARY-RU
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/TD1NV9dg/Drone-TV.png",Drone TV-INT
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="https://i.ibb.co/TD1NV9dg/Drone-TV.png",Drone TV-INT
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/4300.m3u8
-#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/TD1NV9dg/Drone-TV.png",Drone TV(Alternatif)-INT
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="https://i.ibb.co/TD1NV9dg/Drone-TV.png",Drone TV(Alternatif)-INT
 https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
 #EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/VYQff4qc/documentary-plus.png",Documentary+-US
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
@@ -99,9 +103,9 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.
 https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="İran" tvg-logo="https://i.ibb.co/dwHJNZ9F/persiana-docs.png",Persiana DOC-IR
 https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/MDb3wNYt/nauticalchannel.png",Nautical Channel-INT
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="https://i.ibb.co/MDb3wNYt/nauticalchannel.png",Nautical Channel-INT
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
-#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/MDb3wNYt/nauticalchannel.png",Nautical Channel(Alternatif)-INT
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="https://i.ibb.co/MDb3wNYt/nauticalchannel.png",Nautical Channel(Alternatif)-INT
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/N65YF82R/fieldstream.png",Field&Stream-US
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
@@ -141,8 +145,6 @@ https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.s
 https://streamunoapp.com:3086/live/telemileniolive.m3u8
 #EXTINF:-1 group-title="İspanya" tvg-logo="https://i.ibb.co/vxMmCCKL/lovevine.png",Love Wine-ES
 https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/1080p/index.m3u8
-#EXTINF:-1 group-title="Brezilya" tvg-logo="https://i.ibb.co/XrgjGmW8/xpherewild.png",XPHERE WILD-BR
-https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8?hls_ctx=ll430r6p
 #EXTINF:-1 group-title="Tacikistan" tvg-logo="https://i.ibb.co/gcSxmg2/tv-sayohi-tj.png",TV Sayohi-TJ
 https://live.teleradiocom.tj/16/3m.m3u8
 #EXTINF:-1 group-title="İsviçre" tvg-logo="https://i.ibb.co/VWpg8GRk/meteonews.png",Meteonews-CH
@@ -155,21 +157,76 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc04
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/8gtbRzCV/pursuitup.png",Pursuit UP-US
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Enternasyonal" tvg-logo="https://i.ibb.co/tM5KPLkB/BBC-Earth.png",BBC Earth-INT
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="https://i.ibb.co/tM5KPLkB/BBC-Earth.png",BBC Earth-INT
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
 #EXTINF:-1 group-title="Yeni Zelanda" tvg-logo="https://i.ibb.co/1Yy5ZT0Y/Outdoor-Channel.png",Outdoor Channel-NZ
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="https://i.ibb.co/x88C0h80/GO2-Travel.png",GO2 Travel-INT
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/b51vg422/rustica.png",RUSTICA-NATURE&AGRO-FR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10047
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/7JB4fJVB/voyagesplus.png",VOYAGES+-FR
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/rRspRtZC/RMC-Wow.png",RMC WOW-FR
+https://d225rs9gbjxb5j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bdlabwqcrqc2n/RMC_Wow_FR.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/Y7JsH8Fd/RMC-Mystere-P.png",RMC MYSTÈRE-FR
+https://d2mey07nrym09f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zzv8u40ihzmq2/RMC_MYSTERE_FR.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/bMd4yYzr/RMC-Mecanic-P.png",RMC MECANIC-FR
+https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/8LgQfzSZ/RMC-Alerte-secours-P.png",RMC ALERTE SECOURS-FR
+https://d18py9aevgxe9g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7m4nvp688td5a/RMC_alerte_secours_FR.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/1Jn4rMkt/society.png",SOCIETY PLUS-FR
+https://societypluslachaine-channel-dash.vodfactorychannels.com/v1/channel/SocietyPRODHLS/index.m3u8?bpkio_serviceid=ba9a56ce0a9bfa26d1cc84078c4800d7
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="https://i.ibb.co/gZxMWPTr/Wellbeing-TVp.png",MY ZEN WELLBEING TV-INT
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/1JtwrV7z/motorvision-tv-seeklogo.png",MOTORVISION-FR
+https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="https://i.ibb.co/kgDKCnzG/motorvisionint.png",MOTORVISION-INT
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="https://i.ibb.co/kgDKCnzG/motorvisionint.png",MOTORVISION(Alternatif)-INT
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/HLgBWvWT/Fusion-TV.png",FUSION TV-FR
+https://edge21.vedge.infomaniak.com/livecast/fusiontv/playlist.m3u8
+#EXTINF:-1 group-title="Rusya" tvg-logo="https://i.ibb.co/sd7s4Y2D/Viasat-Nature.png",VIASAT NATURE-RU
+https://745851.live.tvstitch.com/catchup/playlist.m3u8?source=aHR0cHM6Ly9wbGF5b3V0LXN0cmVhbS5hZHQtcGxheW91dC50b3AvY2RuOC1zMS0zLXMyL3BsYXllci92aWRlby85NmRhMmY1OTBjZDcyNDZiYmRlMDA1MTA0N2IwZDZmNy83NDE2LzEyODB4NzIwLTE1MDAwMDAvaW5kZXgubTN1OA==&w=1280&h=720&master=youtv_archive177&client=&session=8b0e6cb0eb8dddacd1b837a473c9da18&ott_provider_id=745851&bitrate=1500000&variant=2&isNoSlate=false&alt_audio=0&is_pseudo_live=false&is_rel_path=false&is_no_discontinuity=false&is_proxy_tracker=false&21yo=false&adInterval=0&adDuration=0&noSlateDelayLimit=0&dm_type=&pv=7416&master_hash=c2aed69553e66814618a89ae76d0aec3
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/XfDNMwzv/Histoire-TV.png",HISTOIRE-FR
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/Kc3VK8nV/T-va-2021.png",TEVA-FR
+http://151.80.18.177:86/Teva_HD/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/zhrP87Kg/Discovery-logop.png",Discovery Channel-FR
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/wFc354b9/national-geographic.png",National Geographic-FR
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/Y7k062N8/RMC-D-couverte-2025.png",RMC DECOUVERDE-FR
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/Y46xLpZs/Aweencore.png",AWE ENCORE-US
+https://aweencore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Irak" tvg-logo="https://i.ibb.co/pBw68pMh/Karbala-tv.jpg",Karbala Documentary TV-IQ
+https://ktvlive.online/stream/hls/ch3.m3u8
+#EXTINF:-1 group-title="Slovakya" tvg-logo="https://i.ibb.co/rf6T5xrT/Logo-Park-TV.png",Park TV-SK
+https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
+#EXTINF:-1 group-title="Slovakya" tvg-logo="https://i.ibb.co/rf6T5xrT/Logo-Park-TV.png",Park TV (Alternatif)-SK
+http://lb.streaming.sk:80/parktv/stream/playlist.m3u8
+#EXTINF:-1 group-title="Slovakya" tvg-logo="https://i.ibb.co/DfdR46nK/Docu-Box-HD.png",DocuBOX-SK
+https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/nMDYz08B/ZDF.png", ZDF zu Hause-DE
+https://jmp2.uk/stvp-DE37000038D
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/JWZFCRJx/Terra-X.png", Terra X-DE
+https://jmp2.uk/stvp-DEBC3000003IG
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/rG0pk9n0/love-planet.png",Love The Planet-DE
+https://jmp2.uk/stvp-DEBC4700004VZ
+#EXTINF:-1 group-title="Ukrayna" tvg-logo="https://i.ibb.co/gLWwZk2X/1-1-Travel.png",1+1 Travel-UA
+https://daiconnect.com/live/hls/tvup/rk-1travel/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=6098&ads_content_categories=IAB1&ads_content_genre=documentary%2Chobbies%2Coutdoors&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6829&ads_rtv_content_language=es&ads_streaming_id=08ad83b9-90b2-4cb3-92da-021cec1f5ecb&ads_tcs_channel_id=6098&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 group-title="İspanya" tvg-logo="https://i.ibb.co/Kjmp3fp7/history-y-vida.jpg", Historia y Vida-ES
+https://amg01821-amg01821c22-rakuten-gb-8651.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-rakutengb/playlist.m3u8?ads_amagi_channel_id=1030&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=documentary%2Chistory&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.250.39.112&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6986&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=14c7124b-c53a-430f-9c19-e7870c3c73a3&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/7x4W9QcG/Dmax.png",DMax-TR
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/1JmzkScz/GZT.png",GZT TV-TR
+https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/k2SsHdB9/TGRT-Belgesel.png",TGRT Belgesel-TR
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Tgrt_Belgesel.m3u8?t=1771919148
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/fVkSdhC2/ciftcitv.png",Çiftçi TV-TR
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
 
 
