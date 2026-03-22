@@ -55,7 +55,7 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 group-title="İspanya" tvg-logo="https://i.ibb.co/TqYpNGKN/Andalucia-TV.png",Turismo Andalucia-ES
 https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
-#EXTINF:-1 group-title="Yunanistan" tvg-logo="https://i.ibb.co/mFMKWcjP/Xploregr.png",Xplore-GR
+#EXTINF:-1 group-title="Yunanistan" tvg-logo="https://i.ibb.co/2199mht9/xplore-gr.png",Xplore-GR
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="Tacikistan" tvg-logo="https://i.ibb.co/tM764gtW/ilm-va-tabiat-tj.png",Ilm Va Tabiat-TJ
 https://live.teleradiocom.tj/15/3m.m3u8
