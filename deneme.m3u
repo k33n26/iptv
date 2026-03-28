@@ -293,8 +293,42 @@ https://d1941a53blim0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 group-title="İtalya" tvg-logo="https://i.ibb.co/gFVjrBh6/nwild.png",INWILD-IT
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-logo="https://i.ibb.co/gFVjrBh6/nwild.png",INWILD2-IT
+https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="İtalya" tvg-logo="https://i.ibb.co/S4kF8vn2/sportoutdoortv.png",Sportoutdoor.tv-IT
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Çin" tvg-logo="https://i.imgur.com/wr2bLaA.png",Discovering China-CN
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+#EXTINF:-1 group-title="Çin" tvg-logo="https://i.imgur.com/vSgY3CD.png",China Travel-CN
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+#EXTINF:-1 group-title="Japonya" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",NHK World-Japan-JP
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="https://i.ibb.co/jkPGm4GN/adventureearth-white.png",Adventure Earth-INT
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/Kpq2QtTs/autentichistory-white.png",Autentic History-DE
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/XxXQzBs3/autentictravel-white.png",Autentic Travel-DE
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-logo="https://i.ibb.co/0jZBTvwc/history-channel-seeklogo.png",History-PL
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc004/historyhdraw/historyhdraw.m3u8
+#EXTINF:-1 group-title="Polonya" tvg-logo="https://i.ibb.co/N2c8SgbD/History2-logo.png",History2-PL
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc008/history2hdraw/history2hdraw.m3u8
+#EXTINF:-1 group-title="Güney Afrika Cumhuriyeti" tvg-logo="https://i.imgur.com/Vhv5gjN.png",Wild Earth-ZA
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/LdVCjm6z/thenest.png",The Nest-USA
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 group-title="Maldivler" tvg-logo="https://i.imgur.com/Zl2FmFC.png",Maldives TV-MV
+https://lana.psm.mv/live/mtv.m3u8
+#EXTINF:-1 group-title="Hindistan" tvg-logo="https://i.ibb.co/d4btbPtW/epictv.png",Epic TV-IN
+https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+#EXTINF:-1 group-title="Şili" tvg-logo="https://i.imgur.com/F1it6fh.png",Chile Channel-CL
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",Peer TV Alto Adige-IT
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png",Peer TV South Tyrol-IT
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 group-title="İtalya" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",Peer TV Südtirol-IT
+https://iptv.peer.biz/live/peertv.m3u8
 
 
 
