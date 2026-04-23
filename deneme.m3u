@@ -349,5 +349,15 @@ http://79.127.207.193:80/Dmax/playlist.m3u8
 http://79.127.207.193:80/CBSReality/playlist.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="",Seasons-FR
 http://41.205.70.146/SEASONS/index.m3u8
-
-
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/ksRTCCZL/Viasat-History.jpg",Viasat History-TR
+http://65.108.239.207/viasathistory/index.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/tM5KPLkB/BBC-Earth.png",BBC Earth-TR
+http://65.108.239.207/bbc/index.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/GfGmSM0Z/Tarih-tv-logo.png",Tarih TV-TR
+http://65.108.239.207/tarihtv/index.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/cKY2pP5y/Love-Nature-TV.png",LoveNature-TR
+http://65.108.239.207/lovenature/index.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/jP0D73QP/Docu-Screen.png",DocuScreen-TR
+http://65.108.239.207/docubox/index.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/JR7VccP4/330px-nvestigation-Discovery.png",Discovery ID-TR
+http://65.108.239.207/discs/index.m3u8
