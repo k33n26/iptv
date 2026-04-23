@@ -331,8 +331,13 @@ https://iptv.peer.biz/live/peertv-en.m3u8
 https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/Qjv8TxFH/Animal-Planet-logo-PNG-7.png",Animal Planet-USA
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-
-
-
+#EXTINF:-1 group-title="Arnavutluk" tvg-logo="https://i.ibb.co/qYmxZNF9/living-HD.png",Living-HD-AL
+http://79.127.207.193:80/LivingHD/playlist.m3u8
+#EXTINF:-1 group-title="Arnavutluk" tvg-logo="https://i.ibb.co/sd7s4Y2D/Viasat-Nature.png",Viasat Nature-AL
+http://79.127.207.193:80/ViasatNature/playlist.m3u8
+#EXTINF:-1 group-title="Avusturya" tvg-logo="https://i.ibb.co/7x4W9QcG/Dmax.png",DMax-AT
+http://79.127.207.193:80/Dmax/playlist.m3u8
+#EXTINF:-1 group-title="Amerika" tvg-logo="https://i.ibb.co/20CqrHX4/HGTV-logo.png",HGTV-USA
+http://79.127.207.193:80/CBSReality/playlist.m3u8
 
 
