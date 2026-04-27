@@ -361,3 +361,12 @@ http://65.108.239.207/lovenature/index.m3u8
 http://65.108.239.207/docubox/index.m3u8
 #EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/JR7VccP4/330px-nvestigation-Discovery.png",Discovery ID-TR
 http://65.108.239.207/discs/index.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="",Bul TURK TV-TR
+http://live.euromediacenter.com/bulturktv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="",Trucking Hell
+https://jmp2.uk/plu-656df2849d5ac400083be647.m3u8
+#EXTINF:-1 group-title="Uluslararası" tvg-logo="",Exploring Britain
+https://jmp2.uk/plu-5ddf901280e3550009139c86.m3u8
+
+
+
