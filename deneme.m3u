@@ -261,6 +261,8 @@ https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/DPd3Fq8b/250px-Arte-Logo-2017-svg.png",Arte-DE
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/DPd3Fq8b/250px-Arte-Logo-2017-svg.png",Arte(Alt)-DE
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/XrdqQxBn/330px-3sat-2019-svg.png",3Sat-DE
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/TB1Km44t/330px-ZDFinfo-2011-svg.png",ZDFinfo-DE
@@ -271,10 +273,14 @@ https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/h6wccsc/330px-NDR-Fernsehen-Logo-svg.png",NDR Fernsehen-DE
 https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/h6wccsc/330px-NDR-Fernsehen-Logo-svg.png",NDR Fernsehen(Alt)-DE
+https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/hJ3LKXcM/330px-Phoenix-HD-Logo-svg.png",Phoenix-DE
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
 #EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/zH5w4s9W/ARD-alpha.png",ARD-alpha-DE
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/zH5w4s9W/ARD-alpha.png",ARD-alpha(Alt)-DE
+https://mcdn.br.de/br/fs/ard_alpha/hls/int/master_1920p_5000.m3u8
 #EXTINF:-1 group-title="Danimarka" tvg-logo="https://i.ibb.co/nNjpVMZ9/TV2Born.png",TV 2/Bornholm-DK
 https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
 #EXTINF:-1 group-title="Fransa" tvg-logo="https://i.ibb.co/LzgLJyNm/Slogan-Noir-M-CRO.png",MDL-FR
@@ -367,6 +373,10 @@ http://live.euromediacenter.com/bulturktv/tracks-v1a1/mono.m3u8
 https://jmp2.uk/plu-656df2849d5ac400083be647.m3u8
 #EXTINF:-1 group-title="Uluslararası" tvg-logo="",Exploring Britain
 https://jmp2.uk/plu-5ddf901280e3550009139c86.m3u8
-
-
+#EXTINF:-1 group-title="İtalya" tvg-logo="https://i.ibb.co/B5DQgt9Y/Alma-TV.png",AlmaTV Travel-IT
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/chunklist_w379218210.m3u8
+#EXTINF:-1 group-title="Almanya" tvg-logo="https://i.ibb.co/Kz7ZNhrM/Aristo-TV.png",Aristo TV-DE
+https://wow.anixa.tv/live/aristo/chunklist.m3u8
+#EXTINF:-1 group-title="Çin" tvg-logo="https://i.ibb.co/JRDqnGpN/cctv4.png",CCTV4-CN
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 
