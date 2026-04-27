@@ -379,4 +379,5 @@ https://streaming.softwarecreation.it/AlmaTv/AlmaTv/chunklist_w379218210.m3u8
 https://wow.anixa.tv/live/aristo/chunklist.m3u8
 #EXTINF:-1 group-title="Çin" tvg-logo="https://i.ibb.co/JRDqnGpN/cctv4.png",CCTV4-CN
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/wvH6TF7/Bizimev-TV.png",BizimEV TV-TR
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bizim_Ev_Tv.m3u8
