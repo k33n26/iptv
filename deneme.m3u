@@ -381,3 +381,15 @@ https://wow.anixa.tv/live/aristo/chunklist.m3u8
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/wvH6TF7/Bizimev-TV.png",BizimEV TV-TR
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bizim_Ev_Tv.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="",Yaban TV-TR
+https://kytv.k33n26.workers.dev/?url=https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w697422703.m3u8?hash=bccbb2ced6ea80d3a2afd1dfc33b87fd
+#EXTINF:-1 group-title="Türkiye" tvg-logo="",Toprak TV-TR
+https://kytv.k33n26.workers.dev/?url=https://yayin1.canlitv.fun/canlitv/topraktv.stream/chunklist_w27412132.m3u8?hash=a268ccb09edc2450088eea02a6b6cb4c
+
+
+
+
+
+
+
+
