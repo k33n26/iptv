@@ -387,8 +387,8 @@ https://kytv.k33n26.workers.dev/?url=https://yayin1.canlitv.fun/canlitv/yabantv.
 https://kytv.k33n26.workers.dev/?url=https://yayin1.canlitv.fun/canlitv/topraktv.stream/chunklist_w27412132.m3u8?hash=a268ccb09edc2450088eea02a6b6cb4c
 #EXTINF:-1 group-title="Amerika" tvg-logo="",Discovery Naked-USA
 https://kytv.k33n26.workers.dev/discoverynaked.m3u8
-
-
+#EXTINF:-1 group-title="Türkiye" tvg-logo="",Belgesel TV-TR
+http://cdn.catcast.workers.dev/50903.m3u8
 
 
 
