@@ -4,6 +4,8 @@
 http://193.123.61.120:3000/kanal/Bizimkiler
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
+#EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="" group-title="Belgesel",TGRT Belgesel
+http://193.123.61.120:3000/kanal/tgrtb
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="" group-title="Haber",Halk TV
 http://193.123.61.120:3000/kanal/halktv
 #EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="" group-title="Haber",SZC TV
