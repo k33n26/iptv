@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler" tvg-logo="" group-title="Dizi",Bizimkiler
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler" tvg-logo="https://i.ibb.co/k6HvKhfV/Bizimkiler.png" group-title="Dizi",Bizimkiler
 http://193.123.61.120:3000/kanal/Bizimkiler
 #EXTINF:-1 tvg-id="" tvg-name="Guldur Guldur" tvg-logo="" group-title="Dizi",Guldur Guldur
 http://193.123.61.120:3000/kanal/Guldurguldur
@@ -49,6 +49,8 @@ http://193.123.61.120:3000/kanal/krt
 http://193.123.61.120:3000/kanal/gulsah
 #EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Filmleri ve Sahneleri " tvg-logo="" group-title="Sinema",Kemal Sunal Filmleri ve Sahneleri
 http://193.123.61.120:3000/kanal/kemal
+#EXTINF:-1 tvg-id="" tvg-name="Film Atölyesi" tvg-logo="" group-title="Sinema",Film Atölyesi
+http://193.123.61.120:3000/kanal/filmatolye
 #EXTINF:-1 tvg-id="" tvg-name="Arzu Film" tvg-logo="" group-title="Sinema",Arzu Film
 http://193.123.61.120:3000/kanal/arzu
 #EXTINF:-1 tvg-id="" tvg-name="Avsar Film" tvg-logo="" group-title="Sinema",Avsar Film
@@ -61,6 +63,14 @@ http://193.123.61.120:3000/kanal/ersoy
 http://193.123.61.120:3000/kanal/somine
 #EXTINF:-1 tvg-id="" tvg-name="Relaxing Music" tvg-logo="" group-title="Dinlenme",Relaxing Music
 http://193.123.61.120:3000/kanal/relax
+#EXTINF:-1 tvg-id="" tvg-name="Total Relaxation Cheerful Birdsong" tvg-logo="https://i.ibb.co/vxk7jLkZ/channels4-profile.jpg" group-title="Dinlenme",Total Relaxation Cheerful Birdsong
+http://193.123.61.120:3000/kanal/MiParaisoVision1
+#EXTINF:-1 tvg-id="" tvg-name="Beautiful Spring Mountain" tvg-logo="https://i.ibb.co/vxk7jLkZ/channels4-profile.jpg" group-title="Dinlenme",Beautiful Spring Mountain
+http://193.123.61.120:3000/kanal/MiParaisoVision2
+#EXTINF:-1 tvg-id="" tvg-name="Calm River Ambience" tvg-logo="https://i.ibb.co/vxk7jLkZ/channels4-profile.jpg" group-title="Dinlenme",Calm River Ambience
+http://193.123.61.120:3000/kanal/MiParaisoVision3
+#EXTINF:-1 tvg-id="" tvg-name="Amazing place to relax" tvg-logo="https://i.ibb.co/vxk7jLkZ/channels4-profile.jpg" group-title="Dinlenme",Amazing place to relax
+http://193.123.61.120:3000/kanal/MiParaisoVision4
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HABER" tvg-logo="" group-title="Spor",beIN SPORTS HABER
 http://193.123.61.120:3000/kanal/bspor
 #EXTINF:-1 tvg-id="" tvg-name="A Spor" tvg-logo="" group-title="Spor",A Spor
