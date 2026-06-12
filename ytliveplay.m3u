@@ -13,6 +13,20 @@ http://193.123.61.120:3000/kanal/leylamecnun
 http://193.123.61.120:3000/kanal/kurtpusu
 #EXTINF:-1 tvg-id="" tvg-name="Behzat Ç" tvg-logo="https://i.ibb.co/ZRmGfYQ9/behzatcc.jpg" group-title="Dizi",Behzat Ç
 http://193.123.61.120:3000/kanal/behzat
+#EXTINF:-1 tvg-id="" tvg-name="Arka Sıradakiler" tvg-logo="https://i.ibb.co/JwT6K2t3/arkas.jpg" group-title="Dizi",Arka Sıradakiler
+http://193.123.61.120:3000/kanal/arkasira
+#EXTINF:-1 tvg-id="" tvg-name="Çukur" tvg-logo="https://i.ibb.co/NgMnyQ8z/cukurrr.jpg" group-title="Dizi",Çukur
+http://193.123.61.120:3000/kanal/cukur
+#EXTINF:-1 tvg-id="" tvg-name="Yaprak Dökümü" tvg-logo="https://i.ibb.co/B5KHFybX/yaprakkk.jpg" group-title="Dizi",Yaprak Dökümü
+http://193.123.61.120:3000/kanal/yaprakdokumu
+#EXTINF:-1 tvg-id="" tvg-name="Cennet Mahallesi" tvg-logo="https://i.ibb.co/Qj8fGx1x/cennetmah.jpg" group-title="Dizi",Cennet Mahallesi
+http://193.123.61.120:3000/kanal/cennetmah
+#EXTINF:-1 tvg-id="" tvg-name="Çocuklar Duymasın" tvg-logo="https://i.ibb.co/jPDFQC2L/cocukduy.jpg" group-title="Dizi",Çocuklar Duymasın
+http://193.123.61.120:3000/kanal/cocukduy
+#EXTINF:-1 tvg-id="" tvg-name="Çocuklar Duymasın Nostalji" tvg-logo="https://i.ibb.co/8LnDT6FQ/cocukduy2.jpg" group-title="Dizi",Çocuklar Duymasın Nostalji
+http://193.123.61.120:3000/kanal/cocukduy2
+#EXTINF:-1 tvg-id="" tvg-name="Yalan Dünya" tvg-logo="https://i.ibb.co/VWct7sNG/yalandunyaa.jpg" group-title="Dizi",Yalan Dünya
+http://193.123.61.120:3000/kanal/yalandunya
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
@@ -27,8 +41,6 @@ http://193.123.61.120:3000/kanal/dunya
 http://193.123.61.120:3000/kanal/avrupa
 #EXTINF:-1 tvg-id="" tvg-name="Turkiye Turu" tvg-logo="https://i.ibb.co/0RN0MtCX/gezdolas.jpg" group-title="Belgesel",Turkiye Turu
 http://193.123.61.120:3000/kanal/turkiye
-#EXTINF:-1 tvg-id="" tvg-name="Nature Documentaries" tvg-logo="https://i.ibb.co/sJNGNnjM/naturedoc1.jpg" group-title="Belgesel",Nature Documentaries
-http://193.123.61.120:3000/kanal/naturedoc1
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://i.ibb.co/Q3KgDwZk/halktvvv.jpg" group-title="Haber",Halk TV
 http://193.123.61.120:3000/kanal/halktv
 #EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="https://i.ibb.co/PzW4KsRB/szctvv.jpg" group-title="Haber",SZC TV
@@ -61,6 +73,8 @@ http://193.123.61.120:3000/kanal/tvnet
 http://193.123.61.120:3000/kanal/trthaber
 #EXTINF:-1 tvg-id="" tvg-name="Tgrt Haber" tvg-logo="https://i.ibb.co/8LKzFrRN/tgrthbrrrrr.jpg" group-title="Haber",Tgrt Haber
 http://193.123.61.120:3000/kanal/tgrthaber
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HT" tvg-logo="https://i.ibb.co/mV231b3Q/bloomberght.jpg" group-title="Haber",Bloomberg HT
+http://193.123.61.120:3000/kanal/bloomberght
 #EXTINF:-1 tvg-id="" tvg-name="Gulsah Film" tvg-logo="https://i.ibb.co/j1QvDp1/gulsahhflm.jpg" group-title="Sinema",Gulsah Film
 http://193.123.61.120:3000/kanal/gulsah
 #EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Filmleri ve Sahneleri " tvg-logo="https://i.ibb.co/wFp9932M/kmlsnlll.jpg" group-title="Sinema",Kemal Sunal Filmleri ve Sahneleri
@@ -115,10 +129,21 @@ http://193.123.61.120:3000/kanal/kralsakir
 http://193.123.61.120:3000/kanal/kontom
 #EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="https://i.ibb.co/nMvD9QF2/kidstv.jpg" group-title="Çizgi Film",Kids TV
 http://193.123.61.120:3000/kanal/kidstv
+#EXTINF:-1 tvg-id="" tvg-name="Minika GO" tvg-logo="https://i.ibb.co/5gkR4g9H/minikagooo.jpg" group-title="Çizgi Film",Minika GO
+http://193.123.61.120:3000/kanal/minikago
+#EXTINF:-1 tvg-id="" tvg-name="Neşeli Dünyam" tvg-logo="https://i.ibb.co/Kz6ZtdFG/neselid.jpg" group-title="Çizgi Film",Neşeli Dünyam
+http://193.123.61.120:3000/kanal/neselidunyam
+#EXTINF:-1 tvg-id="" tvg-name="Niloya" tvg-logo="https://i.ibb.co/5gLnBXCd/niloyaa.jpg" group-title="Çizgi Film",Niloya
+http://193.123.61.120:3000/kanal/niloya
+#EXTINF:-1 tvg-id="" tvg-name="Diyanet Çocuk TV" tvg-logo="https://i.ibb.co/YKGywTC/diycockc.jpg" group-title="Çizgi Film",Diyanet Çocuk TV
+http://193.123.61.120:3000/kanal/diyanetcocuk
+#EXTINF:-1 tvg-id="" tvg-name="Limon ile Zeytin" tvg-logo="https://i.ibb.co/7N22VQT6/limonzeytin.jpg" group-title="Çizgi Film",Limon ile Zeytin
+http://193.123.61.120:3000/kanal/limonzeytin
+#EXTINF:-1 tvg-id="" tvg-name="Kamyon Leo" tvg-logo="https://i.ibb.co/0jfCtGBg/kamyonleo.jpg" group-title="Çizgi Film",Kamyon Leo
+http://193.123.61.120:3000/kanal/kamyonleo
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="https://i.ibb.co/kghcVHJd/kanal77.jpg" group-title="Ulusal",Kanal 7
 http://193.123.61.120:3000/kanal/kanal7
-#EXTINF:-1 tvg-id="" tvg-name="Egemax TV" tvg-logo="https://i.ibb.co/VpLNSdL3/egemexxxx.jpg" group-title="Ulusal",Egemax TV
-http://193.123.61.120:3000/kanal/egemax
+#EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="https://i.ibb.co/7dq7hDSy/kanald.jpg" group-title="Ulusal",Euro D
+http://193.123.61.120:3000/kanal/eurod
 #EXTINF:-1 tvg-id="" tvg-name="Kral Akustik TV" tvg-logo="https://i.ibb.co/d4JNfJyB/kralmmzk.jpg" group-title="Müzik",Kral Akustik TV
 http://193.123.61.120:3000/kanal/kralakustik
-
