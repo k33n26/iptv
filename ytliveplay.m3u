@@ -31,6 +31,10 @@ http://193.123.61.120:3000/kanal/yalandunya
 http://193.123.61.120:3000/kanal/adanali1
 #EXTINF:-1 tvg-id="" tvg-name="Avrupa Yakası" tvg-logo="https://i.ibb.co/k6G15HCM/avrupayakasii.jpg" group-title="Dizi",Avrupa Yakası
 http://193.123.61.120:3000/kanal/avrupayakasi1
+#EXTINF:-1 tvg-id="" tvg-name="Selena" tvg-logo="https://i.ibb.co/1GswvC41/selenaa.jpg" group-title="Dizi",Selena
+http://193.123.61.120:3000/kanal/selena
+#EXTINF:-1 tvg-id="" tvg-name="Alemin Kralı" tvg-logo="https://i.ibb.co/20PbTRzP/aleminkrali.jpg" group-title="Dizi",Alemin Kralı
+http://193.123.61.120:3000/kanal/aleminkrali
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
@@ -65,6 +69,10 @@ http://193.123.61.120:3000/kanal/discoveryunderwater
 http://193.123.61.120:3000/kanal/lovenaturepre
 #EXTINF:-1 tvg-id="" tvg-name="War Stories" tvg-logo="https://i.ibb.co/GQ0qhgGG/warstories.jpg" group-title="Belgesel",War Stories
 http://193.123.61.120:3000/kanal/warstories
+#EXTINF:-1 tvg-id="" tvg-name="Ancient Story" tvg-logo="https://i.ibb.co/ccdPWDpX/ancienthistory.jpg" group-title="Belgesel",Ancient Story
+http://193.123.61.120:3000/kanal/ancienthistory
+#EXTINF:-1 tvg-id="" tvg-name="The Ancient World" tvg-logo="https://i.ibb.co/JRf6vFpB/theancientworld.jpg" group-title="Belgesel",The Ancient World
+http://193.123.61.120:3000/kanal/ancientworld
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://i.ibb.co/Q3KgDwZk/halktvvv.jpg" group-title="Haber",Halk TV
 http://193.123.61.120:3000/kanal/halktv
 #EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="https://i.ibb.co/PzW4KsRB/szctvv.jpg" group-title="Haber",SZC TV
@@ -189,3 +197,5 @@ http://193.123.61.120:3000/kanal/showturk
 http://193.123.61.120:3000/kanal/kralakustik
 #EXTINF:-1 tvg-id="" tvg-name="Euro News" tvg-logo="https://i.ibb.co/G4rvhg5Y/euronewsss.jpg" group-title="Yabancı",Euro News
 http://193.123.61.120:3000/kanal/euronewsen
+#EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="https://i.ibb.co/GvHWWV9w/skynewsss.jpg" group-title="Yabancı",Sky News
+http://193.123.61.120:3000/kanal/skynews
