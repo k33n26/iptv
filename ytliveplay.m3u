@@ -27,6 +27,10 @@ http://193.123.61.120:3000/kanal/cocukduy
 http://193.123.61.120:3000/kanal/cocukduy2
 #EXTINF:-1 tvg-id="" tvg-name="Yalan Dünya" tvg-logo="https://i.ibb.co/VWct7sNG/yalandunyaa.jpg" group-title="Dizi",Yalan Dünya
 http://193.123.61.120:3000/kanal/yalandunya
+#EXTINF:-1 tvg-id="" tvg-name="Adanalı" tvg-logo="https://i.ibb.co/4gR0kWpJ/adanali.jpg" group-title="Dizi",Adanalı
+http://193.123.61.120:3000/kanal/adanali1
+#EXTINF:-1 tvg-id="" tvg-name="Avrupa Yakası" tvg-logo="https://i.ibb.co/k6G15HCM/avrupayakasii.jpg" group-title="Dizi",Avrupa Yakası
+http://193.123.61.120:3000/kanal/avrupayakasi1
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
@@ -41,6 +45,24 @@ http://193.123.61.120:3000/kanal/dunya
 http://193.123.61.120:3000/kanal/avrupa
 #EXTINF:-1 tvg-id="" tvg-name="Turkiye Turu" tvg-logo="https://i.ibb.co/0RN0MtCX/gezdolas.jpg" group-title="Belgesel",Turkiye Turu
 http://193.123.61.120:3000/kanal/turkiye
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/xq1M7926/natgeooo.jpg" group-title="Belgesel",National Geographic
+http://193.123.61.120:3000/kanal/natgeo
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic History" tvg-logo="https://i.ibb.co/xq1M7926/natgeooo.jpg" group-title="Belgesel",National Geographic History
+http://193.123.61.120:3000/kanal/natgeohistory
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Animals 1" tvg-logo="https://i.ibb.co/gZPRWSqR/natgeoanimals.jpg" group-title="Belgesel",National Geographic Animals 1
+http://193.123.61.120:3000/kanal/natgeoanimals1
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Animals 2" tvg-logo="https://i.ibb.co/gZPRWSqR/natgeoanimals.jpg" group-title="Belgesel",National Geographic Animals 2
+http://193.123.61.120:3000/kanal/natgeoanimals1
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Kids" tvg-logo="https://i.ibb.co/v4PwtHsX/natgeokids.jpg" group-title="Belgesel",National Geographic Kids
+http://193.123.61.120:3000/kanal/natgeokids
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Shark" tvg-logo="https://i.ibb.co/gZvKs4yZ/discoveryww.jpg" group-title="Belgesel",Discovery Shark
+http://193.123.61.120:3000/kanal/discoveryshark
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Deadliest Catch" tvg-logo="https://i.ibb.co/gZvKs4yZ/discoveryww.jpg" group-title="Belgesel",Discovery Deadliest Catch
+http://193.123.61.120:3000/kanal/discoveryd
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Underwater" tvg-logo="https://i.ibb.co/gZvKs4yZ/discoveryww.jpg" group-title="Belgesel",Discovery Underwater
+http://193.123.61.120:3000/kanal/discoveryunderwater
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature Predators" tvg-logo="https://i.ibb.co/bMqwwSFX/lovenatpre.jpg" group-title="Belgesel",Love Nature Predators
+http://193.123.61.120:3000/kanal/lovenaturepre
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://i.ibb.co/Q3KgDwZk/halktvvv.jpg" group-title="Haber",Halk TV
 http://193.123.61.120:3000/kanal/halktv
 #EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="https://i.ibb.co/PzW4KsRB/szctvv.jpg" group-title="Haber",SZC TV
@@ -145,5 +167,7 @@ http://193.123.61.120:3000/kanal/kamyonleo
 http://193.123.61.120:3000/kanal/kanal7
 #EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="https://i.ibb.co/7dq7hDSy/kanald.jpg" group-title="Ulusal",Euro D
 http://193.123.61.120:3000/kanal/eurod
+#EXTINF:-1 tvg-id="" tvg-name="Star Tv" tvg-logo="https://i.ibb.co/vCnjxfHW/startvv.jpg" group-title="Ulusal",Star Tv
+http://193.123.61.120:3000/kanal/startv
 #EXTINF:-1 tvg-id="" tvg-name="Kral Akustik TV" tvg-logo="https://i.ibb.co/d4JNfJyB/kralmmzk.jpg" group-title="Müzik",Kral Akustik TV
 http://193.123.61.120:3000/kanal/kralakustik
