@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Bizimkiler" tvg-logo="https://i.ibb.co/k6HvKhfV/Bizimkiler.png" group-title="Dizi",Bizimkiler
 http://193.123.61.120:3000/kanal/Bizimkiler
+#EXTINF:-1 tvg-id="" tvg-name="Çiçek Taksi" tvg-logo="https://i.ibb.co/cj9Rt6g/cicektaksii.jpg" group-title="Dizi",Çiçek Taksi
+http://193.123.61.120:3000/kanal/cicektaksi
 #EXTINF:-1 tvg-id="" tvg-name="Guldur Guldur" tvg-logo="https://i.ibb.co/27MJ4bbc/channels4-profile-1.jpg" group-title="Dizi",Guldur Guldur
 http://193.123.61.120:3000/kanal/Guldurguldur
 #EXTINF:-1 tvg-id="" tvg-name="Seksenler" tvg-logo="https://i.ibb.co/vxfCf9kM/unnameddfggh.jpg" group-title="Dizi",Seksenler
@@ -35,6 +37,8 @@ http://193.123.61.120:3000/kanal/avrupayakasi1
 http://193.123.61.120:3000/kanal/selena
 #EXTINF:-1 tvg-id="" tvg-name="Alemin Kralı" tvg-logo="https://i.ibb.co/20PbTRzP/aleminkrali.jpg" group-title="Dizi",Alemin Kralı
 http://193.123.61.120:3000/kanal/aleminkrali
+#EXTINF:-1 tvg-id="" tvg-name="En Son Babalar Duyar" tvg-logo="https://i.ibb.co/1YpBf8Km/ensonbaba.jpg" group-title="Dizi",En Son Babalar Duyar
+http://193.123.61.120:3000/kanal/ensonbaba
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
@@ -73,6 +77,10 @@ http://193.123.61.120:3000/kanal/warstories
 http://193.123.61.120:3000/kanal/ancienthistory
 #EXTINF:-1 tvg-id="" tvg-name="The Ancient World" tvg-logo="https://i.ibb.co/JRf6vFpB/theancientworld.jpg" group-title="Belgesel",The Ancient World
 http://193.123.61.120:3000/kanal/ancientworld
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/jv5VqMzL/bbbcearth.jpg" group-title="Belgesel",BBC Earth
+http://193.123.61.120:3000/kanal/bbcearth
+#EXTINF:-1 tvg-id="" tvg-name="Nature Echoes" tvg-logo="https://i.ibb.co/0jX0FKsh/natureechoess.jpg" group-title="Belgesel",Nature Echoes
+http://193.123.61.120:3000/kanal/natureechoes
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://i.ibb.co/Q3KgDwZk/halktvvv.jpg" group-title="Haber",Halk TV
 http://193.123.61.120:3000/kanal/halktv
 #EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="https://i.ibb.co/PzW4KsRB/szctvv.jpg" group-title="Haber",SZC TV
@@ -145,6 +153,8 @@ http://193.123.61.120:3000/kanal/forestsound1
 http://193.123.61.120:3000/kanal/forestsound2
 #EXTINF:-1 tvg-id="" tvg-name="Calm Woodland Stream with Beautiful Birdsong" tvg-logo="" group-title="Dinlenme",Calm Woodland Stream with Beautiful Birdsong
 http://193.123.61.120:3000/kanal/forestsound3
+#EXTINF:-1 tvg-id="" tvg-name="4K Ocean World" tvg-logo="https://i.ibb.co/ZRFXtx1C/4kocean.jpg" group-title="Dinlenme",4K Ocean World
+http://193.123.61.120:3000/kanal/4koceanworld
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/Gv2vYypZ/bsprtt.jpg" group-title="Spor",beIN SPORTS HABER
 http://193.123.61.120:3000/kanal/bspor
 #EXTINF:-1 tvg-id="" tvg-name="A Spor" tvg-logo="https://i.ibb.co/gZxGHzx6/asprrr.jpg" group-title="Spor",A Spor
