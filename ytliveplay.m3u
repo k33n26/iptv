@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Bizimkiler" tvg-logo="https://i.ibb.co/k6HvKhfV/Bizimkiler.png" group-title="Dizi",Bizimkiler
 http://193.123.61.120:3000/kanal/Bizimkiler
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler-2" tvg-logo="https://i.ibb.co/k6HvKhfV/Bizimkiler.png" group-title="Dizi",Bizimkiler-2
+https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Çiçek Taksi" tvg-logo="https://i.ibb.co/cj9Rt6g/cicektaksii.jpg" group-title="Dizi",Çiçek Taksi
 http://193.123.61.120:3000/kanal/cicektaksi
 #EXTINF:-1 tvg-id="" tvg-name="Guldur Guldur" tvg-logo="https://i.ibb.co/27MJ4bbc/channels4-profile-1.jpg" group-title="Dizi",Guldur Guldur
@@ -155,6 +157,12 @@ http://193.123.61.120:3000/kanal/forestsound2
 http://193.123.61.120:3000/kanal/forestsound3
 #EXTINF:-1 tvg-id="" tvg-name="4K Ocean World" tvg-logo="https://i.ibb.co/ZRFXtx1C/4kocean.jpg" group-title="Dinlenme",4K Ocean World
 http://193.123.61.120:3000/kanal/4koceanworld
+#EXTINF:-1 tvg-id="" tvg-name="Explore Bears-1" tvg-logo="https://i.ibb.co/ZvRsMt5/explorebears.jpg" group-title="Dinlenme",Explore Bears-1
+http://193.123.61.120:3000/kanal/explorebears1
+#EXTINF:-1 tvg-id="" tvg-name="Explore Bears-2" tvg-logo="https://i.ibb.co/ZvRsMt5/explorebears.jpg" group-title="Dinlenme",Explore Bears-2
+http://193.123.61.120:3000/kanal/explorebears2
+#EXTINF:-1 tvg-id="" tvg-name="Explore Bears-3" tvg-logo="https://i.ibb.co/ZvRsMt5/explorebears.jpg" group-title="Dinlenme",Explore Bears-3
+http://193.123.61.120:3000/kanal/explorebears3
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/Gv2vYypZ/bsprtt.jpg" group-title="Spor",beIN SPORTS HABER
 http://193.123.61.120:3000/kanal/bspor
 #EXTINF:-1 tvg-id="" tvg-name="A Spor" tvg-logo="https://i.ibb.co/gZxGHzx6/asprrr.jpg" group-title="Spor",A Spor
