@@ -83,6 +83,8 @@ http://193.123.61.120:3000/kanal/ancientworld
 http://193.123.61.120:3000/kanal/bbcearth
 #EXTINF:-1 tvg-id="" tvg-name="Nature Echoes" tvg-logo="https://i.ibb.co/0jX0FKsh/natureechoess.jpg" group-title="Belgesel",Nature Echoes
 http://193.123.61.120:3000/kanal/natureechoes
+#EXTINF:-1 tvg-id="" tvg-name="Earth TV" tvg-logo="https://i.ibb.co/h1TXBmp1/earthtv.jpg" group-title="Belgesel",Earth TV
+http://193.123.61.120:3000/kanal/earthtv
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://i.ibb.co/Q3KgDwZk/halktvvv.jpg" group-title="Haber",Halk TV
 http://193.123.61.120:3000/kanal/halktv
 #EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="https://i.ibb.co/PzW4KsRB/szctvv.jpg" group-title="Haber",SZC TV
@@ -119,6 +121,12 @@ http://193.123.61.120:3000/kanal/tgrthaber
 http://193.123.61.120:3000/kanal/bloomberght
 #EXTINF:-1 tvg-id="" tvg-name="Ekoturk TV" tvg-logo="https://i.ibb.co/7NpQ6Dhk/ekoturkk.jpg" group-title="Haber",Ekoturk TV
 http://193.123.61.120:3000/kanal/ekoturktv
+#EXTINF:-1 tvg-id="" tvg-name="BenguTurk TV" tvg-logo="https://i.ibb.co/q3NWxDqP/benguturktv.jpg" group-title="Haber",BenguTurk TV
+http://193.123.61.120:3000/kanal/benguturk
+#EXTINF:-1 tvg-id="" tvg-name="FlashHaber TV" tvg-logo="https://i.ibb.co/v6rv1kCs/flashhaber.jpg" group-title="Haber",FlashHaber TV
+http://193.123.61.120:3000/kanal/flashhaber
+#EXTINF:-1 tvg-id="" tvg-name="Ulusal Kanal" tvg-logo="https://i.ibb.co/hvBVSd6/ulusalkanal.jpg" group-title="Haber",Ulusal Kanal
+http://193.123.61.120:3000/kanal/ulusalkanal
 #EXTINF:-1 tvg-id="" tvg-name="Gulsah Film" tvg-logo="https://i.ibb.co/j1QvDp1/gulsahhflm.jpg" group-title="Sinema",Gulsah Film
 http://193.123.61.120:3000/kanal/gulsah
 #EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Filmleri ve Sahneleri " tvg-logo="https://i.ibb.co/wFp9932M/kmlsnlll.jpg" group-title="Sinema",Kemal Sunal Filmleri ve Sahneleri
@@ -217,3 +225,21 @@ http://193.123.61.120:3000/kanal/kralakustik
 http://193.123.61.120:3000/kanal/euronewsen
 #EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="https://i.ibb.co/GvHWWV9w/skynewsss.jpg" group-title="Yabancı",Sky News
 http://193.123.61.120:3000/kanal/skynews
+#EXTINF:-1 tvg-id="" tvg-name="DW News" tvg-logo="https://i.ibb.co/wZr6kdQM/dwnewss.jpg" group-title="Yabancı",DW News
+http://193.123.61.120:3000/kanal/dwnews
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="https://i.ibb.co/5h6GRBLV/aljeziree.jpg" group-title="Yabancı",Al Jazeera English
+http://193.123.61.120:3000/kanal/aljazeeraenglish
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 English" tvg-logo="https://i.ibb.co/0p57m6LK/france244.jpg" group-title="Yabancı",FRANCE 24 English
+http://193.123.61.120:3000/kanal/france24
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS Australia" tvg-logo="https://i.ibb.co/cf5mFHp/abcnewsau.jpg" group-title="Yabancı",ABC NEWS Australia
+http://193.123.61.120:3000/kanal/abcnewsau
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS USA" tvg-logo="https://i.ibb.co/0jv5NVmF/abcnewsusa.jpg" group-title="Yabancı",ABC NEWS USA
+http://193.123.61.120:3000/kanal/abcnewsusa
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Television" tvg-logo="https://i.ibb.co/v6kTc3zT/bloomberggtv.jpg" group-title="Yabancı",Bloomberg Television
+http://193.123.61.120:3000/kanal/bloombergint
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Europe" tvg-logo="https://i.ibb.co/fz61sLFt/cgtneu.jpg" group-title="Yabancı",CGTN Europe
+http://193.123.61.120:3000/kanal/cgtneurope
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://i.ibb.co/cKjPjPrn/cctv44.png" group-title="Yabancı",CCTV4
+http://193.123.61.120:3000/kanal/cctv4
+#EXTINF:-1 tvg-id="" tvg-name="GlobalNewsTV" tvg-logo="https://i.ibb.co/j9W6qbFK/globalnews.jpg" group-title="Yabancı",GlobalNewsTV
+http://193.123.61.120:3000/kanal/globalnews
