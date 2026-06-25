@@ -41,6 +41,8 @@ http://193.123.61.120:3000/kanal/selena
 http://193.123.61.120:3000/kanal/aleminkrali
 #EXTINF:-1 tvg-id="" tvg-name="En Son Babalar Duyar" tvg-logo="https://i.ibb.co/1YpBf8Km/ensonbaba.jpg" group-title="Dizi",En Son Babalar Duyar
 http://193.123.61.120:3000/kanal/ensonbaba
+#EXTINF:-1 tvg-id="" tvg-name="Türk Malı" tvg-logo="https://i.ibb.co/tTp67TV9/turkmalii.jpg" group-title="Dizi",Türk Malı
+http://193.123.61.120:3000/kanal/turkmali
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
