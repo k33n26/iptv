@@ -43,6 +43,24 @@ http://193.123.61.120:3000/kanal/aleminkrali
 http://193.123.61.120:3000/kanal/ensonbaba
 #EXTINF:-1 tvg-id="" tvg-name="Türk Malı" tvg-logo="https://i.ibb.co/tTp67TV9/turkmalii.jpg" group-title="Dizi",Türk Malı
 http://193.123.61.120:3000/kanal/turkmali
+#EXTINF:-1 tvg-id="" tvg-name="Sakarya Fırat" tvg-logo="https://i.ibb.co/Z1NPgMtj/sakaryaf-rat.jpg" group-title="Dizi",Sakarya Fırat
+http://193.123.61.120:3000/kanal/sakaryafirat
+#EXTINF:-1 tvg-id="" tvg-name="Bir Zamanlar Çukurova" tvg-logo="https://i.ibb.co/rKMg9ScJ/cukurovaa.jpg" group-title="Dizi",Bir Zamanlar Çukurova
+http://193.123.61.120:3000/kanal/cukurova
+#EXTINF:-1 tvg-id="" tvg-name="Kısmetse Olur" tvg-logo="https://i.ibb.co/0jjyZsmB/kismett.jpg" group-title="Dizi",Kısmetse Olur
+http://193.123.61.120:3000/kanal/kismet
+#EXTINF:-1 tvg-id="" tvg-name="Mehmed: Fetihler Sultanı" tvg-logo="https://i.ibb.co/HTk1ZMbG/mehmed.jpg" group-title="Dizi",Mehmed: Fetihler Sultanı 
+http://193.123.61.120:3000/kanal/mehmed
+#EXTINF:-1 tvg-id="" tvg-name="Hz. Yusuf" tvg-logo="https://i.ibb.co/PZCmwVfD/hazyusuf.jpg" group-title="Dizi",Hz. Yusuf
+http://193.123.61.120:3000/kanal/hzyusuf
+#EXTINF:-1 tvg-id="" tvg-name="Yeraltı" tvg-logo="https://i.ibb.co/wZPBNWt3/yeralt.jpg" group-title="Dizi",Yeraltı
+http://193.123.61.120:3000/kanal/yeralti
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 7 Pakistan Dizileri" tvg-logo="https://i.ibb.co/zHFdhLV4/pakistab.jpg" group-title="Dizi",Kanal 7 Pakistan Dizileri
+http://193.123.61.120:3000/kanal/pakistan
+#EXTINF:-1 tvg-id="" tvg-name="Sıfır Bir" tvg-logo="https://i.ibb.co/Q7WjYKZ2/s-f-rbir.jpg" group-title="Dizi",Sıfır Bir
+http://193.123.61.120:3000/kanal/sifirbir
+#EXTINF:-1 tvg-id="" tvg-name="Çok Güzel Hareketler 2" tvg-logo="https://i.ibb.co/Q7WjYKZ2/s-f-rbir.jpg" group-title="Dizi",Çok Güzel Hareketler 2
+http://193.123.61.120:3000/kanal/cokguzel2
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
