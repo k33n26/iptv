@@ -61,6 +61,10 @@ http://193.123.61.120:3000/kanal/pakistan
 http://193.123.61.120:3000/kanal/sifirbir
 #EXTINF:-1 tvg-id="" tvg-name="Çok Güzel Hareketler 2" tvg-logo="https://i.ibb.co/Q7WjYKZ2/s-f-rbir.jpg" group-title="Dizi",Çok Güzel Hareketler 2
 http://193.123.61.120:3000/kanal/cokguzel2
+#EXTINF:-1 tvg-id="" tvg-name="Eşkıya Dünyaya Hükümdar Olmaz" tvg-logo="https://i.ibb.co/bMmnpZbH/eskiyaa.jpg" group-title="Dizi",Eşkıya Dünyaya Hükümdar Olmaz
+http://193.123.61.120:3000/kanal/eskiya
+#EXTINF:-1 tvg-id="" tvg-name="Kuruluş Osman" tvg-logo="https://i.ibb.co/bgT3tt9B/kurulusosman.jpg" group-title="Dizi",Kuruluş Osman
+http://193.123.61.120:3000/kanal/kurulusosman
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
@@ -263,3 +267,15 @@ http://193.123.61.120:3000/kanal/cgtneurope
 http://193.123.61.120:3000/kanal/cctv4
 #EXTINF:-1 tvg-id="" tvg-name="GlobalNewsTV" tvg-logo="https://i.ibb.co/j9W6qbFK/globalnews.jpg" group-title="Yabancı",GlobalNewsTV
 http://193.123.61.120:3000/kanal/globalnews
+#EXTINF:-1 tvg-id="" tvg-name="LiveNOW FOX 24/7" tvg-logo="https://i.ibb.co/CpcW2mRg/livefox.jpg" group-title="Yabancı",LiveNOW FOX 24/7
+http://193.123.61.120:3000/kanal/livefox
+#EXTINF:-1 tvg-id="" tvg-name="The Lord of the Rings" tvg-logo="https://i.ibb.co/tTQJXQ1X/wb.jpg" group-title="Yabancı",The Lord of the Rings 
+http://193.123.61.120:3000/kanal/warner1
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter Complete Series" tvg-logo="https://i.ibb.co/tTQJXQ1X/wb.jpg" group-title="Yabancı",Harry Potter Complete Series
+http://193.123.61.120:3000/kanal/warner2
+#EXTINF:-1 tvg-id="" tvg-name="NTV Kenya" tvg-logo="https://i.ibb.co/CpJ5gzqh/ntvkenya.jpg" group-title="Yabancı",NTV Kenya
+http://193.123.61.120:3000/kanal/ntvkenya
+#EXTINF:-1 tvg-id="" tvg-name="Real Tv" tvg-logo="https://i.ibb.co/LD3sHv5f/realtv.jpg" group-title="Yabancı",Real TV
+http://193.123.61.120:3000/kanal/realtv
+#EXTINF:-1 tvg-id="" tvg-name="News Max" tvg-logo="https://i.ibb.co/qLyhPdgc/newsmax.jpg" group-title="Yabancı",News Max
+http://193.123.61.120:3000/kanal/newsmax
