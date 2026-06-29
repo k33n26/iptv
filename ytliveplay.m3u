@@ -95,7 +95,7 @@ http://193.123.61.120:3000/kanal/natgeokids
 http://193.123.61.120:3000/kanal/discoveryshark
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Deadliest Catch" tvg-logo="https://i.ibb.co/gZvKs4yZ/discoveryww.jpg" group-title="Belgesel",Discovery Deadliest Catch
 http://193.123.61.120:3000/kanal/discoveryd
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Underwater" tvg-logo="https://i.ibb.co/gZvKs4yZ/discoveryww.jpg" group-title="Belgesel",Discovery Underwater
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Expedition Unknown" tvg-logo="https://i.ibb.co/gZvKs4yZ/discoveryww.jpg" group-title="Belgesel",Discovery Expedition Unknown
 http://193.123.61.120:3000/kanal/discoveryunderwater
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature Predators" tvg-logo="https://i.ibb.co/bMqwwSFX/lovenatpre.jpg" group-title="Belgesel",Love Nature Predators
 http://193.123.61.120:3000/kanal/lovenaturepre
@@ -197,6 +197,58 @@ http://193.123.61.120:3000/kanal/explorebears1
 http://193.123.61.120:3000/kanal/explorebears2
 #EXTINF:-1 tvg-id="" tvg-name="Explore Bears-3" tvg-logo="https://i.ibb.co/ZvRsMt5/explorebears.jpg" group-title="Dinlenme",Explore Bears-3
 http://193.123.61.120:3000/kanal/explorebears3
+#EXTINF:-1 tvg-id="" tvg-name="Rhythm Emotion-1" tvg-logo="https://i.ibb.co/4RSHWmTY/ritimmm.jpg" group-title="Dinlenme",Rhythm Emotion-1
+http://193.123.61.120:3000/kanal/ritim1
+#EXTINF:-1 tvg-id="" tvg-name="Rhythm Emotion-2" tvg-logo="https://i.ibb.co/4RSHWmTY/ritimmm.jpg" group-title="Dinlenme",Rhythm Emotion-2
+http://193.123.61.120:3000/kanal/ritim2
+#EXTINF:-1 tvg-id="" tvg-name="Rhythm Emotion-3" tvg-logo="https://i.ibb.co/4RSHWmTY/ritimmm.jpg" group-title="Dinlenme",Rhythm Emotion-3
+http://193.123.61.120:3000/kanal/ritim3
+#EXTINF:-1 tvg-id="" tvg-name="Rhythm Emotion-4" tvg-logo="https://i.ibb.co/4RSHWmTY/ritimmm.jpg" group-title="Dinlenme",Rhythm Emotion-4
+http://193.123.61.120:3000/kanal/ritim4
+#EXTINF:-1 tvg-id="" tvg-name="Rhythm Emotion-5" tvg-logo="https://i.ibb.co/4RSHWmTY/ritimmm.jpg" group-title="Dinlenme",Rhythm Emotion-5
+http://193.123.61.120:3000/kanal/ritim5
+#EXTINF:-1 tvg-id="" tvg-name="Rhythm Emotion-6" tvg-logo="https://i.ibb.co/4RSHWmTY/ritimmm.jpg" group-title="Dinlenme",Rhythm Emotion-6
+http://193.123.61.120:3000/kanal/ritim6
+#EXTINF:-1 tvg-id="" tvg-name="Rhythm Emotion-7" tvg-logo="https://i.ibb.co/4RSHWmTY/ritimmm.jpg" group-title="Dinlenme",Rhythm Emotion-7
+http://193.123.61.120:3000/kanal/ritim7
+#EXTINF:-1 tvg-id="" tvg-name="Rhythm Emotion-8" tvg-logo="https://i.ibb.co/4RSHWmTY/ritimmm.jpg" group-title="Dinlenme",Rhythm Emotion-8
+http://193.123.61.120:3000/kanal/ritim8
+#EXTINF:-1 tvg-id="" tvg-name="Rhythm Emotion-8" tvg-logo="https://i.ibb.co/4RSHWmTY/ritimmm.jpg" group-title="Dinlenme",Rhythm Emotion-8
+http://193.123.61.120:3000/kanal/ritim9
+#EXTINF:-1 tvg-id="" tvg-name="Scenic Relaxation-1" tvg-logo="https://i.ibb.co/BHSSVtfC/Scenic-Relaxation.jpg" group-title="Dinlenme",Scenic Relaxation-1
+http://193.123.61.120:3000/kanal/ScenicRelax1
+#EXTINF:-1 tvg-id="" tvg-name="Scenic Relaxation-2" tvg-logo="https://i.ibb.co/BHSSVtfC/Scenic-Relaxation.jpg" group-title="Dinlenme",Scenic Relaxation-2
+http://193.123.61.120:3000/kanal/ScenicRelax2
+#EXTINF:-1 tvg-id="" tvg-name="Scenic Relaxation-3" tvg-logo="https://i.ibb.co/BHSSVtfC/Scenic-Relaxation.jpg" group-title="Dinlenme",Scenic Relaxation-3
+http://193.123.61.120:3000/kanal/ScenicRelax3
+#EXTINF:-1 tvg-id="" tvg-name="Scenic Relaxation-4" tvg-logo="https://i.ibb.co/BHSSVtfC/Scenic-Relaxation.jpg" group-title="Dinlenme",Scenic Relaxation-4
+http://193.123.61.120:3000/kanal/ScenicRelax4
+#EXTINF:-1 tvg-id="" tvg-name="Scenic Relaxation-5" tvg-logo="https://i.ibb.co/BHSSVtfC/Scenic-Relaxation.jpg" group-title="Dinlenme",Scenic Relaxation-5
+http://193.123.61.120:3000/kanal/ScenicRelax5
+#EXTINF:-1 tvg-id="" tvg-name="Scenic Relaxation-6" tvg-logo="https://i.ibb.co/BHSSVtfC/Scenic-Relaxation.jpg" group-title="Dinlenme",Scenic Relaxation-6
+http://193.123.61.120:3000/kanal/ScenicRelax6
+#EXTINF:-1 tvg-id="" tvg-name="Scenic Relaxation-7" tvg-logo="https://i.ibb.co/BHSSVtfC/Scenic-Relaxation.jpg" group-title="Dinlenme",Scenic Relaxation-7
+http://193.123.61.120:3000/kanal/ScenicRelax7
+#EXTINF:-1 tvg-id="" tvg-name="Scenic Relaxation-8" tvg-logo="https://i.ibb.co/BHSSVtfC/Scenic-Relaxation.jpg" group-title="Dinlenme",Scenic Relaxation-8
+http://193.123.61.120:3000/kanal/ScenicRelax8
+#EXTINF:-1 tvg-id="" tvg-name="8K TUBE Planet-1" tvg-logo="https://i.ibb.co/DPBQjL7q/8ktubeplanet.jpg" group-title="Dinlenme",8K TUBE Planet-1
+http://193.123.61.120:3000/kanal/8ktube1
+#EXTINF:-1 tvg-id="" tvg-name="8K TUBE Planet-2" tvg-logo="https://i.ibb.co/DPBQjL7q/8ktubeplanet.jpg" group-title="Dinlenme",8K TUBE Planet-2
+http://193.123.61.120:3000/kanal/8ktube2
+#EXTINF:-1 tvg-id="" tvg-name="8K TUBE Planet-3" tvg-logo="https://i.ibb.co/DPBQjL7q/8ktubeplanet.jpg" group-title="Dinlenme",8K TUBE Planet-3
+http://193.123.61.120:3000/kanal/8ktube3
+#EXTINF:-1 tvg-id="" tvg-name="8K TUBE Planet-4" tvg-logo="https://i.ibb.co/DPBQjL7q/8ktubeplanet.jpg" group-title="Dinlenme",8K TUBE Planet-4
+http://193.123.61.120:3000/kanal/8ktube4
+#EXTINF:-1 tvg-id="" tvg-name="8K TUBE Planet-5" tvg-logo="https://i.ibb.co/DPBQjL7q/8ktubeplanet.jpg" group-title="Dinlenme",8K TUBE Planet-5
+http://193.123.61.120:3000/kanal/8ktube5
+#EXTINF:-1 tvg-id="" tvg-name="8K TUBE Planet-6" tvg-logo="https://i.ibb.co/DPBQjL7q/8ktubeplanet.jpg" group-title="Dinlenme",8K TUBE Planet-6
+http://193.123.61.120:3000/kanal/8ktube6
+#EXTINF:-1 tvg-id="" tvg-name="8K TUBE Planet-7" tvg-logo="https://i.ibb.co/DPBQjL7q/8ktubeplanet.jpg" group-title="Dinlenme",8K TUBE Planet-7
+http://193.123.61.120:3000/kanal/8ktube7
+#EXTINF:-1 tvg-id="" tvg-name="8K TUBE Planet-8" tvg-logo="https://i.ibb.co/DPBQjL7q/8ktubeplanet.jpg" group-title="Dinlenme",8K TUBE Planet-8
+http://193.123.61.120:3000/kanal/8ktube8
+#EXTINF:-1 tvg-id="" tvg-name="8K TUBE Planet-9" tvg-logo="https://i.ibb.co/DPBQjL7q/8ktubeplanet.jpg" group-title="Dinlenme",8K TUBE Planet-9
+http://193.123.61.120:3000/kanal/8ktube9
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/Gv2vYypZ/bsprtt.jpg" group-title="Spor",beIN SPORTS HABER
 http://193.123.61.120:3000/kanal/bspor
 #EXTINF:-1 tvg-id="" tvg-name="A Spor" tvg-logo="https://i.ibb.co/gZxGHzx6/asprrr.jpg" group-title="Spor",A Spor
@@ -239,12 +291,14 @@ http://193.123.61.120:3000/kanal/startv
 http://193.123.61.120:3000/kanal/atv
 #EXTINF:-1 tvg-id="" tvg-name="Show TV" tvg-logo="https://i.ibb.co/bj7p7Czg/showtvvv.jpg" group-title="Ulusal",Show TV
 http://193.123.61.120:3000/kanal/showtv
+#EXTINF:-1 tvg-id="" tvg-name="Show Turk" tvg-logo="https://i.ibb.co/vvgs4PQR/Show-Turk-logo-svg.png" group-title="Ulusal",Show Turk
+http://193.123.61.120:3000/kanal/showturk
+#EXTINF:-1 tvg-id="" tvg-name="Show Max" tvg-logo="https://i.ibb.co/jvPkjf5m/Show-MAX-logo-svg.png" group-title="Ulusal",Show Max
+http://193.123.61.120:3000/kanal/showmax
 #EXTINF:-1 tvg-id="" tvg-name="a2 TV" tvg-logo="https://i.ibb.co/nMnQcL92/A2-logosu.jpg" group-title="Ulusal",a2 TV
 http://193.123.61.120:3000/kanal/a2tv
 #EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://i.ibb.co/FbJ4yRTp/tv222.jpg" group-title="Ulusal",TV2
 http://193.123.61.120:3000/kanal/tv2
-#EXTINF:-1 tvg-id="" tvg-name="Show Turk" tvg-logo="https://i.ibb.co/vvgs4PQR/Show-Turk-logo-svg.png" group-title="Ulusal",Show Turk
-http://193.123.61.120:3000/kanal/showturk
 #EXTINF:-1 tvg-id="" tvg-name="Kral Akustik TV" tvg-logo="https://i.ibb.co/d4JNfJyB/kralmmzk.jpg" group-title="Müzik",Kral Akustik TV
 http://193.123.61.120:3000/kanal/kralakustik
 #EXTINF:-1 tvg-id="" tvg-name="Euro News" tvg-logo="https://i.ibb.co/G4rvhg5Y/euronewsss.jpg" group-title="Yabancı",Euro News
@@ -281,3 +335,5 @@ http://193.123.61.120:3000/kanal/ntvkenya
 http://193.123.61.120:3000/kanal/realtv
 #EXTINF:-1 tvg-id="" tvg-name="News Max" tvg-logo="https://i.ibb.co/qLyhPdgc/newsmax.jpg" group-title="Yabancı",News Max
 http://193.123.61.120:3000/kanal/newsmax
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/1Bt9wfw/cnnindonesia.jpg" group-title="Yabancı",CNN Indonesia
+http://193.123.61.120:3000/kanal/cnnindo
