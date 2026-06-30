@@ -67,6 +67,8 @@ http://193.123.61.120:3000/kanal/eskiya
 http://193.123.61.120:3000/kanal/kurulusosman
 #EXTINF:-1 tvg-id="" tvg-name="Emret Komutanım" tvg-logo="https://i.ibb.co/ksxswZgN/emretkom.jpg" group-title="Dizi",Emret Komutanım
 http://193.123.61.120:3000/kanal/emretk
+#EXTINF:-1 tvg-id="" tvg-name="Kardeş Payı" tvg-logo="https://i.ibb.co/KcrCBgWD/kardepayi.jpg" group-title="Dizi",Kardeş Payı
+http://193.123.61.120:3000/kanal/kardespayi
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
