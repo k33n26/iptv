@@ -69,6 +69,8 @@ http://193.123.61.120:3000/kanal/kurulusosman
 http://193.123.61.120:3000/kanal/emretk
 #EXTINF:-1 tvg-id="" tvg-name="Kardeş Payı" tvg-logo="https://i.ibb.co/KcrCBgWD/kardepayi.jpg" group-title="Dizi",Kardeş Payı
 http://193.123.61.120:3000/kanal/kardespayi
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Arşiv" tvg-logo="https://i.ibb.co/tT1tQjdp/kanaldarsiv.png" group-title="Dizi",Kanal D Arşiv
+http://193.123.61.120:3000/kanal/kanaldarsiv
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
@@ -285,6 +287,18 @@ http://193.123.61.120:3000/kanal/limonzeytin
 http://193.123.61.120:3000/kanal/kamyonleo
 #EXTINF:-1 tvg-id="" tvg-name="Pijameskeliler" tvg-logo="https://i.ibb.co/Sqywvz1/pijamaskeliler.jpg" group-title="Çizgi Film",Pijamaskeliler
 http://193.123.61.120:3000/kanal/pijamaske
+#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry-1" tvg-logo="https://i.ibb.co/yms3ZyX0/boomerang.jpg" group-title="Çizgi Film",Tom and Jerry-1
+http://193.123.61.120:3000/kanal/tomjerry1
+#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry-2" tvg-logo="https://i.ibb.co/yms3ZyX0/boomerang.jpg" group-title="Çizgi Film",Tom and Jerry-2
+http://193.123.61.120:3000/kanal/tomjerry2
+#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry-TR" tvg-logo="https://i.ibb.co/nq8Kp9Wr/catoonito.jpg" group-title="Çizgi Film",Tom and Jerry-TR
+http://193.123.61.120:3000/kanal/tomjerry3
+#EXTINF:-1 tvg-id="" tvg-name="GRIZZY VE LEMMINGLER" tvg-logo="https://i.ibb.co/nq8Kp9Wr/catoonito.jpg" group-title="Çizgi Film",GRIZZY VE LEMMINGLER
+http://193.123.61.120:3000/kanal/grizzy
+#EXTINF:-1 tvg-id="" tvg-name="Tatlı Kedicikler" tvg-logo="https://i.ibb.co/RRzJKXK/minikacocuk.jpg" group-title="Çizgi Film",Tatlı Kedicikler
+http://193.123.61.120:3000/kanal/tatlikedicikler
+#EXTINF:-1 tvg-id="" tvg-name="İstanbul Muhafızları" tvg-logo="https://i.ibb.co/LXty4bMM/istmuh.jpg" group-title="Çizgi Film",İstanbul Muhafızları
+http://193.123.61.120:3000/kanal/istmuh
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="https://i.ibb.co/kghcVHJd/kanal77.jpg" group-title="Ulusal",Kanal 7
 http://193.123.61.120:3000/kanal/kanal7
 #EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="https://i.ibb.co/7dq7hDSy/kanald.jpg" group-title="Ulusal",Euro D
