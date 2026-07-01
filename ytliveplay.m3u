@@ -283,6 +283,8 @@ http://193.123.61.120:3000/kanal/diyanetcocuk
 http://193.123.61.120:3000/kanal/limonzeytin
 #EXTINF:-1 tvg-id="" tvg-name="Kamyon Leo" tvg-logo="https://i.ibb.co/0jfCtGBg/kamyonleo.jpg" group-title="Çizgi Film",Kamyon Leo
 http://193.123.61.120:3000/kanal/kamyonleo
+#EXTINF:-1 tvg-id="" tvg-name="Pijameskeliler" tvg-logo="https://i.ibb.co/Sqywvz1/pijamaskeliler.jpg" group-title="Çizgi Film",Pijamaskeliler
+http://193.123.61.120:3000/kanal/pijamaske
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="https://i.ibb.co/kghcVHJd/kanal77.jpg" group-title="Ulusal",Kanal 7
 http://193.123.61.120:3000/kanal/kanal7
 #EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="https://i.ibb.co/7dq7hDSy/kanald.jpg" group-title="Ulusal",Euro D
