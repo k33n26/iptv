@@ -255,6 +255,8 @@ http://193.123.61.120:3000/kanal/8ktube8
 http://193.123.61.120:3000/kanal/8ktube9
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/Gv2vYypZ/bsprtt.jpg" group-title="Spor",beIN SPORTS HABER
 http://193.123.61.120:3000/kanal/bspor
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS ARŞİV" tvg-logo="https://i.ibb.co/d44NBjj3/beinarsivv.jpg" group-title="Spor",beIN SPORTS ARŞİV
+http://193.123.61.120:3000/kanal/beinarsiv
 #EXTINF:-1 tvg-id="" tvg-name="A Spor" tvg-logo="https://i.ibb.co/gZxGHzx6/asprrr.jpg" group-title="Spor",A Spor
 http://193.123.61.120:3000/kanal/aspor
 #EXTINF:-1 tvg-id="" tvg-name="HT Spor" tvg-logo="https://i.ibb.co/x81gSkzY/htspor.jpg" group-title="Spor",HT Spor
