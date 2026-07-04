@@ -253,6 +253,8 @@ http://193.123.61.120:3000/kanal/8ktube7
 http://193.123.61.120:3000/kanal/8ktube8
 #EXTINF:-1 tvg-id="" tvg-name="8K TUBE Planet-9" tvg-logo="https://i.ibb.co/DPBQjL7q/8ktubeplanet.jpg" group-title="Dinlenme",8K TUBE Planet-9
 http://193.123.61.120:3000/kanal/8ktube9
+#EXTINF:-1 tvg-id="" tvg-name="Nature SFX" tvg-logo="https://i.ibb.co/DgYbT3q8/naturesfx.jpg" group-title="Dinlenme",Nature SFX
+http://193.123.61.120:3000/kanal/naturesfx
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/Gv2vYypZ/bsprtt.jpg" group-title="Spor",beIN SPORTS HABER
 http://193.123.61.120:3000/kanal/bspor
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS ARŞİV" tvg-logo="https://i.ibb.co/d44NBjj3/beinarsivv.jpg" group-title="Spor",beIN SPORTS ARŞİV
