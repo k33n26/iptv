@@ -173,6 +173,8 @@ http://193.123.61.120:3000/kanal/turkfilm
 http://193.123.61.120:3000/kanal/ersoy
 #EXTINF:-1 tvg-id="" tvg-name="Taff Film" tvg-logo="https://i.ibb.co/sp7KwHTP/tafffff.jpg" group-title="Sinema",Taff Film
 http://193.123.61.120:3000/kanal/taff
+#EXTINF:-1 tvg-id="" tvg-name="Aksiyon Filmleri" tvg-logo="https://i.ibb.co/nqqzTyyt/aksiyon-filmlertri.jpg" group-title="Sinema",Aksiyon Filmleri
+http://193.123.61.120:3000/kanal/aksiyonfilm
 #EXTINF:-1 tvg-id="" tvg-name="Somine TV" tvg-logo="https://i.ibb.co/Ps6pn2mk/foboss.jpg" group-title="Dinlenme",Somine Tv
 http://193.123.61.120:3000/kanal/somine
 #EXTINF:-1 tvg-id="" tvg-name="Relaxing Music" tvg-logo="https://i.ibb.co/j95dyDks/relaxks.jpg" group-title="Dinlenme",Relaxing Music
