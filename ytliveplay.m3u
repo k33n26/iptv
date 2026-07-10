@@ -71,6 +71,8 @@ http://193.123.61.120:3000/kanal/emretk
 http://193.123.61.120:3000/kanal/kardespayi
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Arşiv" tvg-logo="https://i.ibb.co/tT1tQjdp/kanaldarsiv.png" group-title="Dizi",Kanal D Arşiv
 http://193.123.61.120:3000/kanal/kanaldarsiv
+#EXTINF:-1 tvg-id="" tvg-name="Arkadaşım Hoşgeldin" tvg-logo="https://i.ibb.co/YTRr7sN0/arkadsim.jpg" group-title="Dizi",Arkadaşım Hoşgeldin
+http://193.123.61.120:3000/kanal/arkadasimhos
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
