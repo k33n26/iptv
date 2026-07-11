@@ -3,6 +3,8 @@
 http://193.123.61.120:3000/kanal/Bizimkiler
 #EXTINF:-1 tvg-id="" tvg-name="Bizimkiler-2" tvg-logo="https://i.ibb.co/k6HvKhfV/Bizimkiler.png" group-title="Dizi",Bizimkiler-2
 https://catcast.ismailturret.workers.dev/fanatikprimebizimkiler.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yazlıkçılar" tvg-logo="https://i.ibb.co/HLh9vjyJ/Yazl-k-lar-Logo.png" group-title="Dizi",Yazlıkçılar
+http://193.123.61.120:5000/yazlikcilar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Çiçek Taksi" tvg-logo="https://i.ibb.co/cj9Rt6g/cicektaksii.jpg" group-title="Dizi",Çiçek Taksi
 http://193.123.61.120:3000/kanal/cicektaksi
 #EXTINF:-1 tvg-id="" tvg-name="Guldur Guldur" tvg-logo="https://i.ibb.co/27MJ4bbc/channels4-profile-1.jpg" group-title="Dizi",Guldur Guldur
