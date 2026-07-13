@@ -197,6 +197,8 @@ http://193.123.61.120:3000/kanal/ekoturktv
 http://193.123.61.120:3000/kanal/benguturk
 #EXTINF:-1 tvg-id="" tvg-name="FlashHaber TV" tvg-logo="https://i.ibb.co/v6rv1kCs/flashhaber.jpg" group-title="Haber",FlashHaber TV
 http://193.123.61.120:3000/kanal/flashhaber
+#EXTINF:-1 tvg-id="" tvg-name="Koza TV" tvg-logo="https://i.ibb.co/4zx53NY/kozatv.jpg" group-title="Haber",Koza TV
+http://193.123.61.120:3000/kanal/kozatv
 #EXTINF:-1 tvg-id="" tvg-name="Ulusal Kanal" tvg-logo="https://i.ibb.co/hvBVSd6/ulusalkanal.jpg" group-title="Haber",Ulusal Kanal
 http://193.123.61.120:3000/kanal/ulusalkanal
 #EXTINF:-1 tvg-id="" tvg-name="Gulsah Film" tvg-logo="https://i.ibb.co/j1QvDp1/gulsahhflm.jpg" group-title="Sinema",Gulsah Film
