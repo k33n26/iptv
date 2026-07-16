@@ -297,6 +297,16 @@ http://193.123.61.120:3000/kanal/8ktube8
 http://193.123.61.120:3000/kanal/8ktube9
 #EXTINF:-1 tvg-id="" tvg-name="Nature SFX" tvg-logo="https://i.ibb.co/DgYbT3q8/naturesfx.jpg" group-title="Dinlenme",Nature SFX
 http://193.123.61.120:3000/kanal/naturesfx
+#EXTINF:-1 tvg-id="" tvg-name="Storm Power-1" tvg-logo="https://i.ibb.co/FkWwHcXN/stormpower.jpg" group-title="Dinlenme",Storm Power-1
+http://193.123.61.120:3000/kanal/stormpower1
+#EXTINF:-1 tvg-id="" tvg-name="Storm Power-2" tvg-logo="https://i.ibb.co/FkWwHcXN/stormpower.jpg" group-title="Dinlenme",Storm Power-2
+http://193.123.61.120:3000/kanal/stormpower2
+#EXTINF:-1 tvg-id="" tvg-name="Storm Power-3" tvg-logo="https://i.ibb.co/FkWwHcXN/stormpower.jpg" group-title="Dinlenme",Storm Power-3
+http://193.123.61.120:3000/kanal/stormpower3
+#EXTINF:-1 tvg-id="" tvg-name="Storm Power-4" tvg-logo="https://i.ibb.co/FkWwHcXN/stormpower.jpg" group-title="Dinlenme",Storm Power-4
+http://193.123.61.120:3000/kanal/stormpower4
+#EXTINF:-1 tvg-id="" tvg-name="Storm Power-5" tvg-logo="https://i.ibb.co/FkWwHcXN/stormpower.jpg" group-title="Dinlenme",Storm Power-5
+http://193.123.61.120:3000/kanal/stormpower5
 #EXTINF:-1 tvg-id="" tvg-name="Enjoy Relaxation-1" tvg-logo="https://i.ibb.co/0yVdHbt8/enjoyrelax.jpg" group-title="Dinlenme",Enjoy Relaxation-1
 http://193.123.61.120:3000/kanal/enjoyrelax1
 #EXTINF:-1 tvg-id="" tvg-name="Enjoy Relaxation-2" tvg-logo="https://i.ibb.co/0yVdHbt8/enjoyrelax.jpg" group-title="Dinlenme",Enjoy Relaxation-2
@@ -433,6 +443,16 @@ http://193.123.61.120:3000/kanal/fox10
 http://193.123.61.120:3000/kanal/syriatv
 #EXTINF:-1 tvg-id="" tvg-name="Saudi News TV" tvg-logo="https://i.ibb.co/20jv5vL4/sauditv.jpg" group-title="Yabancı",Saudi News TV
 http://193.123.61.120:3000/kanal/saudinewstv
+#EXTINF:-1 tvg-id="" tvg-name="Arirang TV" tvg-logo="https://i.ibb.co/whqgn1LP/arriangtv.jpg" group-title="Yabancı",Arirang TV
+http://193.123.61.120:3000/kanal/arriangtv
+#EXTINF:-1 tvg-id="" tvg-name="FOX Weather" tvg-logo="https://i.ibb.co/gLYhDMyT/foxweather.jpg" group-title="Yabancı",FOX Weather
+http://193.123.61.120:3000/kanal/foxweather
+#EXTINF:-1 tvg-id="" tvg-name="WeatherNation" tvg-logo="https://i.ibb.co/s9q6NT5X/weathernation.jpg" group-title="Yabancı",WeatherNation
+http://193.123.61.120:3000/kanal/weathernation
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://i.ibb.co/KxLRdX7B/nhkworld.jpg" group-title="Yabancı",NHK WORLD-JAPAN
+http://193.123.61.120:3000/kanal/nhkworld
+#EXTINF:-1 tvg-id="" tvg-name="Madinah Live TV" tvg-logo="https://i.ibb.co/vxF6TYF3/medinelive.jpg" group-title="Yabancı",Madinah Live TV
+http://193.123.61.120:3000/kanal/medinelive
 #EXTINF:-1 tvg-id="" tvg-name="ACE Lanzarote Airport-Canary Islands SPAIN" tvg-logo="https://i.ibb.co/zh2FQhc0/flightradar.jpg" group-title="LiveCam",ACE Lanzarote Airport-Canary Islands SPAIN
 http://193.123.61.120:3000/kanal/Flightradar1
 #EXTINF:-1 tvg-id="" tvg-name="Iconic SXM Airport-Sint Maarten Maho Beach" tvg-logo="https://i.ibb.co/zh2FQhc0/flightradar.jpg" group-title="LiveCam",Iconic SXM Airport-Sint Maarten Maho Beach
