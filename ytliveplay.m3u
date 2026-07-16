@@ -83,6 +83,8 @@ http://193.123.61.120:3000/kanal/yesildeniz
 http://193.123.61.120:3000/kanal/askimemnu
 #EXTINF:-1 tvg-id="" tvg-name="Zengin Kız Fakir Oğlan" tvg-logo="https://i.ibb.co/twrHv3rJ/askimemnu.jpg" group-title="Dizi",Zengin Kız Fakir Oğlan
 http://193.123.61.120:3000/kanal/zenginfakir
+#EXTINF:-1 tvg-id="" tvg-name="Mr.Bean" tvg-logo="https://i.ibb.co/HfBX524x/mrbean.jpg" group-title="Dizi",Mr.Bean
+http://193.123.61.120:3000/kanal/mrbean1
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
@@ -359,8 +361,8 @@ http://193.123.61.120:3000/kanal/tomjerry3
 http://193.123.61.120:3000/kanal/grizzy
 #EXTINF:-1 tvg-id="" tvg-name="Tatlı Kedicikler" tvg-logo="https://i.ibb.co/RRzJKXK/minikacocuk.jpg" group-title="Çizgi Film",Tatlı Kedicikler
 http://193.123.61.120:3000/kanal/tatlikedicikler
-#EXTINF:-1 tvg-id="" tvg-name="İstanbul Muhafızları" tvg-logo="https://i.ibb.co/LXty4bMM/istmuh.jpg" group-title="Çizgi Film",İstanbul Muhafızları
-http://193.123.61.120:3000/kanal/istmuh
+#EXTINF:-1 tvg-id="" tvg-name="Mr Bean" tvg-logo="https://i.ibb.co/HfBX524x/mrbean.jpg" group-title="Çizgi Film",Mr Bean
+http://193.123.61.120:3000/kanal/mrbean2
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="https://i.ibb.co/kghcVHJd/kanal77.jpg" group-title="Ulusal",Kanal 7
 http://193.123.61.120:3000/kanal/kanal7
 #EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="https://i.ibb.co/7dq7hDSy/kanald.jpg" group-title="Ulusal",Euro D
