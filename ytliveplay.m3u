@@ -89,6 +89,8 @@ http://193.123.61.120:3000/kanal/BizimevTV
 http://193.123.61.120:3000/kanal/Tgrtb
 #EXTINF:-1 tvg-id="" tvg-name="Toprak TV" tvg-logo="https://i.ibb.co/B5PBmfpd/topraktvv.jpg" group-title="Belgesel",Toprak TV
 http://193.123.61.120:3000/kanal/topraktv
+#EXTINF:-1 tvg-id="" tvg-name="Tarihin Arka Odası" tvg-logo="https://i.ibb.co/CpmPkDhS/tarihhh.jpg" group-title="Belgesel",Tarihin Arka Odası
+http://193.123.61.120:3000/kanal/tarihinarka
 #EXTINF:-1 tvg-id="" tvg-name="Nhất - My Bushcraft" tvg-logo="https://i.ibb.co/LdvFhzGr/buscraft.jpg" group-title="Belgesel",Nhất - My Bushcraft
 http://193.123.61.120:3000/kanal/bushcraft
 #EXTINF:-1 tvg-id="" tvg-name="Dunya Turu" tvg-logo="https://i.ibb.co/0RN0MtCX/gezdolas.jpg" group-title="Belgesel",Dunya Turu
@@ -197,10 +199,10 @@ http://193.123.61.120:3000/kanal/ekoturktv
 http://193.123.61.120:3000/kanal/benguturk
 #EXTINF:-1 tvg-id="" tvg-name="FlashHaber TV" tvg-logo="https://i.ibb.co/v6rv1kCs/flashhaber.jpg" group-title="Haber",FlashHaber TV
 http://193.123.61.120:3000/kanal/flashhaber
-#EXTINF:-1 tvg-id="" tvg-name="Koza TV" tvg-logo="https://i.ibb.co/4zx53NY/kozatv.jpg" group-title="Haber",Koza TV
-http://193.123.61.120:3000/kanal/kozatv
 #EXTINF:-1 tvg-id="" tvg-name="Ulusal Kanal" tvg-logo="https://i.ibb.co/hvBVSd6/ulusalkanal.jpg" group-title="Haber",Ulusal Kanal
 http://193.123.61.120:3000/kanal/ulusalkanal
+#EXTINF:-1 tvg-id="" tvg-name="Medya Haber TV" tvg-logo="https://i.ibb.co/kv1M5JC/medyahaber.jpg" group-title="Haber",Medya Haber TV
+http://193.123.61.120:3000/kanal/medyahaber
 #EXTINF:-1 tvg-id="" tvg-name="Gulsah Film" tvg-logo="https://i.ibb.co/j1QvDp1/gulsahhflm.jpg" group-title="Sinema",Gulsah Film
 http://193.123.61.120:3000/kanal/gulsah
 #EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Filmleri ve Sahneleri " tvg-logo="https://i.ibb.co/wFp9932M/kmlsnlll.jpg" group-title="Sinema",Kemal Sunal Filmleri ve Sahneleri
@@ -427,8 +429,18 @@ http://193.123.61.120:3000/kanal/cnbcint
 http://193.123.61.120:3000/kanal/alekhbariya
 #EXTINF:-1 tvg-id="" tvg-name="FOX 10 Phoenix" tvg-logo="https://i.ibb.co/zHnsFbd2/fox10.jpg" group-title="Yabancı",FOX 10 Phoenix
 http://193.123.61.120:3000/kanal/fox10
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV" tvg-logo="https://i.ibb.co/kfNqnjb/syriatv.jpg" group-title="Yabancı",Syria TV
+http://193.123.61.120:3000/kanal/syriatv
+#EXTINF:-1 tvg-id="" tvg-name="Saudi News TV" tvg-logo="https://i.ibb.co/20jv5vL4/sauditv.jpg" group-title="Yabancı",Saudi News TV
+http://193.123.61.120:3000/kanal/saudinewstv
 #EXTINF:-1 tvg-id="" tvg-name="ACE Lanzarote Airport-Canary Islands SPAIN" tvg-logo="https://i.ibb.co/zh2FQhc0/flightradar.jpg" group-title="LiveCam",ACE Lanzarote Airport-Canary Islands SPAIN
 http://193.123.61.120:3000/kanal/Flightradar1
 #EXTINF:-1 tvg-id="" tvg-name="Iconic SXM Airport-Sint Maarten Maho Beach" tvg-logo="https://i.ibb.co/zh2FQhc0/flightradar.jpg" group-title="LiveCam",Iconic SXM Airport-Sint Maarten Maho Beach
 http://193.123.61.120:3000/kanal/Flightradar2
+#EXTINF:-1 tvg-id="" tvg-name="ABB TV" tvg-logo="https://i.ibb.co/wNzRYZKh/abbtv.jpg" group-title="Yerel",ABB TV
+http://193.123.61.120:3000/kanal/abbtv
+#EXTINF:-1 tvg-id="" tvg-name="Nil RTV" tvg-logo="https://i.ibb.co/VYQJG9mF/nilrtv.jpg" group-title="Yerel",Nil RTV
+http://193.123.61.120:3000/kanal/nilrtv
+#EXTINF:-1 tvg-id="" tvg-name="Koza TV" tvg-logo="https://i.ibb.co/4zx53NY/kozatv.jpg" group-title="Yerel",Koza TV
+http://193.123.61.120:3000/kanal/kozatv
 
