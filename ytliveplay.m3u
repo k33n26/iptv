@@ -85,6 +85,24 @@ http://193.123.61.120:3000/kanal/askimemnu
 http://193.123.61.120:3000/kanal/zenginfakir
 #EXTINF:-1 tvg-id="" tvg-name="Mr.Bean" tvg-logo="https://i.ibb.co/HfBX524x/mrbean.jpg" group-title="Dizi",Mr.Bean
 http://193.123.61.120:3000/kanal/mrbean1
+#EXTINF:-1 tvg-id="" tvg-name="Diriliş Ertuğrul" tvg-logo="https://i.ibb.co/7dwFPTtB/dirilisertugrul.jpg" group-title="Dizi",Diriliş Ertuğrul
+http://193.123.61.120:3000/kanal/dirilise
+#EXTINF:-1 tvg-id="" tvg-name="Kod Adı Kırlangıç" tvg-logo="https://i.ibb.co/HD95qwff/kirlangic.jpg" group-title="Dizi",Kod Adı Kırlangıç
+http://193.123.61.120:3000/kanal/kirlangic
+#EXTINF:-1 tvg-id="" tvg-name="Kızılcık Şerbeti" tvg-logo="https://i.ibb.co/LdzgfWhP/kizilcikserbeti.jpg" group-title="Dizi",Kızılcık Şerbeti
+http://193.123.61.120:3000/kanal/kizilcikserbeti
+#EXTINF:-1 tvg-id="" tvg-name="Eşref Rüya" tvg-logo="https://i.ibb.co/wHZ2mKj/esrefrua.jpg" group-title="Dizi",Eşref Rüya
+http://193.123.61.120:3000/kanal/esrefruya
+#EXTINF:-1 tvg-id="" tvg-name="Bir Gece Masalı" tvg-logo="https://i.ibb.co/hJSd24dt/birgece.jpg" group-title="Dizi",Bir Gece Masalı
+http://193.123.61.120:3000/kanal/birgece
+#EXTINF:-1 tvg-id="" tvg-name="Menajerimi Ara" tvg-logo="https://i.ibb.co/MDVnPq17/menajer.jpg" group-title="Dizi",Menajerimi Ara
+http://193.123.61.120:3000/kanal/menajer
+#EXTINF:-1 tvg-id="" tvg-name="A.B.İ" tvg-logo="https://i.ibb.co/mF41YvNT/abi.jpg" group-title="Dizi",A.B.İ
+http://193.123.61.120:3000/kanal/abi
+#EXTINF:-1 tvg-id="" tvg-name="Muhteşem Yüzyıl" tvg-logo="https://i.ibb.co/2rW0QDB/muhtesemyz.jpg" group-title="Dizi",Muhteşem Yüzyıl
+http://193.123.61.120:3000/kanal/muhtesemyuzyil
+#EXTINF:-1 tvg-id="" tvg-name="Sihirli Annem" tvg-logo="https://i.ibb.co/7tzRYrTW/sihirliannem.jpg" group-title="Dizi",Sihirli Annem
+http://193.123.61.120:3000/kanal/sihirliannem
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/BizimevTV
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
@@ -161,6 +179,10 @@ http://193.123.61.120:3000/kanal/dreamtrips3
 http://193.123.61.120:3000/kanal/theisland
 #EXTINF:-1 tvg-id="" tvg-name="WildEarth" tvg-logo="https://i.ibb.co/Nn3J7jj1/wildearth.jpg" group-title="Belgesel",WildEarth
 http://193.123.61.120:3000/kanal/wildearth
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet-1" tvg-logo="https://i.ibb.co/ZRVrwVtJ/animalplanet.jpg" group-title="Belgesel",Animal Planet-1
+http://193.123.61.120:3000/kanal/animalplanet1
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet-2" tvg-logo="https://i.ibb.co/ZRVrwVtJ/animalplanet.jpg" group-title="Belgesel",Animal Planet-2
+http://193.123.61.120:3000/kanal/animalplanet2
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://i.ibb.co/Q3KgDwZk/halktvvv.jpg" group-title="Haber",Halk TV
 http://193.123.61.120:3000/kanal/halktv
 #EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="https://i.ibb.co/PzW4KsRB/szctvv.jpg" group-title="Haber",SZC TV
@@ -205,6 +227,8 @@ http://193.123.61.120:3000/kanal/flashhaber
 http://193.123.61.120:3000/kanal/ulusalkanal
 #EXTINF:-1 tvg-id="" tvg-name="Medya Haber TV" tvg-logo="https://i.ibb.co/kv1M5JC/medyahaber.jpg" group-title="Haber",Medya Haber TV
 http://193.123.61.120:3000/kanal/medyahaber
+#EXTINF:-1 tvg-id="" tvg-name="Akit TV" tvg-logo="https://i.ibb.co/S4rvdP1w/akittv.jpg" group-title="Haber",Akit TV
+http://193.123.61.120:3000/kanal/akittv
 #EXTINF:-1 tvg-id="" tvg-name="Gulsah Film" tvg-logo="https://i.ibb.co/j1QvDp1/gulsahhflm.jpg" group-title="Sinema",Gulsah Film
 http://193.123.61.120:3000/kanal/gulsah
 #EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Filmleri ve Sahneleri " tvg-logo="https://i.ibb.co/wFp9932M/kmlsnlll.jpg" group-title="Sinema",Kemal Sunal Filmleri ve Sahneleri
@@ -465,4 +489,10 @@ http://193.123.61.120:3000/kanal/abbtv
 http://193.123.61.120:3000/kanal/nilrtv
 #EXTINF:-1 tvg-id="" tvg-name="Koza TV" tvg-logo="https://i.ibb.co/4zx53NY/kozatv.jpg" group-title="Yerel",Koza TV
 http://193.123.61.120:3000/kanal/kozatv
+#EXTINF:-1 tvg-id="" tvg-name="Diyanet TV" tvg-logo="https://i.ibb.co/SDFLjwZc/diyanettv.jpg" group-title="Dini",Diyanet TV
+http://193.123.61.120:3000/kanal/diyanettv
+#EXTINF:-1 tvg-id="" tvg-name="Semerkant TV" tvg-logo="https://i.ibb.co/tMjkZY2Z/semerkanttv.jpg" group-title="Dini",Semerkant TV
+http://193.123.61.120:3000/kanal/semerkanttv
+#EXTINF:-1 tvg-id="" tvg-name="Vav TV" tvg-logo="https://i.ibb.co/C3SMWLGz/vavtv.jpg" group-title="Dini",Vav TV
+http://193.123.61.120:3000/kanal/vavtv
 
