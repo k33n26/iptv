@@ -109,10 +109,14 @@ http://193.123.61.120:3000/kanal/BizimevTV
 http://193.123.61.120:3000/kanal/Tgrtb
 #EXTINF:-1 tvg-id="" tvg-name="Toprak TV" tvg-logo="https://i.ibb.co/B5PBmfpd/topraktvv.jpg" group-title="Belgesel",Toprak TV
 http://193.123.61.120:3000/kanal/topraktv
+#EXTINF:-1 tvg-id="" tvg-name="Dmax Ed Stafford" tvg-logo="https://i.ibb.co/B5PBmfpd/topraktvv.jpg" group-title="Belgesel",Dmax Ed Stafford
+https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tarihin Arka Odası" tvg-logo="https://i.ibb.co/CpmPkDhS/tarihhh.jpg" group-title="Belgesel",Tarihin Arka Odası
 http://193.123.61.120:3000/kanal/tarihinarka
 #EXTINF:-1 tvg-id="" tvg-name="Nhất - My Bushcraft" tvg-logo="https://i.ibb.co/LdvFhzGr/buscraft.jpg" group-title="Belgesel",Nhất - My Bushcraft
 http://193.123.61.120:3000/kanal/bushcraft
+#EXTINF:-1 tvg-id="" tvg-name="Building with Lam Channel" tvg-logo="https://i.ibb.co/TBvTbpq5/bwithch.jpg" group-title="Belgesel",Building with Lam Channel
+http://193.123.61.120:3000/kanal/bwithlamch
 #EXTINF:-1 tvg-id="" tvg-name="Dunya Turu" tvg-logo="https://i.ibb.co/0RN0MtCX/gezdolas.jpg" group-title="Belgesel",Dunya Turu
 http://193.123.61.120:3000/kanal/dunya
 #EXTINF:-1 tvg-id="" tvg-name="Avrupa Turu" tvg-logo="https://i.ibb.co/0RN0MtCX/gezdolas.jpg" group-title="Belgesel",Avrupa Turu
