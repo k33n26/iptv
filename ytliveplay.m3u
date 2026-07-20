@@ -187,6 +187,8 @@ http://193.123.61.120:3000/kanal/wildearth
 http://193.123.61.120:3000/kanal/animalplanet1
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet-2" tvg-logo="https://i.ibb.co/ZRVrwVtJ/animalplanet.jpg" group-title="Belgesel",Animal Planet-2
 http://193.123.61.120:3000/kanal/animalplanet2
+#EXTINF:-1 tvg-id="" tvg-name="Forces Of Nature" tvg-logo="https://i.ibb.co/JFv1cWVc/forcesnature.jpg" group-title="Belgesel",Forces Of Nature
+http://193.123.61.120:3000/kanal/forcesofnature
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://i.ibb.co/Q3KgDwZk/halktvvv.jpg" group-title="Haber",Halk TV
 http://193.123.61.120:3000/kanal/halktv
 #EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="https://i.ibb.co/PzW4KsRB/szctvv.jpg" group-title="Haber",SZC TV
@@ -483,6 +485,16 @@ http://193.123.61.120:3000/kanal/weathernation
 http://193.123.61.120:3000/kanal/nhkworld
 #EXTINF:-1 tvg-id="" tvg-name="Madinah Live TV" tvg-logo="https://i.ibb.co/vxF6TYF3/medinelive.jpg" group-title="Yabancı",Madinah Live TV
 http://193.123.61.120:3000/kanal/medinelive
+#EXTINF:-1 tvg-id="" tvg-name="NagoyaTV News" tvg-logo="https://i.ibb.co/N6gYFw4J/NAGOYATV.jpg" group-title="Yabancı",NagoyaTV News
+http://193.123.61.120:3000/kanal/nagoyatv
+#EXTINF:-1 tvg-id="" tvg-name="HomeTV News" tvg-logo="https://i.ibb.co/k6c3n50L/hometv.jpg" group-title="Yabancı",HomeTV News
+http://193.123.61.120:3000/kanal/hometv
+#EXTINF:-1 tvg-id="" tvg-name="TNC News" tvg-logo="https://i.ibb.co/DDtjcCqt/fukanewsch.jpg" group-title="Yabancı",TNC News
+http://193.123.61.120:3000/kanal/tncnews
+#EXTINF:-1 tvg-id="" tvg-name="KBC News" tvg-logo="https://i.ibb.co/zhwWrhXd/kbcnews.jpg" group-title="Yabancı",KBC News
+http://193.123.61.120:3000/kanal/kbcnews
+#EXTINF:-1 tvg-id="" tvg-name="NTV News" tvg-logo="https://i.ibb.co/PzQf4zG7/ntvnews.jpg" group-title="Yabancı",NTV News
+http://193.123.61.120:3000/kanal/ntvnews
 #EXTINF:-1 tvg-id="" tvg-name="ACE Lanzarote Airport-Canary Islands SPAIN" tvg-logo="https://i.ibb.co/zh2FQhc0/flightradar.jpg" group-title="LiveCam",ACE Lanzarote Airport-Canary Islands SPAIN
 http://193.123.61.120:3000/kanal/Flightradar1
 #EXTINF:-1 tvg-id="" tvg-name="Iconic SXM Airport-Sint Maarten Maho Beach" tvg-logo="https://i.ibb.co/zh2FQhc0/flightradar.jpg" group-title="LiveCam",Iconic SXM Airport-Sint Maarten Maho Beach
