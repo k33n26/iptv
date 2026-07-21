@@ -9,6 +9,8 @@ http://193.123.61.120:5000/yazlikcilar.m3u8
 http://193.123.61.120:3000/kanal/cicektaksi
 #EXTINF:-1 tvg-id="" tvg-name="Guldur Guldur" tvg-logo="https://i.ibb.co/27MJ4bbc/channels4-profile-1.jpg" group-title="Dizi",Guldur Guldur
 http://193.123.61.120:3000/kanal/Guldurguldur
+#EXTINF:-1 tvg-id="" tvg-name="BKM TV" tvg-logo="https://i.ibb.co/Xf3TTD4K/bkmm.jpg" group-title="Dizi",BKM TV
+http://193.123.61.120:3000/kanal/bkmtv
 #EXTINF:-1 tvg-id="" tvg-name="Seksenler" tvg-logo="https://i.ibb.co/vxfCf9kM/unnameddfggh.jpg" group-title="Dizi",Seksenler
 http://193.123.61.120:3000/kanal/seksenler
 #EXTINF:-1 tvg-id="" tvg-name="Yedi Numara" tvg-logo="https://i.ibb.co/Mxh96JxL/channels4-profile7.jpg" group-title="Dizi",Yedi Numara
