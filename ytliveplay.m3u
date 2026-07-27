@@ -318,7 +318,7 @@ http://193.123.61.120:3000/kanal/GulsahFilmOfficial
 #EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Filmleri ve Sahneleri " tvg-logo="https://i.ibb.co/wFp9932M/kmlsnlll.jpg" group-title="Sinema",Kemal Sunal Filmleri ve Sahneleri
 http://193.123.61.120:3000/kanal/KemalSunalFilmleriveSahneleri
 #EXTINF:-1 tvg-id="" tvg-name="Film Atölyesi" tvg-logo="https://i.ibb.co/TMKSngYB/filmatolye.jpg" group-title="Sinema",Film Atölyesi
-http://193.123.61.120:3000/kanal/FilmAtölyesi
+http://193.123.61.120:3000/kanal/FilmAtolyesi
 #EXTINF:-1 tvg-id="" tvg-name="Arzu Film" tvg-logo="https://i.ibb.co/FGhRKdm/arzzzzz.jpg" group-title="Sinema",Arzu Film
 http://193.123.61.120:3000/kanal/arzufilm1964
 #EXTINF:-1 tvg-id="" tvg-name="Avsar Film" tvg-logo="https://i.ibb.co/6cS9s56f/avsarrrrr.jpg" group-title="Sinema",Avsar Film
@@ -654,6 +654,10 @@ http://193.123.61.120:3000/kanal/KBCnewsCH_2
 http://193.123.61.120:3000/kanal/ntv_news_8
 #EXTINF:-1 tvg-id="" tvg-name="ABC7" tvg-logo="https://i.ibb.co/9kyjWmYt/ABC7.jpg" group-title="Yabancı",ABC7
 http://193.123.61.120:3000/kanal/ABC7
+#EXTINF:-1 tvg-id="" tvg-name="Bob Ross" tvg-logo="https://i.ibb.co/d4tnfQTF/bobross.jpg" group-title="Yabancı",Bob Ross
+http://193.123.61.120:3000/kanal/bobross_thejoyofpainting
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg News" tvg-logo="https://i.ibb.co/7x518hvT/bloombergnews.jpg" group-title="Yabancı",Bloomberg News
+http://193.123.61.120:3000/kanal/Bloomberg-News
 #EXTINF:-1 tvg-id="" tvg-name="ACE Lanzarote Airport-Canary Islands SPAIN" tvg-logo="https://i.ibb.co/zh2FQhc0/flightradar.jpg" group-title="LiveCam",ACE Lanzarote Airport-Canary Islands SPAIN
 http://193.123.61.120:3000/kanal/Flightradar1
 #EXTINF:-1 tvg-id="" tvg-name="Iconic SXM Airport-Sint Maarten Maho Beach" tvg-logo="https://i.ibb.co/zh2FQhc0/flightradar.jpg" group-title="LiveCam",Iconic SXM Airport-Sint Maarten Maho Beach
