@@ -173,6 +173,8 @@ http://193.123.61.120:3000/kanal/KUZEYGUNEYKANALDOFFICIAL
 http://193.123.61.120:3000/kanal/MasumiyetDizi
 #EXTINF:-1 tvg-id="" tvg-name="Kuzey Yıldızı İlk Aşk" tvg-logo="https://i.ibb.co/XZZtbH0H/kuzeyyildiziask.jpg" group-title="Dizi",Kuzey Yıldızı İlk Aşk
 http://193.123.61.120:3000/kanal/KuzeyYildiziDizi
+#EXTINF:-1 tvg-id="" tvg-name="İnci Taneleri" tvg-logo="https://i.ibb.co/PvqPwGXq/incitaneleri.jpg" group-title="Dizi",İnci Taneleri
+http://193.123.61.120:3000/kanal/incitaneleribkm
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/bizimevtv2000
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
