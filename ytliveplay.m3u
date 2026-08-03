@@ -62,7 +62,7 @@ http://193.123.61.120:3000/kanal/Kanal7PakistanDizileri
 #EXTINF:-1 tvg-id="" tvg-name="Sıfır Bir" tvg-logo="https://i.ibb.co/Q7WjYKZ2/s-f-rbir.jpg" group-title="Dizi",Sıfır Bir
 http://193.123.61.120:3000/kanal/SfrBir
 #EXTINF:-1 tvg-id="" tvg-name="Çok Güzel Hareketler 2" tvg-logo="https://i.ibb.co/prRmM9DN/cokguzelll.jpg" group-title="Dizi",Çok Güzel Hareketler 2
-http://193.123.61.120:3000/kanal/ÇokGüzelHareketler
+http://193.123.61.120:3000/kanal/CokGuzelHareketler
 #EXTINF:-1 tvg-id="" tvg-name="Eşkıya Dünyaya Hükümdar Olmaz" tvg-logo="https://i.ibb.co/bMmnpZbH/eskiyaa.jpg" group-title="Dizi",Eşkıya Dünyaya Hükümdar Olmaz
 http://193.123.61.120:3000/kanal/EDHOatv
 #EXTINF:-1 tvg-id="" tvg-name="Kuruluş Osman" tvg-logo="https://i.ibb.co/bgT3tt9B/kurulusosman.jpg" group-title="Dizi",Kuruluş Osman
@@ -282,7 +282,7 @@ http://193.123.61.120:3000/kanal/haberturktv_3
 #EXTINF:-1 tvg-id="" tvg-name="HaberGlobal TV" tvg-logo="https://i.ibb.co/wNkqjfCC/hbrgloball.jpg" group-title="Haber",HaberGlobal TV
 http://193.123.61.120:3000/kanal/haberglobal
 #EXTINF:-1 tvg-id="" tvg-name="KRT TV" tvg-logo="https://i.ibb.co/8g5F8jYp/krtttv.jpg" group-title="Haber",KRT TV
-http://193.123.61.120:3000/kanal/krt
+http://193.123.61.120:3000/kanal/krtcanli
 #EXTINF:-1 tvg-id="" tvg-name="24 TV" tvg-logo="https://i.ibb.co/h0TsntK/24yvvv.jpg" group-title="Haber",24 TV
 http://193.123.61.120:3000/kanal/YirmidortTV_1
 #EXTINF:-1 tvg-id="" tvg-name="TV100" tvg-logo="https://i.ibb.co/JYQh4Xz/tv100.jpg" group-title="Haber",TV100
@@ -292,11 +292,11 @@ http://193.123.61.120:3000/kanal/apara
 #EXTINF:-1 tvg-id="" tvg-name="Cnbc-e" tvg-logo="https://i.ibb.co/DDrhJHkF/cnbce.jpg" group-title="Haber",Cnbc-e
 http://193.123.61.120:3000/kanal/cnbce
 #EXTINF:-1 tvg-id="" tvg-name="TVNet" tvg-logo="https://i.ibb.co/gMgGqXzh/tvnett.jpg" group-title="Haber",TVNet
-http://193.123.61.120:3000/kanal/tvnet
+http://193.123.61.120:3000/kanal/TVNET
 #EXTINF:-1 tvg-id="" tvg-name="TRT Haber" tvg-logo="https://i.ibb.co/tTktLgnz/trthaberr.jpg" group-title="Haber",TRT Haber
 http://193.123.61.120:3000/kanal/trthaber
 #EXTINF:-1 tvg-id="" tvg-name="Tgrt Haber" tvg-logo="https://i.ibb.co/8LKzFrRN/tgrthbrrrrr.jpg" group-title="Haber",Tgrt Haber
-http://193.123.61.120:3000/kanal/tgrthaber_2
+http://193.123.61.120:3000/kanal/tgrthaber
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg HT" tvg-logo="https://i.ibb.co/mV231b3Q/bloomberght.jpg" group-title="Haber",Bloomberg HT
 http://193.123.61.120:3000/kanal/bloomberght
 #EXTINF:-1 tvg-id="" tvg-name="Ekoturk TV" tvg-logo="https://i.ibb.co/7NpQ6Dhk/ekoturkk.jpg" group-title="Haber",Ekoturk TV
@@ -306,7 +306,7 @@ http://193.123.61.120:3000/kanal/tvbenguturk
 #EXTINF:-1 tvg-id="" tvg-name="FlashHaber TV" tvg-logo="https://i.ibb.co/v6rv1kCs/flashhaber.jpg" group-title="Haber",FlashHaber TV
 http://193.123.61.120:3000/kanal/FlashHaberTV
 #EXTINF:-1 tvg-id="" tvg-name="Ulusal Kanal" tvg-logo="https://i.ibb.co/hvBVSd6/ulusalkanal.jpg" group-title="Haber",Ulusal Kanal
-http://193.123.61.120:3000/kanal/ulusalkanalTV_2
+http://193.123.61.120:3000/kanal/ulusalkanalTV
 #EXTINF:-1 tvg-id="" tvg-name="Medya Haber TV" tvg-logo="https://i.ibb.co/kv1M5JC/medyahaber.jpg" group-title="Haber",Medya Haber TV
 http://193.123.61.120:3000/kanal/medyahabertv8
 #EXTINF:-1 tvg-id="" tvg-name="Akit TV" tvg-logo="https://i.ibb.co/S4rvdP1w/akittv.jpg" group-title="Haber",Akit TV
@@ -315,6 +315,8 @@ http://193.123.61.120:3000/kanal/akittv
 http://193.123.61.120:3000/kanal/mkhabertv
 #EXTINF:-1 tvg-id="" tvg-name="Tele2 Haber" tvg-logo="https://i.ibb.co/DDbsdS5Z/tele2.jpg" group-title="Haber",Tele2 Haber
 http://193.123.61.120:3000/kanal/tele2_haber
+#EXTINF:-1 tvg-id="" tvg-name="Onlar TV" tvg-logo="https://i.ibb.co/8LZ7PGq0/onlar.jpg" group-title="Haber",Onlar TV
+http://193.123.61.120:3000/kanal/OnlarTV
 #EXTINF:-1 tvg-id="" tvg-name="Gulsah Film" tvg-logo="https://i.ibb.co/j1QvDp1/gulsahhflm.jpg" group-title="Sinema",Gulsah Film
 http://193.123.61.120:3000/kanal/GulsahFilmOfficial
 #EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Filmleri ve Sahneleri " tvg-logo="https://i.ibb.co/wFp9932M/kmlsnlll.jpg" group-title="Sinema",Kemal Sunal Filmleri ve Sahneleri
