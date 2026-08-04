@@ -462,7 +462,7 @@ http://193.123.61.120:3000/kanal/ravenhallmusic
 #EXTINF:-1 tvg-id="" tvg-name="Beautiful Place to Relax" tvg-logo="" group-title="Dinlenme",Beautiful Place to Relax
 http://193.123.61.120:3000/kanal/MotherNatureMelodies
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/Gv2vYypZ/bsprtt.jpg" group-title="Spor",beIN SPORTS HABER
-http://193.123.61.120:3000/kanal/beINSPORTSTürkiye
+http://193.123.61.120:3000/kanal/beINSPORTSTurkiye
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS ARŞİV" tvg-logo="https://i.ibb.co/d44NBjj3/beinarsivv.jpg" group-title="Spor",beIN SPORTS ARŞİV
 http://193.123.61.120:3000/kanal/beinsportsarsiv
 #EXTINF:-1 tvg-id="" tvg-name="A Spor" tvg-logo="https://i.ibb.co/gZxGHzx6/asprrr.jpg" group-title="Spor",A Spor
@@ -573,7 +573,7 @@ http://193.123.61.120:3000/kanal/TRTAvaz
 #EXTINF:-1 tvg-id="" tvg-name="NOW TV" tvg-logo="https://i.ibb.co/608k84wn/NOWTV.jpg" group-title="Ulusal",NOW TV
 http://193.123.61.120:3000/kanal/nowtvturkiye
 #EXTINF:-1 tvg-id="" tvg-name="Kral Akustik TV" tvg-logo="https://i.ibb.co/d4JNfJyB/kralmmzk.jpg" group-title="Müzik",Kral Akustik TV
-http://193.123.61.120:3000/kanal/kralmüzik_1
+http://193.123.61.120:3000/kanal/kralmuzik_1
 #EXTINF:-1 tvg-id="" tvg-name="Euro News" tvg-logo="https://i.ibb.co/G4rvhg5Y/euronewsss.jpg" group-title="Yabancı",Euro News
 http://193.123.61.120:3000/kanal/euronews
 #EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="https://i.ibb.co/GvHWWV9w/skynewsss.jpg" group-title="Yabancı",Sky News
