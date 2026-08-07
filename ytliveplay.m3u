@@ -288,7 +288,7 @@ http://193.123.61.120:3000/kanal/krtcanli
 #EXTINF:-1 tvg-id="" tvg-name="24 TV" tvg-logo="https://i.ibb.co/h0TsntK/24yvvv.jpg" group-title="Haber",24 TV
 http://193.123.61.120:3000/kanal/YirmidortTV_1
 #EXTINF:-1 tvg-id="" tvg-name="TV100" tvg-logo="https://i.ibb.co/JYQh4Xz/tv100.jpg" group-title="Haber",TV100
-http://193.123.61.120:3000/kanal/tv100
+http://193.123.61.120:3000/kanal/tv100_2
 #EXTINF:-1 tvg-id="" tvg-name="a Para" tvg-logo="https://i.ibb.co/fGLksVs5/apara.jpg" group-title="Haber",a Para
 http://193.123.61.120:3000/kanal/apara
 #EXTINF:-1 tvg-id="" tvg-name="Cnbc-e" tvg-logo="https://i.ibb.co/DDrhJHkF/cnbce.jpg" group-title="Haber",Cnbc-e
@@ -316,7 +316,7 @@ http://193.123.61.120:3000/kanal/akittv
 #EXTINF:-1 tvg-id="" tvg-name="MK HABER TV" tvg-logo="https://i.ibb.co/b5Rz3zFm/mkhaber.jpg" group-title="Haber",MK HABER TV
 http://193.123.61.120:3000/kanal/mkhabertv
 #EXTINF:-1 tvg-id="" tvg-name="Tele2 Haber" tvg-logo="https://i.ibb.co/DDbsdS5Z/tele2.jpg" group-title="Haber",Tele2 Haber
-http://193.123.61.120:3000/kanal/tele2_haber
+http://193.123.61.120:3000/kanal/tele2_haber_2
 #EXTINF:-1 tvg-id="" tvg-name="Onlar TV" tvg-logo="https://i.ibb.co/8LZ7PGq0/onlar.jpg" group-title="Haber",Onlar TV
 http://193.123.61.120:3000/kanal/OnlarTV
 #EXTINF:-1 tvg-id="" tvg-name="Gulsah Film" tvg-logo="https://i.ibb.co/j1QvDp1/gulsahhflm.jpg" group-title="Sinema",Gulsah Film
