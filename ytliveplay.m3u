@@ -475,6 +475,8 @@ http://193.123.61.120:3000/kanal/yagosabuncuoglu
 http://193.123.61.120:3000/kanal/SportsDigitale
 #EXTINF:-1 tvg-id="" tvg-name="Fenerbahçe TV" tvg-logo="https://i.ibb.co/m5Cr7tW9/fbtv.jpg" group-title="Spor",Fenerbahçe TV
 http://193.123.61.120:3000/kanal/fenerbahce
+#EXTINF:-1 tvg-id="" tvg-name="Sıfır TV" tvg-logo="https://i.ibb.co/BKYFHzCW/sifirtv.jpg" group-title="Spor",Sıfır TV
+http://193.123.61.120:3000/kanal/sifirtv
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Türkiye-TEEN TITANS GO EFSANESİ" tvg-logo="https://i.ibb.co/8D0rhBvW/cnntwrk.jpg" group-title="Çizgi Film",Cartoon Network Turkiye-TEEN TITANS GO EFSANESİ
 http://193.123.61.120:3000/kanal/cartoonnetworkturkiye_1
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Türkiye-Kayıp Kasetler" tvg-logo="https://i.ibb.co/8D0rhBvW/cnntwrk.jpg" group-title="Çizgi Film",Cartoon Network Turkiye-Kayıp Kasetler
