@@ -353,6 +353,22 @@ http://193.123.61.120:3000/kanal/FobosPlanet_6
 http://193.123.61.120:3000/kanal/FobosPlanet_7
 #EXTINF:-1 tvg-id="" tvg-name="Somine TV-8" tvg-logo="https://i.ibb.co/Ps6pn2mk/foboss.jpg" group-title="Dinlenme",Somine Tv-8
 http://193.123.61.120:3000/kanal/FobosPlanet_8
+#EXTINF:-1 tvg-id="" tvg-name="Fireplace-1" tvg-logo="https://i.ibb.co/ZzXxBz2H/fireplace.jpg" group-title="Dinlenme",Fireplace-1
+http://193.123.61.120:3000/kanal/Fireplace4K_1
+#EXTINF:-1 tvg-id="" tvg-name="Fireplace-2" tvg-logo="https://i.ibb.co/ZzXxBz2H/fireplace.jpg" group-title="Dinlenme",Fireplace-2
+http://193.123.61.120:3000/kanal/Fireplace4K_2
+#EXTINF:-1 tvg-id="" tvg-name="Fireplace-3" tvg-logo="https://i.ibb.co/ZzXxBz2H/fireplace.jpg" group-title="Dinlenme",Fireplace-3
+http://193.123.61.120:3000/kanal/Fireplace4K_3
+#EXTINF:-1 tvg-id="" tvg-name="Fireplace-4" tvg-logo="https://i.ibb.co/ZzXxBz2H/fireplace.jpg" group-title="Dinlenme",Fireplace-4
+http://193.123.61.120:3000/kanal/Fireplace4K_4
+#EXTINF:-1 tvg-id="" tvg-name="Fireplace-5" tvg-logo="https://i.ibb.co/ZzXxBz2H/fireplace.jpg" group-title="Dinlenme",Fireplace-5
+http://193.123.61.120:3000/kanal/Fireplace4K_5
+#EXTINF:-1 tvg-id="" tvg-name="Fireplace-6" tvg-logo="https://i.ibb.co/ZzXxBz2H/fireplace.jpg" group-title="Dinlenme",Fireplace-6
+http://193.123.61.120:3000/kanal/Fireplace4K_6
+#EXTINF:-1 tvg-id="" tvg-name="Fireplace-7" tvg-logo="https://i.ibb.co/ZzXxBz2H/fireplace.jpg" group-title="Dinlenme",Fireplace-7
+http://193.123.61.120:3000/kanal/Fireplace4K_7
+#EXTINF:-1 tvg-id="" tvg-name="Fireplace-8" tvg-logo="https://i.ibb.co/ZzXxBz2H/fireplace.jpg" group-title="Dinlenme",Fireplace-8
+http://193.123.61.120:3000/kanal/Fireplace4K_8
 #EXTINF:-1 tvg-id="" tvg-name="Relaxing Music-Ocean Waves" tvg-logo="https://i.ibb.co/j95dyDks/relaxks.jpg" group-title="Dinlenme",Relaxing Music-Ocean Waves
 http://193.123.61.120:3000/kanal/YellowBrickCinema_1
 #EXTINF:-1 tvg-id="" tvg-name="Relaxing Music-Insomnia Relief" tvg-logo="https://i.ibb.co/j95dyDks/relaxks.jpg" group-title="Dinlenme",Relaxing Music-Insomnia Relief
