@@ -479,6 +479,8 @@ http://193.123.61.120:3000/kanal/EnjoyRelaxation-jz7gi_2
 http://193.123.61.120:3000/kanal/ravenhallmusic
 #EXTINF:-1 tvg-id="" tvg-name="Beautiful Place to Relax" tvg-logo="" group-title="Dinlenme",Beautiful Place to Relax
 http://193.123.61.120:3000/kanal/MotherNatureMelodies
+#EXTINF:-1 tvg-id="" tvg-name="New York City from Brooklyn to Manhattan" tvg-logo="https://i.ibb.co/gMYcszP9/newyork.jpg" group-title="Dinlenme",New York City from Brooklyn to Manhattan
+http://193.123.61.120:3000/kanal/Live_in_NewYork
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/Gv2vYypZ/bsprtt.jpg" group-title="Spor",beIN SPORTS HABER
 http://193.123.61.120:3000/kanal/beINSPORTSTurkiye
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS ARŞİV" tvg-logo="https://i.ibb.co/d44NBjj3/beinarsivv.jpg" group-title="Spor",beIN SPORTS ARŞİV
