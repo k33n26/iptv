@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Avrupa Yakası" tvg-logo="example" group-title="Dizi",Avrupa Yakası
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/avrupayakasi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler" tvg-logo="example" group-title="Dizi",Bizimkiler
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/bizimkiler2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cailliou" tvg-logo="example" group-title="Çizgi Film",Cailliou
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/cailliou.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cennet Mahallesi" tvg-logo="example" group-title="Dizi",Cennet Mahallesi
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/cennetmah2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ed Stafford" tvg-logo="example" group-title="Belgesel",Ed Stafford
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/ed-stafford.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fanatik Yeşilçam" tvg-logo="example" group-title="Sinema",Fanatik Yeşilçam
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/fanatikyesilcam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Flux" tvg-logo="example" group-title="Sinema",Flux
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/fluxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı" tvg-logo="example" group-title="Sinema",Hababam Sınıfı
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/hababam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="example" group-title="Sinema",Jackie Chan
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/jackiechan1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jason Statham" tvg-logo="example" group-title="Sinema",Jason Statham
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/jasonstatham.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal 1" tvg-logo="example" group-title="Sinema",Kemal Sunal 1
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kemalsunal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal 2" tvg-logo="example" group-title="Sinema",Kemal Sunal 2
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kemalsunal2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal 3" tvg-logo="example" group-title="Sinema",Kemal Sunal 3
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kemalsunal3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kurtlar Vadisi" tvg-logo="example" group-title="Dizi",Kurtlar Vadisi
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kurtlarvadisi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Player Film" tvg-logo="example" group-title="Sinema",Player Film
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/playerfilm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rambo" tvg-logo="example" group-title="Sinema",Rambo
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/rambo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Şener Şen" tvg-logo="example" group-title="Sinema",Şener Şen
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/senersen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sevimliler" tvg-logo="example" group-title="Çizgi Film",Sevimliler
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/sevimliler.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="example" group-title="Çizgi Film",Tom & Jerry
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/tomjerry.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turkuz Play" tvg-logo="example" group-title="Sinema",Turkuz Play
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/turkuzplay1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rocky" tvg-logo="example" group-title="Sinema",Rocky
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/rocky.m3u8
