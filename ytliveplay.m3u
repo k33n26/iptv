@@ -179,6 +179,8 @@ http://193.123.61.120:3000/kanal/incitaneleribkm
 http://193.123.61.120:3000/kanal/25FilmTR
 #EXTINF:-1 tvg-id="" tvg-name="Mucize Doktor" tvg-logo="https://i.ibb.co/9mdNwL3c/mucizedoktor.jpg" group-title="Dizi",Mucize Doktor
 http://193.123.61.120:3000/kanal/MucizeDoktor
+#EXTINF:-1 tvg-id="" tvg-name="Yüksek Sosyete" tvg-logo="https://i.ibb.co/wh4jKRgM/yukseksosyete.jpg" group-title="Dizi",Yüksek Sosyete
+http://193.123.61.120:3000/kanal/YuksekSosyete
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/bizimevtv2000
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
@@ -712,5 +714,7 @@ http://193.123.61.120:3000/kanal/vavtv_2
 http://193.123.61.120:3000/kanal/vavtv_3
 #EXTINF:-1 tvg-id="" tvg-name="Vav TV-4" tvg-logo="https://i.ibb.co/C3SMWLGz/vavtv.jpg" group-title="Dini",Vav TV-4
 http://193.123.61.120:3000/kanal/vavtv_4
+#EXTINF:-1 tvg-id="" tvg-name="BBCC News" tvg-logo="" group-title="Yabancı",BBCC News
+http://193.123.61.120:3000/kanal/BBCNews
 
 
