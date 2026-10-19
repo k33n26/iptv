@@ -671,7 +671,7 @@ http://193.123.61.120:3000/kanal/Foxweather
 #EXTINF:-1 tvg-id="" tvg-name="WeatherNation" tvg-logo="https://i.ibb.co/s9q6NT5X/weathernation.jpg" group-title="Yabancı",WeatherNation
 http://193.123.61.120:3000/kanal/weathernation
 #EXTINF:-1 tvg-id="" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://i.ibb.co/KxLRdX7B/nhkworld.jpg" group-title="Yabancı",NHK WORLD-JAPAN
-http://193.123.61.120:3000/kanal/nhkworld
+http://193.123.61.120:3000/kanal/NHKWORLDJAPAN
 #EXTINF:-1 tvg-id="" tvg-name="Madinah Live TV" tvg-logo="https://i.ibb.co/vxF6TYF3/medinelive.jpg" group-title="Yabancı",Madinah Live TV
 http://193.123.61.120:3000/kanal/NaimatIslamic_2
 #EXTINF:-1 tvg-id="" tvg-name="Makkah Live TV" tvg-logo="https://i.ibb.co/vxF6TYF3/medinelive.jpg" group-title="Yabancı",Makkah Live TV
@@ -679,7 +679,7 @@ http://193.123.61.120:3000/kanal/NaimatIslamic_1
 #EXTINF:-1 tvg-id="" tvg-name="NagoyaTV News" tvg-logo="https://i.ibb.co/N6gYFw4J/NAGOYATV.jpg" group-title="Yabancı",NagoyaTV News
 http://193.123.61.120:3000/kanal/NagoyaTVnewsCH_2
 #EXTINF:-1 tvg-id="" tvg-name="HomeTV News" tvg-logo="https://i.ibb.co/k6c3n50L/hometv.jpg" group-title="Yabancı",HomeTV News
-http://193.123.61.120:3000/kanal/home-news_5
+http://193.123.61.120:3000/kanal/home-news_4
 #EXTINF:-1 tvg-id="" tvg-name="TNC News" tvg-logo="https://i.ibb.co/DDtjcCqt/fukanewsch.jpg" group-title="Yabancı",TNC News
 http://193.123.61.120:3000/kanal/fukuokatncnews_3
 #EXTINF:-1 tvg-id="" tvg-name="KBC News" tvg-logo="https://i.ibb.co/zhwWrhXd/kbcnews.jpg" group-title="Yabancı",KBC News
