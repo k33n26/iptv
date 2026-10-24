@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Bizimkiler" tvg-logo="https://i.ibb.co/k6HvKhfV/Bizimkiler.png" group-title="Dizi",Bizimkiler
 http://193.123.61.120:3000/kanal/NostaljiTRT_2
-#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler-2" tvg-logo="https://i.ibb.co/k6HvKhfV/Bizimkiler.png" group-title="Dizi",Bizimkiler-2
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler(Catcast)" tvg-logo="https://i.ibb.co/k6HvKhfV/Bizimkiler.png" group-title="Dizi",Bizimkiler(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/bizimkiler2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Çiçek Taksi" tvg-logo="https://i.ibb.co/cj9Rt6g/cicektaksii.jpg" group-title="Dizi",Çiçek Taksi
 http://193.123.61.120:3000/kanal/NostaljiTRT_1
@@ -17,6 +17,8 @@ http://193.123.61.120:3000/kanal/YedinumaradizisiTRT
 http://193.123.61.120:3000/kanal/leylailemecnundizisitrt
 #EXTINF:-1 tvg-id="" tvg-name="Kurtlar Vadisi Pusu" tvg-logo="https://i.ibb.co/gZv1vVtM/kurtpusu.jpg" group-title="Dizi",Kurtlar Vadisi Pusu
 http://193.123.61.120:3000/kanal/KurtlarVadisi
+#EXTINF:-1 tvg-id="" tvg-name="Kurtlar Vadisi(Catcast) tvg-logo="https://i.ibb.co/gZv1vVtM/kurtpusu.jpg" group-title="Dizi",Kurtlar Vadisi(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kurtlarvadisi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Behzat Ç" tvg-logo="https://i.ibb.co/ZRmGfYQ9/behzatcc.jpg" group-title="Dizi",Behzat Ç
 http://193.123.61.120:3000/kanal/Behzatc.
 #EXTINF:-1 tvg-id="" tvg-name="Arka Sıradakiler" tvg-logo="https://i.ibb.co/JwT6K2t3/arkas.jpg" group-title="Dizi",Arka Sıradakiler
@@ -27,6 +29,8 @@ http://193.123.61.120:3000/kanal/Cukur
 http://193.123.61.120:3000/kanal/YaprakDokumuKanalD
 #EXTINF:-1 tvg-id="" tvg-name="Cennet Mahallesi" tvg-logo="https://i.ibb.co/Qj8fGx1x/cennetmah.jpg" group-title="Dizi",Cennet Mahallesi
 http://193.123.61.120:3000/kanal/cennetmahallesishowtv
+#EXTINF:-1 tvg-id="" tvg-name="Cennet Mahallesi(Catcast)" tvg-logo="https://i.ibb.co/Qj8fGx1x/cennetmah.jpg" group-title="Dizi",Cennet Mahallesi(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/cennetmah2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Çocuklar Duymasın" tvg-logo="https://i.ibb.co/jPDFQC2L/cocukduy.jpg" group-title="Dizi",Çocuklar Duymasın
 http://193.123.61.120:3000/kanal/CocuklarDuymasnKanalD
 #EXTINF:-1 tvg-id="" tvg-name="Çocuklar Duymasın Nostalji" tvg-logo="https://i.ibb.co/8LnDT6FQ/cocukduy2.jpg" group-title="Dizi",Çocuklar Duymasın Nostalji
@@ -37,6 +41,8 @@ http://193.123.61.120:3000/kanal/YalanDunyaKanalD
 http://193.123.61.120:3000/kanal/Adanali
 #EXTINF:-1 tvg-id="" tvg-name="Avrupa Yakası" tvg-logo="https://i.ibb.co/k6G15HCM/avrupayakasii.jpg" group-title="Dizi",Avrupa Yakası
 http://193.123.61.120:3000/kanal/AvrupaYakasi
+#EXTINF:-1 tvg-id="" tvg-name="Avrupa Yakası(Catcast)" tvg-logo="https://i.ibb.co/k6G15HCM/avrupayakasii.jpg" group-title="Dizi",Avrupa Yakası(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/avrupayakasi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Selena" tvg-logo="https://i.ibb.co/1GswvC41/selenaa.jpg" group-title="Dizi",Selena
 http://193.123.61.120:3000/kanal/SelenaDizi
 #EXTINF:-1 tvg-id="" tvg-name="Alemin Kralı" tvg-logo="https://i.ibb.co/20PbTRzP/aleminkrali.jpg" group-title="Dizi",Alemin Kralı
@@ -187,8 +193,8 @@ http://193.123.61.120:3000/kanal/bizimevtv2000
 http://193.123.61.120:3000/kanal/tgrtbelgeseltv
 #EXTINF:-1 tvg-id="" tvg-name="Toprak TV" tvg-logo="https://i.ibb.co/B5PBmfpd/topraktvv.jpg" group-title="Belgesel",Toprak TV
 http://193.123.61.120:3000/kanal/topraktvtarim.official
-#EXTINF:-1 tvg-id="" tvg-name="Dmax Ed Stafford" tvg-logo="https://i.ibb.co/B5PBmfpd/topraktvv.jpg" group-title="Belgesel",Dmax Ed Stafford
-https://catcast.ismailturret.workers.dev/fanatikprimeEdStafford.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dmax Ed Stafford(Catcast)" tvg-logo="https://i.ibb.co/yc9n7LNL/hqdefault.jpg" group-title="Belgesel",Dmax Ed Stafford(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/ed-stafford.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tarihin Arka Odası" tvg-logo="https://i.ibb.co/CpmPkDhS/tarihhh.jpg" group-title="Belgesel",Tarihin Arka Odası
 http://193.123.61.120:3000/kanal/tarihinarkaodasitv
 #EXTINF:-1 tvg-id="" tvg-name="Nhất - My Bushcraft" tvg-logo="https://i.ibb.co/LdvFhzGr/buscraft.jpg" group-title="Belgesel",Nhất - My Bushcraft
@@ -325,6 +331,38 @@ http://193.123.61.120:3000/kanal/tele2_haber_2
 http://193.123.61.120:3000/kanal/tele3_haber
 #EXTINF:-1 tvg-id="" tvg-name="Onlar TV" tvg-logo="https://i.ibb.co/8LZ7PGq0/onlar.jpg" group-title="Haber",Onlar TV
 http://193.123.61.120:3000/kanal/OnlarTV
+#EXTINF:-1 tvg-id="" tvg-name="Başka TV(Kick.tv)" tvg-logo="https://i.ibb.co/DP4tJM7r/u-Ut0Y.jpg" group-title="Sinema",Başka TV(Kick.tv)
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/baska_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeleZEN TV(Kick.tv)" tvg-logo="https://i.ibb.co/kgFJBQt2/h-KPKM.jpg" group-title="Sinema",TeleZEN TV(Kick.tv)
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/telezentvchannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fanatik Yeşilçam(Catcast)" tvg-logo="https://i.ibb.co/gXy4SjS/Fanatik-Ye-il-am-TV-Logosu.png" group-title="Sinema",Fanatik Yeşilçam(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/fanatikyesilcam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı(Catcast)" tvg-logo="https://i.ibb.co/C5GLHx9h/Hababam-S-n-f-TV-Retro-Afi-i.png" group-title="Sinema",Hababam Sınıfı(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/hababam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan(Catcast)" tvg-logo="https://i.ibb.co/7JRSLtjm/Jackie-Chan-TV-Aksiyon-ve-Ejderha.png" group-title="Sinema",Jackie Chan(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/jackiechan1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jason Statham(Catcast)" tvg-logo="https://i.ibb.co/NQn74hP/Jason-Statham-TV-Aksiyon-Afi-i.png" group-title="Sinema",Jason Statham(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/jasonstatham.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal TV-1(Catcast)" tvg-logo="https://i.ibb.co/YF1qW3DC/Kemal-Sunal-TV-1-Nostalji-Kolaj.png" group-title="Sinema",Kemal Sunal TV-1(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kemalsunal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal TV-2(Catcast)" tvg-logo="https://i.ibb.co/B9KXYJr/Kemal-Sunal-TV-2-Nostalji-Kolaj.png" group-title="Sinema",Kemal Sunal TV-2(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kemalsunal2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal TV-3(Catcast)" tvg-logo="https://i.ibb.co/FqfHTNhR/Kemal-Sunal-TV-G-l-mseten-Sinema-Nostalgisi.png" group-title="Sinema",Kemal Sunal TV-3(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kemalsunal3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal TV-4(Catcast)" tvg-logo="https://i.ibb.co/MDygc329/Kemal-Sunal-TV-4-Nostalji-Posteri.png" group-title="Sinema",Kemal Sunal TV-4(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/ksunal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KralTeber TV(Catcast)" tvg-logo="https://i.ibb.co/XffxGwLF/Kral-Teber-TV-Kraliyet-Amblemi.png" group-title="Sinema",KralTeber TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kralturkteber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PlayerFilm TV(Catcast)" tvg-logo="https://i.ibb.co/TDksGfvK/Alt-n-Sinematik-Film-TV-Logosu.png" group-title="Sinema",PlayerFilm TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/playerfilm.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rambo TV(Catcast)" tvg-logo="https://i.ibb.co/wZ7BRvZ8/Rambo-Film-TV-Sava-Rozeti.png" group-title="Sinema",Rambo TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/rambo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rocky TV(Catcast)" tvg-logo="https://i.ibb.co/JRjMPM3s/Rocky-Film-TV-Zaferin-Sembol.png" group-title="Sinema",Rocky TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/rocky.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Şener Şen Filmleri TV(Catcast)" tvg-logo="https://i.ibb.co/r2nkhDkq/ener-en-Filmleri-TV-Logosu.png" group-title="Sinema",Şener Şen Filmleri TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/senersen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TurkuzPlay TV(Catcast)" tvg-logo="https://i.ibb.co/JDs2ThC/Turkuz-Play-TV-E-lence-D-nyas.png" group-title="Sinema",TurkuzPlay TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/turkuzplay1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gulsah Film" tvg-logo="https://i.ibb.co/j1QvDp1/gulsahhflm.jpg" group-title="Sinema",Gulsah Film
 http://193.123.61.120:3000/kanal/GulsahFilmOfficial
 #EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Filmleri ve Sahneleri " tvg-logo="https://i.ibb.co/wFp9932M/kmlsnlll.jpg" group-title="Sinema",Kemal Sunal Filmleri ve Sahneleri
@@ -578,6 +616,12 @@ http://193.123.61.120:3000/kanal/KüçükKamyonLeo_6
 http://193.123.61.120:3000/kanal/IstanbulMuhafzlarResmiKanal
 #EXTINF:-1 tvg-id="" tvg-name="Grafi2000 Çocuk" tvg-logo="https://i.ibb.co/C3gdvWnC/graficocuk.jpg" group-title="Çizgi Film",Grafi2000 Çocuk
 http://193.123.61.120:3000/kanal/grafi2000cocuk
+#EXTINF:-1 tvg-id="" tvg-name="Cailliou(Catcast)" tvg-logo="https://i.ibb.co/Jj5Fv4Dp/Caillou-ve-kedisi.gif" group-title="Çizgi Film",Cailliou(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/cailliou.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sevimliler(Catcast)" tvg-logo="https://i.ibb.co/KjchJNwS/Sevimliler-TV-ve-Ne-eli-Karakterler.png" group-title="Çizgi Film",Sevimliler(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/sevimliler.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tom ve Jerry(Catcast)" tvg-logo="https://i.ibb.co/ZpJj2wBL/Tom-ve-Jerry-TV-Maceras.png" group-title="Çizgi Film",Tom ve Jerry(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/tomjerry.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="https://i.ibb.co/kghcVHJd/kanal77.jpg" group-title="Ulusal",Kanal 7
 http://193.123.61.120:3000/kanal/kanal7tvcanli
 #EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="https://i.ibb.co/7dq7hDSy/kanald.jpg" group-title="Ulusal",Euro D
@@ -602,6 +646,8 @@ http://193.123.61.120:3000/kanal/TRTAvaz
 http://193.123.61.120:3000/kanal/nowtvturkiye
 #EXTINF:-1 tvg-id="" tvg-name="Kral Akustik TV" tvg-logo="https://i.ibb.co/d4JNfJyB/kralmmzk.jpg" group-title="Müzik",Kral Akustik TV
 http://193.123.61.120:3000/kanal/kralmuzik_1
+#EXTINF:-1 tvg-id="" tvg-name="Music 1 TV(Catcast)" tvg-logo="https://i.ibb.co/ynrZxVft/Neon-K-reli-M-zik-Kanal-Logosu.png" group-title="Müzik",Music 1 TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/Music1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euro News" tvg-logo="https://i.ibb.co/G4rvhg5Y/euronewsss.jpg" group-title="Yabancı",Euro News
 http://193.123.61.120:3000/kanal/euronews
 #EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="https://i.ibb.co/GvHWWV9w/skynewsss.jpg" group-title="Yabancı",Sky News
@@ -704,6 +750,8 @@ http://193.123.61.120:3000/kanal/Nilradyotv
 http://193.123.61.120:3000/kanal/KozaTv
 #EXTINF:-1 tvg-id="" tvg-name="EgeMax" tvg-logo="https://i.ibb.co/VpLNSdL3/egemexxxx.jpg" group-title="Yerel",EgeMax
 http://193.123.61.120:3000/kanal/egemaxtv
+#EXTINF:-1 tvg-id="" tvg-name="Cankiri Postasi" tvg-logo="https://i.ibb.co/XfPDKtj9/cankiri.jpg" group-title="Yerel",Cankiri Postasi
+http://193.123.61.120:3000/kanal/cankiripostasi
 #EXTINF:-1 tvg-id="" tvg-name="Diyanet TV" tvg-logo="https://i.ibb.co/SDFLjwZc/diyanettv.jpg" group-title="Dini",Diyanet TV
 http://193.123.61.120:3000/kanal/diyanettv
 #EXTINF:-1 tvg-id="" tvg-name="Semerkant TV" tvg-logo="https://i.ibb.co/tMjkZY2Z/semerkanttv.jpg" group-title="Dini",Semerkant TV
