@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TVR-1" tvg-logo="" group-title="",TVR-1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-2" tvg-logo="" group-title="",TVR-2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-3" tvg-logo="" group-title="",TVR-3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-Info" tvg-logo="" group-title="",TVR-Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-Cultural" tvg-logo="" group-title="",TVR-Cultural
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-Folclor" tvg-logo="" group-title="",TVR-Folclor
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-Sport" tvg-logo="" group-title="",TVR-Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-Cluj" tvg-logo="" group-title="",TVR-Cluj
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-Craiova" tvg-logo="" group-title="",TVR-Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-Iasi" tvg-logo="" group-title="",TVR-Iasi
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-Timisoara" tvg-logo="" group-title="",TVR-Timisoara
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-Tgmures" tvg-logo="" group-title="",TVR-Tgmures
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-Moldova" tvg-logo="" group-title="",TVR-Moldova
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR-International" tvg-logo="" group-title="",TVR-International
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist.m3u8
