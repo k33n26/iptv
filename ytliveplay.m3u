@@ -277,6 +277,8 @@ http://193.123.61.120:3000/kanal/animalplanet_1
 http://193.123.61.120:3000/kanal/animalplanet_2
 #EXTINF:-1 tvg-id="" tvg-name="Forces Of Nature" tvg-logo="https://i.ibb.co/JFv1cWVc/forcesnature.jpg" group-title="Belgesel",Forces Of Nature
 http://193.123.61.120:3000/kanal/ForcesOfNature
+#EXTINF:-1 tvg-id="" tvg-name="Street Food Life" tvg-logo="https://i.ibb.co/rG29w8sK/streetfood.jpg" group-title="Belgesel",Street Food Life
+http://193.123.61.120:3000/kanal/StreetFoodLife0
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://i.ibb.co/Q3KgDwZk/halktvvv.jpg" group-title="Haber",Halk TV
 http://193.123.61.120:3000/kanal/Halktvkanali
 #EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="https://i.ibb.co/PzW4KsRB/szctvv.jpg" group-title="Haber",SZC TV
