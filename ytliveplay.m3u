@@ -363,6 +363,10 @@ https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/rocky.m3
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/senersen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TurkuzPlay TV(Catcast)" tvg-logo="https://i.ibb.co/JDs2ThC/Turkuz-Play-TV-E-lence-D-nyas.png" group-title="Sinema",TurkuzPlay TV(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/turkuzplay1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sirius HD TV(Catcast)" tvg-logo="" group-title="Sinema",Sirius HD TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/siriushd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sirius Klasika TV(Catcast)" tvg-logo="" group-title="Sinema",Sirius Klasika TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/siriusklasika.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gulsah Film" tvg-logo="https://i.ibb.co/j1QvDp1/gulsahhflm.jpg" group-title="Sinema",Gulsah Film
 http://193.123.61.120:3000/kanal/GulsahFilmOfficial
 #EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Filmleri ve Sahneleri " tvg-logo="https://i.ibb.co/wFp9932M/kmlsnlll.jpg" group-title="Sinema",Kemal Sunal Filmleri ve Sahneleri
