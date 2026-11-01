@@ -337,6 +337,16 @@ http://193.123.61.120:3000/kanal/OnlarTV
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/baska_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleZEN TV(Kick.tv)" tvg-logo="https://i.ibb.co/kgFJBQt2/h-KPKM.jpg" group-title="Sinema",TeleZEN TV(Kick.tv)
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/telezentvchannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVxx(Kick.tv)" tvg-logo="" group-title="Sinema",TVxx(Kick.tv)
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/tvxturkiye.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Efsane TV(Kick.tv)" tvg-logo="" group-title="Sinema",Efsane TV(Kick.tv)
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/efsanetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Monarch Turkiye TV(Kick.tv)" tvg-logo="" group-title="Sinema",Monarch Turkiye TV(Kick.tv)
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/monarchtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Resurrection Channel(Kick.tv)" tvg-logo="" group-title="Sinema",Resurrection Channel(Kick.tv)
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/resurrection.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cevizli TV(Kick.tv)" tvg-logo="" group-title="Sinema",Cevizli TV(Kick.tv)
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/cevizlitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fanatik Yeşilçam(Catcast)" tvg-logo="https://i.ibb.co/gXy4SjS/Fanatik-Ye-il-am-TV-Logosu.png" group-title="Sinema",Fanatik Yeşilçam(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/fanatikyesilcam.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı(Catcast)" tvg-logo="https://i.ibb.co/C5GLHx9h/Hababam-S-n-f-TV-Retro-Afi-i.png" group-title="Sinema",Hababam Sınıfı(Catcast)
