@@ -279,6 +279,10 @@ http://193.123.61.120:3000/kanal/animalplanet_2
 http://193.123.61.120:3000/kanal/ForcesOfNature
 #EXTINF:-1 tvg-id="" tvg-name="Street Food Life" tvg-logo="https://i.ibb.co/rG29w8sK/streetfood.jpg" group-title="Belgesel",Street Food Life
 http://193.123.61.120:3000/kanal/StreetFoodLife0
+#EXTINF:-1 tvg-id="" tvg-name="NatureTime Türkçe" tvg-logo="" group-title="Belgesel",NatureTime Türkçe
+http://45.88.139.156/yt1/naturtime.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatureTime Türkçe-2" tvg-logo="" group-title="Belgesel",NatureTime Türkçe-2
+http://45.88.139.156/yt1/naturtime2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://i.ibb.co/Q3KgDwZk/halktvvv.jpg" group-title="Haber",Halk TV
 http://193.123.61.120:3000/kanal/Halktvkanali
 #EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="https://i.ibb.co/PzW4KsRB/szctvv.jpg" group-title="Haber",SZC TV
@@ -640,6 +644,8 @@ https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/cailliou
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/sevimliler.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tom ve Jerry(Catcast)" tvg-logo="https://i.ibb.co/ZpJj2wBL/Tom-ve-Jerry-TV-Maceras.png" group-title="Çizgi Film",Tom ve Jerry(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/tomjerry.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sealook" tvg-logo="" group-title="Çizgi Film",Sealook
+http://193.123.61.120:3000/kanal/sealookofficial
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="https://i.ibb.co/kghcVHJd/kanal77.jpg" group-title="Ulusal",Kanal 7
 http://193.123.61.120:3000/kanal/kanal7tvcanli
 #EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="https://i.ibb.co/7dq7hDSy/kanald.jpg" group-title="Ulusal",Euro D
