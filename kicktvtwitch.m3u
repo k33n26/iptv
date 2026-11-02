@@ -29,6 +29,8 @@ https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/tvxtur
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/van_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VTVcanal 8" tvg-logo="" group-title="Kick.tv",VTVCanal 8
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/vtvcanal8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sirius HD" tvg-logo="" group-title="Kick.tv",Sirius HD
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/siriosHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dem Tv Global" tvg-logo="" group-title="Twitch.tv",Dem Tv Global
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/demtvglobal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HurTurk Medya TV" tvg-logo="" group-title="Twitch.tv",HurTurk Medya TV
@@ -38,7 +40,7 @@ https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/iceltv
 #EXTINF:-1 tvg-id="" tvg-name="Kayseri TV" tvg-logo="" group-title="Twitch.tv",Kayseri TV
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/kayseri_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Serhat TV" tvg-logo="" group-title="Twitch.tv",Serhat TV
-https://github.com/k33n26/catcast/blob/main/out/best/serhat_tv.m3u8
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/serhat_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sgstream TV" tvg-logo="" group-title="Twitch.tv",Sgstream TV
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/sgtvstream.m3u8
 
