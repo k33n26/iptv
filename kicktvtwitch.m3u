@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Başka TV" tvg-logo="" group-title="Kick.tv",Başka TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/baska_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal C" tvg-logo="" group-title="Kick.tv",Canal C
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/canalc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cevizli TV" tvg-logo="" group-title="Kick.tv",Cevizli TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/cevizlitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Efsane TV" tvg-logo="" group-title="Kick.tv",Efsane TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/efsanetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LvDiez TV" tvg-logo="" group-title="Kick.tv",LvDiez TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/lvdiez.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Monarch TV" tvg-logo="" group-title="Kick.tv",Monarch TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/monarchtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nexus Channel" tvg-logo="" group-title="Kick.tv",Nexus Channel
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/nexuschannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Resurrection Channel" tvg-logo="" group-title="Kick.tv",Resurrection Channel
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/resurrection.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVBJ1" tvg-logo="" group-title="Kick.tv",TVBJ1
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/sfguru18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="teleMEDELLIN" tvg-logo="" group-title="Kick.tv",teleMEDELLIN
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/telemedellin.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="telezen TV" tvg-logo="" group-title="Kick.tv",telezen TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/telezentvchannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TPA TV" tvg-logo="" group-title="Kick.tv",TPA TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/tpa_online.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVx Türkiye" tvg-logo="" group-title="Kick.tv",TVx Türkiye
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/tvxturkiye.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Van TV" tvg-logo="" group-title="Kick.tv",Van TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/van_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTVcanal 8" tvg-logo="" group-title="Kick.tv",VTVCanal 8
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/vtvcanal8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dem Tv Global" tvg-logo="" group-title="Twitch.tv",Dem Tv Global
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/demtvglobal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HurTurk Medya TV" tvg-logo="" group-title="Twitch.tv",HurTurk Medya TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/hurturkmedya.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="İçel Mersin TV" tvg-logo="" group-title="Twitch.tv",İçel Mersin TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/iceltvmersin.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kayseri TV" tvg-logo="" group-title="Twitch.tv",Kayseri TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/kayseri_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Serhat TV" tvg-logo="" group-title="Twitch.tv",Serhat TV
+https://github.com/k33n26/catcast/blob/main/out/best/serhat_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sgstream TV" tvg-logo="" group-title="Twitch.tv",Sgstream TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/sgtvstream.m3u8
+
