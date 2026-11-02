@@ -347,6 +347,8 @@ https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/monarc
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/resurrection.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cevizli TV(Kick.tv)" tvg-logo="" group-title="Sinema",Cevizli TV(Kick.tv)
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/cevizlitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Serhat TV(Twitch.tv)" tvg-logo="" group-title="Sinema",Serhat TV(Twitch.tv)
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/serhat_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fanatik Yeşilçam(Catcast)" tvg-logo="https://i.ibb.co/gXy4SjS/Fanatik-Ye-il-am-TV-Logosu.png" group-title="Sinema",Fanatik Yeşilçam(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/fanatikyesilcam.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hababam Sınıfı(Catcast)" tvg-logo="https://i.ibb.co/C5GLHx9h/Hababam-S-n-f-TV-Retro-Afi-i.png" group-title="Sinema",Hababam Sınıfı(Catcast)
