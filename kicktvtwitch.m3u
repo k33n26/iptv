@@ -31,6 +31,8 @@ https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/van_tv
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/vtvcanal8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sirius HD" tvg-logo="" group-title="Kick.tv",Sirius HD
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/siriosHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tunc Vizyon" tvg-logo="" group-title="Kick.tv",Tunc Vizyon
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/tuncvizyon.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dem Tv Global" tvg-logo="" group-title="Twitch.tv",Dem Tv Global
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/demtvglobal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HurTurk Medya TV" tvg-logo="" group-title="Twitch.tv",HurTurk Medya TV
