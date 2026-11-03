@@ -403,6 +403,8 @@ http://193.123.61.120:3000/kanal/ErsoyFilmcilik
 http://193.123.61.120:3000/kanal/Taff-Pictures
 #EXTINF:-1 tvg-id="" tvg-name="Aksiyon Filmleri" tvg-logo="https://i.ibb.co/nqqzTyyt/aksiyon-filmlertri.jpg" group-title="Sinema",Aksiyon Filmleri
 http://193.123.61.120:3000/kanal/TurkAksiyonFilmleri
+#EXTINF:-1 tvg-id="" tvg-name="Topkapı Film" tvg-logo="" group-title="Sinema",Topkapı Film
+http://193.123.61.120:3000/kanal/TopkapiFilmOfficial
 #EXTINF:-1 tvg-id="" tvg-name="Somine TV-1" tvg-logo="https://i.ibb.co/Ps6pn2mk/foboss.jpg" group-title="Dinlenme",Somine Tv-1
 http://193.123.61.120:3000/kanal/FobosPlanet_1
 #EXTINF:-1 tvg-id="" tvg-name="Somine TV-2" tvg-logo="https://i.ibb.co/Ps6pn2mk/foboss.jpg" group-title="Dinlenme",Somine Tv-2
