@@ -652,6 +652,8 @@ http://193.123.61.120:3000/kanal/sealookofficial
 http://193.123.61.120:3000/kanal/kanal7tvcanli
 #EXTINF:-1 tvg-id="" tvg-name="Euro D" tvg-logo="https://i.ibb.co/7dq7hDSy/kanald.jpg" group-title="Ulusal",Euro D
 http://193.123.61.120:3000/kanal/kanald
+#EXTINF:-1 tvg-id="" tvg-name="atv avrupa" tvg-logo="https://i.ibb.co/m5Vskwjp/atvavrupa.jpg" group-title="Ulusal",atv avrupa
+http://193.123.61.120:3000/kanal/atvturkiye
 #EXTINF:-1 tvg-id="" tvg-name="Star Tv" tvg-logo="https://i.ibb.co/vCnjxfHW/startvv.jpg" group-title="Ulusal",Star Tv
 http://193.123.61.120:3000/kanal/StarTVResmi
 #EXTINF:-1 tvg-id="" tvg-name="aTv" tvg-logo="https://i.ibb.co/j9gYmhvW/atvvv.jpg" group-title="Ulusal",aTv
