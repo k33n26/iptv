@@ -187,14 +187,20 @@ http://193.123.61.120:3000/kanal/25FilmTR
 http://193.123.61.120:3000/kanal/MucizeDoktor
 #EXTINF:-1 tvg-id="" tvg-name="Yüksek Sosyete" tvg-logo="https://i.ibb.co/wh4jKRgM/yukseksosyete.jpg" group-title="Dizi",Yüksek Sosyete
 http://193.123.61.120:3000/kanal/YuksekSosyete
+#EXTINF:-1 tvg-id="" tvg-name="Dmax Ed Stafford(Catcast)" tvg-logo="https://i.ibb.co/yc9n7LNL/hqdefault.jpg" group-title="Belgesel",Dmax Ed Stafford(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/ed-stafford.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SiriusNature TV(Catcast)" tvg-logo="" group-title="Belgesel",SiriusNature TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/siriusnature.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SiriusPlanet TV(Catcast)" tvg-logo="" group-title="Belgesel",SiriusPlanet TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/siriusplanet.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alvinovcu TV(Catcast)" tvg-logo="" group-title="Belgesel",Alvinovcu TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/alvinovcu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/bizimevtv2000
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
 http://193.123.61.120:3000/kanal/tgrtbelgeseltv
 #EXTINF:-1 tvg-id="" tvg-name="Toprak TV" tvg-logo="https://i.ibb.co/B5PBmfpd/topraktvv.jpg" group-title="Belgesel",Toprak TV
 http://193.123.61.120:3000/kanal/topraktvtarim.official
-#EXTINF:-1 tvg-id="" tvg-name="Dmax Ed Stafford(Catcast)" tvg-logo="https://i.ibb.co/yc9n7LNL/hqdefault.jpg" group-title="Belgesel",Dmax Ed Stafford(Catcast)
-https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/ed-stafford.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tarihin Arka Odası" tvg-logo="https://i.ibb.co/CpmPkDhS/tarihhh.jpg" group-title="Belgesel",Tarihin Arka Odası
 http://193.123.61.120:3000/kanal/tarihinarkaodasitv
 #EXTINF:-1 tvg-id="" tvg-name="Nhất - My Bushcraft" tvg-logo="https://i.ibb.co/LdvFhzGr/buscraft.jpg" group-title="Belgesel",Nhất - My Bushcraft
@@ -217,7 +223,7 @@ http://193.123.61.120:3000/kanal/NatGeoAnimals_1
 http://193.123.61.120:3000/kanal/NatGeoAnimals_2
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Kids-1" tvg-logo="https://i.ibb.co/v4PwtHsX/natgeokids.jpg" group-title="Belgesel",National Geographic Kids-1
 http://193.123.61.120:3000/kanal/natgeokids_1
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Kids-1" tvg-logo="https://i.ibb.co/v4PwtHsX/natgeokids.jpg" group-title="Belgesel",National Geographic Kids-1
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Kids-2" tvg-logo="https://i.ibb.co/v4PwtHsX/natgeokids.jpg" group-title="Belgesel",National Geographic Kids-2
 http://193.123.61.120:3000/kanal/natgeokids_2
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel-1" tvg-logo="https://i.ibb.co/gZvKs4yZ/discoveryww.jpg" group-title="Belgesel",Discovery Channel-1
 http://193.123.61.120:3000/kanal/discovery_1
@@ -385,6 +391,10 @@ https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/turkuzpl
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/siriushd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sirius Klasika TV(Catcast)" tvg-logo="" group-title="Sinema",Sirius Klasika TV(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/siriusklasika.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Flux TV(Catcast)" tvg-logo="" group-title="Sinema",Flux TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/fluxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yansıma Nostalji TV(Catcast)" tvg-logo="" group-title="Sinema",Yansıma Nostalji TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/yansimanostalji.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gulsah Film" tvg-logo="https://i.ibb.co/j1QvDp1/gulsahhflm.jpg" group-title="Sinema",Gulsah Film
 http://193.123.61.120:3000/kanal/GulsahFilmOfficial
 #EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Filmleri ve Sahneleri " tvg-logo="https://i.ibb.co/wFp9932M/kmlsnlll.jpg" group-title="Sinema",Kemal Sunal Filmleri ve Sahneleri
@@ -646,6 +656,8 @@ https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/cailliou
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/sevimliler.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tom ve Jerry(Catcast)" tvg-logo="https://i.ibb.co/ZpJj2wBL/Tom-ve-Jerry-TV-Maceras.png" group-title="Çizgi Film",Tom ve Jerry(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/tomjerry.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmbox Çocuk(Catcast)" tvg-logo="" group-title="Çizgi Film",Filmbox Çocuk(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/filmboxcocuk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sealook" tvg-logo="" group-title="Çizgi Film",Sealook
 http://193.123.61.120:3000/kanal/sealookofficial
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="https://i.ibb.co/kghcVHJd/kanal77.jpg" group-title="Ulusal",Kanal 7
