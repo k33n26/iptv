@@ -181,8 +181,10 @@ http://193.123.61.120:3000/kanal/MasumiyetDizi
 http://193.123.61.120:3000/kanal/KuzeyYildiziDizi
 #EXTINF:-1 tvg-id="" tvg-name="İnci Taneleri" tvg-logo="https://i.ibb.co/PvqPwGXq/incitaneleri.jpg" group-title="Dizi",İnci Taneleri
 http://193.123.61.120:3000/kanal/incitaneleribkm
+#EXTINF:-1 tvg-id="" tvg-name="Tolgshow Filtresiz" tvg-logo="https://i.ibb.co/VY07kQbc/tolgshov.jpg" group-title="Dizi",Tolgshow Filtresiz
+http://193.123.61.120:3000/kanal/25FilmTR_1
 #EXTINF:-1 tvg-id="" tvg-name="Tolgshow Yıldızlar" tvg-logo="https://i.ibb.co/VY07kQbc/tolgshov.jpg" group-title="Dizi",Tolgshow Yıldızlar
-http://193.123.61.120:3000/kanal/25FilmTR
+http://193.123.61.120:3000/kanal/25FilmTR_2
 #EXTINF:-1 tvg-id="" tvg-name="Mucize Doktor" tvg-logo="https://i.ibb.co/9mdNwL3c/mucizedoktor.jpg" group-title="Dizi",Mucize Doktor
 http://193.123.61.120:3000/kanal/MucizeDoktor
 #EXTINF:-1 tvg-id="" tvg-name="Yüksek Sosyete" tvg-logo="https://i.ibb.co/wh4jKRgM/yukseksosyete.jpg" group-title="Dizi",Yüksek Sosyete
@@ -652,6 +654,8 @@ http://193.123.61.120:3000/kanal/KüçükKamyonLeo_6
 http://193.123.61.120:3000/kanal/IstanbulMuhafzlarResmiKanal
 #EXTINF:-1 tvg-id="" tvg-name="Grafi2000 Çocuk" tvg-logo="https://i.ibb.co/C3gdvWnC/graficocuk.jpg" group-title="Çizgi Film",Grafi2000 Çocuk
 http://193.123.61.120:3000/kanal/grafi2000cocuk
+#EXTINF:-1 tvg-id="" tvg-name="Booba Türkçe – Çocuk Çizgi Film" tvg-logo="" group-title="Çizgi Film",Booba Türkçe – Çocuk Çizgi Film
+http://193.123.61.120:3000/kanal/BoobaTurkce
 #EXTINF:-1 tvg-id="" tvg-name="Cailliou(Catcast)" tvg-logo="https://i.ibb.co/Jj5Fv4Dp/Caillou-ve-kedisi.gif" group-title="Çizgi Film",Cailliou(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/cailliou.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sevimliler(Catcast)" tvg-logo="https://i.ibb.co/KjchJNwS/Sevimliler-TV-ve-Ne-eli-Karakterler.png" group-title="Çizgi Film",Sevimliler(Catcast)
