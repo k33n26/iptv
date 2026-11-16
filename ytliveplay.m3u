@@ -395,6 +395,8 @@ https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/siriuskl
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/fluxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yansıma Nostalji TV(Catcast)" tvg-logo="" group-title="Sinema",Yansıma Nostalji TV(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/yansimanostalji.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Şaban TV" tvg-logo="" group-title="Sinema",Şaban TV
+https://canaktv.sabantv.net:3996/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gulsah Film" tvg-logo="https://i.ibb.co/j1QvDp1/gulsahhflm.jpg" group-title="Sinema",Gulsah Film
 http://193.123.61.120:3000/kanal/GulsahFilmOfficial
 #EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Filmleri ve Sahneleri " tvg-logo="https://i.ibb.co/wFp9932M/kmlsnlll.jpg" group-title="Sinema",Kemal Sunal Filmleri ve Sahneleri
