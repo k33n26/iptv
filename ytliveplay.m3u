@@ -676,9 +676,9 @@ http://193.123.61.120:3000/kanal/atvturkiye
 http://193.123.61.120:3000/kanal/StarTVResmi
 #EXTINF:-1 tvg-id="" tvg-name="aTv" tvg-logo="https://i.ibb.co/j9gYmhvW/atvvv.jpg" group-title="Ulusal",aTv
 http://193.123.61.120:3000/kanal/atvturkiye
-#EXTINF:-1 tvg-id="" tvg-name="Show TV" tvg-logo="https://i.ibb.co/bj7p7Czg/showtvvv.jpg" group-title="Ulusal",Show TV
+#EXTINF:-1 tvg-id="" tvg-name="Show Turk" tvg-logo="https://i.ibb.co/bj7p7Czg/showtvvv.jpg" group-title="Ulusal",Show Turk
 http://193.123.61.120:3000/kanal/showtv_2
-#EXTINF:-1 tvg-id="" tvg-name="Show Turk" tvg-logo="https://i.ibb.co/vvgs4PQR/Show-Turk-logo-svg.png" group-title="Ulusal",Show Turk
+#EXTINF:-1 tvg-id="" tvg-name="Show TV" tvg-logo="https://i.ibb.co/vvgs4PQR/Show-Turk-logo-svg.png" group-title="Ulusal",Show TV
 http://193.123.61.120:3000/kanal/showtv_1
 #EXTINF:-1 tvg-id="" tvg-name="Show Max" tvg-logo="https://i.ibb.co/jvPkjf5m/Show-MAX-logo-svg.png" group-title="Ulusal",Show Max
 http://193.123.61.120:3000/kanal/showtv_3
@@ -793,7 +793,9 @@ http://193.123.61.120:3000/kanal/ankarabbld
 #EXTINF:-1 tvg-id="" tvg-name="Nil RTV" tvg-logo="https://i.ibb.co/VYQJG9mF/nilrtv.jpg" group-title="Yerel",Nil RTV
 http://193.123.61.120:3000/kanal/Nilradyotv
 #EXTINF:-1 tvg-id="" tvg-name="Koza TV" tvg-logo="https://i.ibb.co/4zx53NY/kozatv.jpg" group-title="Yerel",Koza TV
-http://193.123.61.120:3000/kanal/KozaTv
+http://193.123.61.120:3000/kanal/KozaTv_1
+#EXTINF:-1 tvg-id="" tvg-name="Koza TV(c)" tvg-logo="https://i.ibb.co/4zx53NY/kozatv.jpg" group-title="Yerel",Koza TV(c)
+http://193.123.61.120:3000/kanal/KozaTv_2
 #EXTINF:-1 tvg-id="" tvg-name="EgeMax" tvg-logo="https://i.ibb.co/VpLNSdL3/egemexxxx.jpg" group-title="Yerel",EgeMax
 http://193.123.61.120:3000/kanal/egemaxtv
 #EXTINF:-1 tvg-id="" tvg-name="Cankiri Postasi" tvg-logo="https://i.ibb.co/XfPDKtj9/cankiri.jpg" group-title="Yerel",Cankiri Postasi
