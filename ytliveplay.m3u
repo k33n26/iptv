@@ -189,6 +189,8 @@ http://193.123.61.120:3000/kanal/25FilmTR_2
 http://193.123.61.120:3000/kanal/MucizeDoktor
 #EXTINF:-1 tvg-id="" tvg-name="Yüksek Sosyete" tvg-logo="https://i.ibb.co/wh4jKRgM/yukseksosyete.jpg" group-title="Dizi",Yüksek Sosyete
 http://193.123.61.120:3000/kanal/YuksekSosyete
+#EXTINF:-1 tvg-id="" tvg-name="TRT Nostalji Dizi" tvg-logo="" group-title="Dizi",TRT Nostalji Dizi
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dmax Ed Stafford(Catcast)" tvg-logo="https://i.ibb.co/yc9n7LNL/hqdefault.jpg" group-title="Belgesel",Dmax Ed Stafford(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/ed-stafford.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SiriusNature TV(Catcast)" tvg-logo="" group-title="Belgesel",SiriusNature TV(Catcast)
@@ -197,6 +199,8 @@ https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/siriusna
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/siriusplanet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alvinovcu TV(Catcast)" tvg-logo="" group-title="Belgesel",Alvinovcu TV(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/alvinovcu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GZT TV" tvg-logo="" group-title="Belgesel",GZT TV
+https://gzttv-live.lg.mncdn.com/gzttv-live/gzttv/chunklist_w733566454.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BizimEv TV" tvg-logo="https://i.ibb.co/LDyRNkYx/bizimevtvv.jpg" group-title="Belgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/bizimevtv2000
 #EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="https://i.ibb.co/mFrcvhZM/tgrtbelgesell.jpg" group-title="Belgesel",TGRT Belgesel
@@ -399,6 +403,14 @@ https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/fluxtv.m
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/yansimanostalji.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Şaban TV" tvg-logo="" group-title="Sinema",Şaban TV
 https://canaktv.sabantv.net:3996/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tabii TV" tvg-logo="" group-title="Sinema",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max TV(Zemmedya)" tvg-logo="" group-title="Sinema",Max TV(Zemmedya)
+https://zemmedya.com/free/hls/zem/Neo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MovieMax Yerli(Zemmedya)" tvg-logo="" group-title="Sinema",MovieMax Yerli(Zemmedya)
+https://zemmedya.com/free/hls/zem/tnt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sirius TV HD(Zemmedya)" tvg-logo="" group-title="Sinema",Sirius TV HD(Zemmedya)
+https://zemmedya.com/free/hls/zem/siriushdtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gulsah Film" tvg-logo="https://i.ibb.co/j1QvDp1/gulsahhflm.jpg" group-title="Sinema",Gulsah Film
 http://193.123.61.120:3000/kanal/GulsahFilmOfficial
 #EXTINF:-1 tvg-id="" tvg-name="Kemal Sunal Filmleri ve Sahneleri " tvg-logo="https://i.ibb.co/wFp9932M/kmlsnlll.jpg" group-title="Sinema",Kemal Sunal Filmleri ve Sahneleri
