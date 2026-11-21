@@ -800,6 +800,8 @@ http://193.123.61.120:3000/kanal/Bloomberg-News
 http://193.123.61.120:3000/kanal/Flightradar1
 #EXTINF:-1 tvg-id="" tvg-name="Iconic SXM Airport-Sint Maarten Maho Beach" tvg-logo="https://i.ibb.co/zh2FQhc0/flightradar.jpg" group-title="LiveCam",Iconic SXM Airport-Sint Maarten Maho Beach
 http://193.123.61.120:3000/kanal/Flightradar2
+#EXTINF:-1 tvg-id="" tvg-name="Visit Telluride, Colorado" tvg-logo="" group-title="LiveCam",Visit Telluride, Colorado
+http://193.123.61.120:3000/kanal/visittelluridecolorado
 #EXTINF:-1 tvg-id="" tvg-name="ABB TV" tvg-logo="https://i.ibb.co/wNzRYZKh/abbtv.jpg" group-title="Yerel",ABB TV
 http://193.123.61.120:3000/kanal/ankarabbld
 #EXTINF:-1 tvg-id="" tvg-name="Nil RTV" tvg-logo="https://i.ibb.co/VYQJG9mF/nilrtv.jpg" group-title="Yerel",Nil RTV
