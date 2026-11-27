@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Bizimkiler" tvg-logo="https://i.ibb.co/k6HvKhfV/Bizimkiler.png" group-title="Dizi",Bizimkiler
 http://193.123.61.120:3000/kanal/NostaljiTRT_2
+#EXTINF:-1 tvg-id="" tvg-name="Bizimkiler(Alt)" tvg-logo="https://i.ibb.co/k6HvKhfV/Bizimkiler.png" group-title="Dizi",Bizimkiler(Alt)
+http://45.88.139.156/yt1/bizimkiler.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bizimkiler(Catcast)" tvg-logo="https://i.ibb.co/k6HvKhfV/Bizimkiler.png" group-title="Dizi",Bizimkiler(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/bizimkiler2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Çiçek Taksi" tvg-logo="https://i.ibb.co/cj9Rt6g/cicektaksii.jpg" group-title="Dizi",Çiçek Taksi
@@ -297,6 +299,8 @@ http://45.88.139.156/yt1/naturtime.m3u8
 http://45.88.139.156/yt1/naturtime2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Halk TV" tvg-logo="https://i.ibb.co/Q3KgDwZk/halktvvv.jpg" group-title="Haber",Halk TV
 http://193.123.61.120:3000/kanal/Halktvkanali
+#EXTINF:-1 tvg-id="" tvg-name="Halkın Televizyonu" tvg-logo="https://i.ibb.co/Q3KgDwZk/halktvvv.jpg" group-title="Haber",Halkın Televizyonu
+http://193.123.61.120:3000/kanal/halktelevizyonucom
 #EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="https://i.ibb.co/PzW4KsRB/szctvv.jpg" group-title="Haber",SZC TV
 http://193.123.61.120:3000/kanal/Sozcutelevizyonu_2
 #EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-logo="https://i.ibb.co/Rpd2Yy3f/cnnturkk.jpg" group-title="Haber",CNN TURK
